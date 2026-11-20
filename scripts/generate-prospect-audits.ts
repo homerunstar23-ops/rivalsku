@@ -57,7 +57,7 @@ function isOnSale(row: ProductSnapshot): boolean {
 
 function productLabel(row: ProductSnapshot | ChangeEvent): string {
   const title = "title" in row ? row.title : row.product_title;
-  const variant = "variant_title" in row ? row.variant_title : row.variant_title;
+  const variant = row.variant_title;
   if (title && variant) return `${title} — ${variant}`;
   return title || variant || "Untitled";
 }
