@@ -1,0 +1,51 @@
+# RivalSKU on Fly.io
+# First time:
+#   fly launch --no-deploy --copy-config
+#   fly volumes create rivalsku_data --size 1 --region iad
+#   fly secrets set NEXT_PUBLIC_APP_URL=https://rivalsku.com
+#   fly deploy
+#
+# Keep auto_stop_machines off so the in-process 24/7 scanner stays alive.
+
+app = "rivalsku"
+primary_region = "iad"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  NODE_ENV = "production"
+  PORT = "3000"
+  DB_PATH = "/app/data/rivalsku.db"
+  SCAN_INTERVAL_MINUTES = "30"
+  SCAN_CONCURRENCY = "2"
+  SCAN_DELAY_MS = "500"
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = false
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ["app"]
+
+  [http_service.concurrency]
+    type = "requests"
+    soft_limit = 200
+    hard_limit = 250
+
+  [[http_service.checks]]
+    grace_period = "40s"
+    interval = "30s"
+    method = "GET"
+    path = "/api/health"
+    timeout = "5s"
+
+[[vm]]
+  memory = "512mb"
+  cpu_kind = "shared"
+  cpus = 1
+
+[mounts]
+  source = "rivalsku_data"
+  destination = "/app/data"

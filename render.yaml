@@ -1,0 +1,46 @@
+# RivalSKU on Render — one-click from this file.
+# 1. New > Blueprint, point at this repo.
+# 2. Attach is already declared; set secret env vars in the dashboard.
+# 3. The web service runs the 24/7 scanner in-process (SCAN_INTERVAL_MINUTES).
+
+services:
+  - type: web
+    name: rivalsku
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DB_PATH
+        value: /app/data/rivalsku.db
+      - key: SCAN_INTERVAL_MINUTES
+        value: "30"
+      - key: SCAN_CONCURRENCY
+        value: "2"
+      - key: SCAN_DELAY_MS
+        value: "500"
+      - key: NEXT_PUBLIC_APP_URL
+        sync: false
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_WEBHOOK_SECRET
+        sync: false
+      - key: STRIPE_PRICE_STARTER
+        sync: false
+      - key: STRIPE_PRICE_GROWTH
+        sync: false
+      - key: STRIPE_PRICE_SCALE
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: ALERT_FROM_EMAIL
+        value: RivalSKU <hello@rivalsku.com>
+      - key: SLACK_WEBHOOK_URL
+        sync: false
+    disk:
+      name: rivalsku-data
+      mountPath: /app/data
+      sizeGB: 1
