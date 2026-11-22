@@ -7,3 +7,7 @@ out/
 data/*.db*
 *.log
 audits/
+
+# DealScout daily reports (sample kept in docs/dealscout)
+reports/
+tsconfig.tsbuildinfo

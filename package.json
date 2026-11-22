@@ -9,7 +9,9 @@
     "scan": "tsx scripts/scan-all.ts",
     "seed": "tsx scripts/seed.ts",
     "import-prospects": "tsx scripts/import-prospects.ts",
-    "generate-audits": "tsx scripts/generate-prospect-audits.ts"
+    "generate-audits": "tsx scripts/generate-prospect-audits.ts",
+    "dealscout": "tsx scripts/dealscout.ts",
+    "test:dealscout": "tsx --test src/dealscout/__tests__/*.test.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.10.0",

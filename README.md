@@ -137,3 +137,24 @@ src/app/page.tsx         Landing page
 src/app/dashboard        Workspace UI
 src/app/api/*            REST endpoints
 ```
+
+## DealScout (resale arbitrage scanner, v1)
+
+DealScout sits beside RivalSKU (`src/dealscout/`, `ds_*` tables in the same SQLite file).
+It only **recommends** deals; it never buys anything.
+
+```bash
+npm run dealscout        # paper run: writes reports/dealscout/YYYY-MM-DD.md (+ .json)
+npm run test:dealscout   # fee engine, filters and adapter tests
+```
+
+- `fees.ts`: 2026 US FBA fee engine (non-peak and Oct 15–Jan 14 peak cards, 3.5% fuel surcharge,
+  referral by category, size tiers and dimensional weight, storage incl. Q4, prep $0.65/unit,
+  inbound $0.40/lb, 7% FL sales tax unless `DEALSCOUT_RESALE_CERT=1`, 2% cashback, max-buy solver).
+- `filters.ts`: ROI ≥ 30%, profit ≥ $4, ≥ 30 sales/mo, price within 15% of 90-day average,
+  Amazon not on listing, ≤ 15 offers, no hazmat, blocked brands; SP-API gating check later.
+- `sources/`: Keepa (`KEEPA_API_KEY`), Best Buy (`BESTBUY_API_KEY`), Walmart Affiliate
+  (`WALMART_CONSUMER_ID`, `WALMART_PRIVATE_KEY`, `WALMART_KEY_VERSION`, optional `WALMART_PUBLISHER_ID`),
+  and an eBay channel built on RivalSKU's Shopify scans (optional `EBAY_CLIENT_ID`/`EBAY_CLIENT_SECRET`).
+  Missing keys are skipped and noted in the report.
+- Sample report: `docs/dealscout/sample-morning-report-2026-11-22.md`.
