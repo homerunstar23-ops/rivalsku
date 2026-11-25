@@ -1,0 +1,3863 @@
+{
+  "index": {
+    "generatedAt": "2026-11-25T14:14:50.228Z",
+    "windowStart": "2026-11-20T12:36:12.666Z",
+    "windowEnd": "2026-11-25T12:38:27.446Z",
+    "overall": {
+      "totalStores": 80,
+      "activeStores": 78,
+      "storesRunningSales": 64,
+      "totalProducts": 10074,
+      "totalVariants": 62889,
+      "totalOnSaleProducts": 3430,
+      "pctCatalogOnSale": 34,
+      "avgDiscountPct": 26.4,
+      "maxDiscountPct": 85.1,
+      "totalOosVariants": 14927,
+      "totalEvents": 12985,
+      "totalPriceDrops": 4532,
+      "totalSalesStarted": 3649,
+      "totalNewProducts": 342,
+      "totalStockoutEvents": 1588,
+      "totalBannerChanges": 11
+    },
+    "verticals": [
+      {
+        "vertical": "Home Goods",
+        "stores": 20,
+        "storesRunningSales": 19,
+        "products": 2740,
+        "onSaleProducts": 1217,
+        "pctCatalogOnSale": 44.4,
+        "variants": 23385,
+        "oosVariants": 5805,
+        "avgDiscountPct": 31,
+        "maxDiscountPct": 77.5,
+        "priceDrops": 811,
+        "salesStarted": 634,
+        "newProducts": 61,
+        "stockouts": 387
+      },
+      {
+        "vertical": "Apparel",
+        "stores": 20,
+        "storesRunningSales": 15,
+        "products": 4272,
+        "onSaleProducts": 1663,
+        "pctCatalogOnSale": 38.9,
+        "variants": 30453,
+        "oosVariants": 8148,
+        "avgDiscountPct": 33.1,
+        "maxDiscountPct": 85.1,
+        "priceDrops": 3693,
+        "salesStarted": 3012,
+        "newProducts": 247,
+        "stockouts": 1078
+      },
+      {
+        "vertical": "Beauty/Skincare",
+        "stores": 20,
+        "storesRunningSales": 17,
+        "products": 2038,
+        "onSaleProducts": 396,
+        "pctCatalogOnSale": 19.4,
+        "variants": 6278,
+        "oosVariants": 858,
+        "avgDiscountPct": 21.5,
+        "maxDiscountPct": 59.8,
+        "priceDrops": 25,
+        "salesStarted": 0,
+        "newProducts": 30,
+        "stockouts": 105
+      },
+      {
+        "vertical": "Wellness",
+        "stores": 18,
+        "storesRunningSales": 13,
+        "products": 1024,
+        "onSaleProducts": 154,
+        "pctCatalogOnSale": 15,
+        "variants": 2773,
+        "oosVariants": 116,
+        "avgDiscountPct": 18.6,
+        "maxDiscountPct": 82.6,
+        "priceDrops": 3,
+        "salesStarted": 3,
+        "newProducts": 4,
+        "stockouts": 18
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-20",
+        "label": "Fri, Nov 20",
+        "priceDrops": 856,
+        "salesStarted": 794,
+        "priceIncreases": 3,
+        "newProducts": 10,
+        "stockouts": 75,
+        "restocks": 231,
+        "bannerChanges": 1
+      },
+      {
+        "date": "2026-11-21",
+        "label": "Sat, Nov 21",
+        "priceDrops": 338,
+        "salesStarted": 331,
+        "priceIncreases": 275,
+        "newProducts": 140,
+        "stockouts": 389,
+        "restocks": 505,
+        "bannerChanges": 2
+      },
+      {
+        "date": "2026-11-22",
+        "label": "Sun, Nov 22",
+        "priceDrops": 329,
+        "salesStarted": 306,
+        "priceIncreases": 48,
+        "newProducts": 15,
+        "stockouts": 294,
+        "restocks": 48,
+        "bannerChanges": 0
+      },
+      {
+        "date": "2026-11-23",
+        "label": "Mon, Nov 23",
+        "priceDrops": 326,
+        "salesStarted": 233,
+        "priceIncreases": 180,
+        "newProducts": 13,
+        "stockouts": 282,
+        "restocks": 213,
+        "bannerChanges": 1
+      },
+      {
+        "date": "2026-11-24",
+        "label": "Tue, Nov 24",
+        "priceDrops": 2141,
+        "salesStarted": 1733,
+        "priceIncreases": 704,
+        "newProducts": 95,
+        "stockouts": 265,
+        "restocks": 475,
+        "bannerChanges": 2
+      },
+      {
+        "date": "2026-11-25",
+        "label": "Wed, Nov 25",
+        "priceDrops": 543,
+        "salesStarted": 252,
+        "priceIncreases": 19,
+        "newProducts": 69,
+        "stockouts": 283,
+        "restocks": 162,
+        "bannerChanges": 5
+      }
+    ],
+    "promoBanners": [
+      {
+        "domain": "sundayscaries.com",
+        "name": "Sunday Scaries",
+        "vertical": "Wellness",
+        "banner": "BLACK FRIDAY: SPEND $100 → GET $40 OFF | CODE: BFCM40",
+        "changedAt": "2026-11-25T12:38:08.310Z",
+        "previousBanner": "BLACK FRIDAY SALE: SPEND $100 → GET $40 OFF | USE CODE: BFCM40"
+      },
+      {
+        "domain": "winkylux.com",
+        "name": "Winky Lux",
+        "vertical": "Beauty/Skincare",
+        "banner": "30% OFF SITEWIDE PLUS FREE GIFT ON ORDERS $50+",
+        "changedAt": "2026-11-25T12:38:05.466Z",
+        "previousBanner": "EXCLUSIVE OFFER FOR LOYALTY MEMBERS"
+      },
+      {
+        "domain": "pacificabeauty.com",
+        "name": "Pacifica",
+        "vertical": "Beauty/Skincare",
+        "banner": "Black Friday · 25% off sitewide with code HOL26 · free shipping on orders $40+",
+        "changedAt": "2026-11-25T12:38:05.449Z",
+        "previousBanner": "11/11 Celebration Sale · use code ELEVEN at checkout through 11/23 · free shipping on orders over $40"
+      },
+      {
+        "domain": "rmsbeauty.com",
+        "name": "RMS Beauty",
+        "vertical": "Beauty/Skincare",
+        "banner": "SHOP THE 5-PIECE HOLIDAY MYSTERY BAG AND SAVE 50% >",
+        "changedAt": "2026-11-25T12:38:04.315Z",
+        "previousBanner": "LIMITED TIME: UP TO 50% OFF* SECRET STASH SELECTS >"
+      },
+      {
+        "domain": "marinelayer.com",
+        "name": "Marine Layer",
+        "vertical": "Apparel",
+        "banner": "25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+",
+        "changedAt": "2026-11-25T12:37:47.418Z",
+        "previousBanner": "25% Off Everything. Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+"
+      },
+      {
+        "domain": "cozyearth.com",
+        "name": "Cozy Earth",
+        "vertical": "Home Goods",
+        "banner": "Free Domestic Shipping on orders $200+ Shop HSA/FSA Eligible Products",
+        "changedAt": "2026-11-24T12:35:06.694Z",
+        "previousBanner": "Early Black Friday Deal 25% Off Bedding & Pajamas Free Domestic Shipping on orders $200+ Shop HSA/FSA Eligible Products"
+      },
+      {
+        "domain": "yearandday.com",
+        "name": "Year & Day",
+        "vertical": "Home Goods",
+        "banner": "Previous Black Friday Sale: 30% Off Sitewide Free Ground Shipping on Orders $150+ Refer a friend, Give $30 Get $30 off",
+        "changedAt": "2026-11-21T12:47:40.768Z",
+        "previousBanner": "Previous 20% Off Sitewide Free Ground Shipping on Orders $150+ Refer a friend, Give $30 Get $30 off"
+      },
+      {
+        "domain": "kineuphorics.com",
+        "name": "Kin Euphorics",
+        "vertical": "Wellness",
+        "banner": "Most eligible U.S. one-time orders ship free at $50+ after discounts Eligible U.S. orders ship free at $50+ after discounts Eligible subscriptions ship free",
+        "changedAt": "2026-11-21T12:47:33.148Z",
+        "previousBanner": "Most eligible U.S. one-time orders ship free at $50+ after discounts Eligible subscriptions ship free"
+      },
+      {
+        "domain": "hawkinsnewyork.com",
+        "name": "Hawkins New York",
+        "vertical": "Home Goods",
+        "banner": "20% OFF EVERYTHING. DISCOUNT APPLIED AT CHECKOUT.",
+        "changedAt": "2026-11-20T12:36:51.048Z",
+        "previousBanner": "FREE GROUND SHIPPING FOR ORDERS $199+ | SOME EXCLUSIONS APPLY"
+      },
+      {
+        "domain": "american-giant.com",
+        "name": "American Giant",
+        "vertical": "Apparel",
+        "banner": "FREE SHIPPING ON US ORDERS OVER $150+ The Loyalty Program. Start Earning Rewards Today.",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "balooliving.com",
+        "name": "Baloo Living",
+        "vertical": "Home Goods",
+        "banner": "A softer Black Friday Sale is here",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "birdwell.com",
+        "name": "Birdwell",
+        "vertical": "Apparel",
+        "banner": "Free Shipping On Orders $200+",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "coyuchi.com",
+        "name": "Coyuchi",
+        "vertical": "Home Goods",
+        "banner": "Free shipping on all orders",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "greats.com",
+        "name": "GREATS",
+        "vertical": "Apparel",
+        "banner": "Free standard shipping on all US orders over $125",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "hilma.co",
+        "name": "Hilma",
+        "vertical": "Wellness",
+        "banner": "Free shipping on orders $50+",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "hushblankets.com",
+        "name": "Hush Blankets",
+        "vertical": "Home Goods",
+        "banner": "40% Off Sitewide – Black Friday Sale. Shop Now Free Cloud Pillow with $199+ Purchase. Shop Now",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "linoto.com",
+        "name": "Linoto",
+        "vertical": "Home Goods",
+        "banner": "10% off orders over $450 with code: AUTUMN",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "skratchlabs.com",
+        "name": "Skratch Labs",
+        "vertical": "Wellness",
+        "banner": "Cookie Mix: Stock Up & Share",
+        "changedAt": null,
+        "previousBanner": null
+      },
+      {
+        "domain": "snowe.co",
+        "name": "SNOWE",
+        "vertical": "Home Goods",
+        "banner": "Free shipping on orders $150+",
+        "changedAt": null,
+        "previousBanner": null
+      }
+    ],
+    "topStoresByDiscountActivity": [
+      {
+        "domain": "american-giant.com",
+        "name": "American Giant",
+        "vertical": "Apparel",
+        "productCount": 197,
+        "activeSaleCount": 153,
+        "pctCatalogOnSale": 77.7,
+        "avgDiscountPct": 32.3,
+        "maxDiscountPct": 70,
+        "priceDrops": 1821,
+        "salesStarted": 1471,
+        "newProducts": 4,
+        "firstDiscountAt": "2026-11-24T12:34:33.911Z",
+        "promoBanner": "FREE SHIPPING ON US ORDERS OVER $150+ The Loyalty Program. Start Earning Rewards Today."
+      },
+      {
+        "domain": "tentree.com",
+        "name": "Tentree",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 201,
+        "pctCatalogOnSale": 80.4,
+        "avgDiscountPct": 24.8,
+        "maxDiscountPct": 30,
+        "priceDrops": 815,
+        "salesStarted": 793,
+        "newProducts": 5,
+        "firstDiscountAt": "2026-11-20T12:36:12.745Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "coyuchi.com",
+        "name": "Coyuchi",
+        "vertical": "Home Goods",
+        "productCount": 250,
+        "activeSaleCount": 204,
+        "pctCatalogOnSale": 81.6,
+        "avgDiscountPct": 25.8,
+        "maxDiscountPct": 62.8,
+        "priceDrops": 331,
+        "salesStarted": 331,
+        "newProducts": 17,
+        "firstDiscountAt": "2026-11-21T12:47:37.365Z",
+        "promoBanner": "Free shipping on all orders"
+      },
+      {
+        "domain": "snowe.co",
+        "name": "SNOWE",
+        "vertical": "Home Goods",
+        "productCount": 70,
+        "activeSaleCount": 68,
+        "pctCatalogOnSale": 97.1,
+        "avgDiscountPct": 30,
+        "maxDiscountPct": 30,
+        "priceDrops": 321,
+        "salesStarted": 301,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-22T12:44:30.556Z",
+        "promoBanner": "Free shipping on orders $150+"
+      },
+      {
+        "domain": "untuckit.com",
+        "name": "UNTUCKit",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 65,
+        "pctCatalogOnSale": 26,
+        "avgDiscountPct": 23.4,
+        "maxDiscountPct": 46.9,
+        "priceDrops": 282,
+        "salesStarted": 252,
+        "newProducts": 9,
+        "firstDiscountAt": "2026-11-25T12:37:54.200Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "hillhousehome.com",
+        "name": "Hill House Home",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 69,
+        "pctCatalogOnSale": 27.6,
+        "avgDiscountPct": 41.7,
+        "maxDiscountPct": 76.3,
+        "priceDrops": 246,
+        "salesStarted": 233,
+        "newProducts": 8,
+        "firstDiscountAt": "2026-11-23T12:40:12.781Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "lunya.co",
+        "name": "Lunya",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 183,
+        "pctCatalogOnSale": 73.2,
+        "avgDiscountPct": 27.9,
+        "maxDiscountPct": 50.2,
+        "priceDrops": 335,
+        "salesStarted": 106,
+        "newProducts": 36,
+        "firstDiscountAt": "2026-11-24T12:34:39.662Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "marinelayer.com",
+        "name": "Marine Layer",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 34,
+        "pctCatalogOnSale": 13.6,
+        "avgDiscountPct": 25,
+        "maxDiscountPct": 50.6,
+        "priceDrops": 140,
+        "salesStarted": 140,
+        "newProducts": 1,
+        "firstDiscountAt": "2026-11-24T12:34:35.072Z",
+        "promoBanner": "25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+"
+      },
+      {
+        "domain": "burrow.com",
+        "name": "Burrow",
+        "vertical": "Home Goods",
+        "productCount": 250,
+        "activeSaleCount": 229,
+        "pctCatalogOnSale": 91.6,
+        "avgDiscountPct": 34.6,
+        "maxDiscountPct": 70,
+        "priceDrops": 127,
+        "salesStarted": 0,
+        "newProducts": 1,
+        "firstDiscountAt": "2026-11-20T12:36:52.366Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "pigletinbed.com",
+        "name": "Piglet in Bed",
+        "vertical": "Home Goods",
+        "productCount": 211,
+        "activeSaleCount": 211,
+        "pctCatalogOnSale": 100,
+        "avgDiscountPct": 28.3,
+        "maxDiscountPct": 50.6,
+        "priceDrops": 30,
+        "salesStarted": 2,
+        "newProducts": 10,
+        "firstDiscountAt": "2026-11-20T12:36:44.619Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "cutsclothing.com",
+        "name": "Cuts Clothing",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 245,
+        "pctCatalogOnSale": 98,
+        "avgDiscountPct": 41.9,
+        "maxDiscountPct": 70.3,
+        "priceDrops": 32,
+        "salesStarted": 0,
+        "newProducts": 18,
+        "firstDiscountAt": "2026-11-24T12:34:41.598Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "saiehello.com",
+        "name": "Saie",
+        "vertical": "Beauty/Skincare",
+        "productCount": 70,
+        "activeSaleCount": 26,
+        "pctCatalogOnSale": 37.1,
+        "avgDiscountPct": 21.9,
+        "maxDiscountPct": 25.3,
+        "priceDrops": 24,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-25T12:37:59.106Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "roark.com",
+        "name": "Roark",
+        "vertical": "Apparel",
+        "productCount": 98,
+        "activeSaleCount": 89,
+        "pctCatalogOnSale": 90.8,
+        "avgDiscountPct": 46.3,
+        "maxDiscountPct": 60.9,
+        "priceDrops": 10,
+        "salesStarted": 5,
+        "newProducts": 4,
+        "firstDiscountAt": "2026-11-22T12:44:04.926Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "shopdoen.com",
+        "name": "DÔEN",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 27,
+        "pctCatalogOnSale": 10.8,
+        "avgDiscountPct": 61.5,
+        "maxDiscountPct": 85.1,
+        "priceDrops": 7,
+        "salesStarted": 7,
+        "newProducts": 27,
+        "firstDiscountAt": "2026-11-24T12:34:37.520Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "birdwell.com",
+        "name": "Birdwell",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 62,
+        "pctCatalogOnSale": 24.8,
+        "avgDiscountPct": 23.3,
+        "maxDiscountPct": 65,
+        "priceDrops": 5,
+        "salesStarted": 5,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-24T12:34:41.087Z",
+        "promoBanner": "Free Shipping On Orders $200+"
+      },
+      {
+        "domain": "us.foursigmatic.com",
+        "name": "Four Sigmatic",
+        "vertical": "Wellness",
+        "productCount": 86,
+        "activeSaleCount": 48,
+        "pctCatalogOnSale": 55.8,
+        "avgDiscountPct": 15.9,
+        "maxDiscountPct": 68.8,
+        "priceDrops": 3,
+        "salesStarted": 3,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-24T12:34:58.244Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "dirtylabs.com",
+        "name": "Dirty Labs",
+        "vertical": "Home Goods",
+        "productCount": 32,
+        "activeSaleCount": 12,
+        "pctCatalogOnSale": 37.5,
+        "avgDiscountPct": 34.6,
+        "maxDiscountPct": 52.4,
+        "priceDrops": 1,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-25T12:38:26.337Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "dedcool.com",
+        "name": "DedCool",
+        "vertical": "Beauty/Skincare",
+        "productCount": 136,
+        "activeSaleCount": 33,
+        "pctCatalogOnSale": 24.3,
+        "avgDiscountPct": 26.1,
+        "maxDiscountPct": 30.4,
+        "priceDrops": 1,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-24T12:34:47.693Z",
+        "promoBanner": null
+      },
+      {
+        "domain": "linoto.com",
+        "name": "Linoto",
+        "vertical": "Home Goods",
+        "productCount": 250,
+        "activeSaleCount": 47,
+        "pctCatalogOnSale": 18.8,
+        "avgDiscountPct": 10.4,
+        "maxDiscountPct": 31.9,
+        "priceDrops": 1,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": "2026-11-21T12:47:35.781Z",
+        "promoBanner": "10% off orders over $450 with code: AUTUMN"
+      },
+      {
+        "domain": "insideweather.com",
+        "name": "Inside Weather",
+        "vertical": "Home Goods",
+        "productCount": 249,
+        "activeSaleCount": 249,
+        "pctCatalogOnSale": 100,
+        "avgDiscountPct": 49.6,
+        "maxDiscountPct": 50,
+        "priceDrops": 0,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": null,
+        "promoBanner": null
+      },
+      {
+        "domain": "organicbasics.com",
+        "name": "Organic Basics",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 234,
+        "pctCatalogOnSale": 93.6,
+        "avgDiscountPct": 34.9,
+        "maxDiscountPct": 60,
+        "priceDrops": 0,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": null,
+        "promoBanner": null
+      },
+      {
+        "domain": "koio.co",
+        "name": "KOIO",
+        "vertical": "Apparel",
+        "productCount": 116,
+        "activeSaleCount": 90,
+        "pctCatalogOnSale": 77.6,
+        "avgDiscountPct": 22.9,
+        "maxDiscountPct": 70,
+        "priceDrops": 0,
+        "salesStarted": 0,
+        "newProducts": 19,
+        "firstDiscountAt": null,
+        "promoBanner": null
+      },
+      {
+        "domain": "meritbeauty.com",
+        "name": "MERIT Beauty",
+        "vertical": "Beauty/Skincare",
+        "productCount": 36,
+        "activeSaleCount": 26,
+        "pctCatalogOnSale": 72.2,
+        "avgDiscountPct": 13.7,
+        "maxDiscountPct": 30,
+        "priceDrops": 0,
+        "salesStarted": 0,
+        "newProducts": 16,
+        "firstDiscountAt": null,
+        "promoBanner": null
+      },
+      {
+        "domain": "albanypark.com",
+        "name": "Albany Park",
+        "vertical": "Home Goods",
+        "productCount": 75,
+        "activeSaleCount": 50,
+        "pctCatalogOnSale": 66.7,
+        "avgDiscountPct": 27.6,
+        "maxDiscountPct": 30,
+        "priceDrops": 0,
+        "salesStarted": 0,
+        "newProducts": 0,
+        "firstDiscountAt": null,
+        "promoBanner": null
+      },
+      {
+        "domain": "allbirds.com",
+        "name": "Allbirds",
+        "vertical": "Apparel",
+        "productCount": 250,
+        "activeSaleCount": 153,
+        "pctCatalogOnSale": 61.2,
+        "avgDiscountPct": 44.3,
+        "maxDiscountPct": 75,
+        "priceDrops": 0,
+        "salesStarted": 0,
+        "newProducts": 72,
+        "firstDiscountAt": null,
+        "promoBanner": null
+      }
+    ],
+    "deepestDiscounts": [
+      {
+        "title": "Dark Roast Ritual Set 3 Month Plan",
+        "variantTitle": null,
+        "price": 60,
+        "compareAtPrice": 345,
+        "discountPct": 82.6,
+        "productUrl": "https://ryzesuperfoods.com/products/dark-roast-ritual-set-3-month-plan",
+        "domain": "ryzesuperfoods.com"
+      },
+      {
+        "title": "RAINA SKIRT -- MARIANNE PINSTRIPE",
+        "variantTitle": "MARIANNE PINSTRIPE / 2",
+        "price": 80,
+        "compareAtPrice": 398,
+        "discountPct": 79.9,
+        "productUrl": "https://shopdoen.com/products/raina-skirt-marianne-pinstripe",
+        "domain": "shopdoen.com"
+      },
+      {
+        "title": "ALORA TIE FLAT -- NUDE NAPPA",
+        "variantTitle": "NUDE NAPPA / 35.5",
+        "price": 80,
+        "compareAtPrice": 398,
+        "discountPct": 79.9,
+        "productUrl": "https://shopdoen.com/products/alora-tie-flat-nude",
+        "domain": "shopdoen.com"
+      },
+      {
+        "title": "Everyday Napkin Placemat Set",
+        "variantTitle": "dune",
+        "price": 36,
+        "compareAtPrice": 160,
+        "discountPct": 77.5,
+        "productUrl": "https://yearandday.com/products/everyday-napkin-placemat-set",
+        "domain": "yearandday.com"
+      },
+      {
+        "title": "The Belle Bow - Blue Trellis",
+        "variantTitle": "Blue Trellis",
+        "price": 9,
+        "compareAtPrice": 38,
+        "discountPct": 76.3,
+        "productUrl": "https://hillhousehome.com/products/the-belle-bow-blue-trellis",
+        "domain": "hillhousehome.com"
+      },
+      {
+        "title": "Everyday Napkin Tablecloth Set",
+        "variantTitle": "midnight",
+        "price": 60,
+        "compareAtPrice": 251,
+        "discountPct": 76.1,
+        "productUrl": "https://yearandday.com/products/everyday-napkin-tablecloth-set",
+        "domain": "yearandday.com"
+      },
+      {
+        "title": "LINDON SWEATER -- CERISE",
+        "variantTitle": "CERISE / XXS",
+        "price": 79,
+        "compareAtPrice": 328,
+        "discountPct": 75.9,
+        "productUrl": "https://shopdoen.com/products/lindon-sweater-cerise",
+        "domain": "shopdoen.com"
+      },
+      {
+        "title": "ALICE CASHMERE DRESS -- BUTTERCUP",
+        "variantTitle": "BUTTERCUP / XS",
+        "price": 125,
+        "compareAtPrice": 498,
+        "discountPct": 74.9,
+        "productUrl": "https://shopdoen.com/products/alice-cashmere-dress-buttercup",
+        "domain": "shopdoen.com"
+      },
+      {
+        "title": "The Anjuli Nap Dress - Navy Crepe",
+        "variantTitle": "Wrinkle Resistant Navy Crepe / XXS",
+        "price": 59,
+        "compareAtPrice": 198,
+        "discountPct": 70.2,
+        "productUrl": "https://hillhousehome.com/products/the-anjuli-nap-dress-navy-crepe",
+        "domain": "hillhousehome.com"
+      },
+      {
+        "title": "ARIANNA HIGH HEEL -- BLACK LACE",
+        "variantTitle": "BLACK LACE / 40",
+        "price": 119,
+        "compareAtPrice": 398,
+        "discountPct": 70.1,
+        "productUrl": "https://shopdoen.com/products/arianna-high-heel-black-lace",
+        "domain": "shopdoen.com"
+      },
+      {
+        "title": "Women's Tree Breezer - Jet Black (Black Sole)",
+        "variantTitle": "6.5",
+        "price": 31.5,
+        "compareAtPrice": 105,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-tree-breezers-jet-black",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Allbirds Wool Slipper - Light Tan",
+        "variantTitle": "W4.5/M3",
+        "price": 15.6,
+        "compareAtPrice": 52,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/allbirds-slipper",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Men's Canvas Cruiser Slip On - Blizzard (Blizzard Sole)",
+        "variantTitle": "8",
+        "price": 22.5,
+        "compareAtPrice": 75,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/mens-cruiser-slip-on-canvas-blizzard",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Canvas Cruiser Slip On - Blizzard (Blizzard Sole)",
+        "variantTitle": "5",
+        "price": 22.5,
+        "compareAtPrice": 75,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-cruiser-slip-on-canvas-blizzard",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Varsity Airy - Blizzard (Blizzard Sole)",
+        "variantTitle": "7",
+        "price": 36,
+        "compareAtPrice": 120,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-varsity-airy-blizzard",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Cruiser Canvas - Auburn (Warm White Sole)",
+        "variantTitle": "6.5",
+        "price": 22.5,
+        "compareAtPrice": 75,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-cruiser-canvas-auburn",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Varsity Strap - Blizzard (Blizzard Sole)",
+        "variantTitle": "5",
+        "price": 34.5,
+        "compareAtPrice": 115,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-varsity-strap-blizzard",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Varsity Strap - Multi (Natural White Sole)",
+        "variantTitle": "8.5",
+        "price": 34.5,
+        "compareAtPrice": 115,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-varsity-strap",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Varsity Strap - Mushroom (Blizzard Sole)",
+        "variantTitle": "5",
+        "price": 34.5,
+        "compareAtPrice": 115,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-varsity-strap-mushroom",
+        "domain": "allbirds.com"
+      },
+      {
+        "title": "Women's Canvas Cruiser - Dusty Pink (Warm White Sole)",
+        "variantTitle": "11",
+        "price": 22.5,
+        "compareAtPrice": 75,
+        "discountPct": 70,
+        "productUrl": "https://allbirds.com/products/womens-cruiser-canvas-dusty-pink",
+        "domain": "allbirds.com"
+      }
+    ]
+  },
+  "samples": [
+    {
+      "slug": "home-bedding",
+      "title": "Home & Bedding — Black Friday 2026 Competitor Report",
+      "brandName": "Sample Linen & Bedding Brand",
+      "brandUrl": "cultiver.com / ettitude.com vertical",
+      "category": "Home Goods",
+      "description": "Tracks Coyuchi, SNOWE, Piglet in Bed, Cozy Earth, and Linoto across Nov 20–25: 97% catalog-wide markdowns, early Nov 21 drops, and banner shifts.",
+      "competitorDomains": [
+        "coyuchi.com",
+        "snowe.co",
+        "pigletinbed.com",
+        "cozyearth.com",
+        "linoto.com"
+      ],
+      "report": {
+        "slug": "home-bedding",
+        "title": "Home & Bedding — Black Friday 2026 Competitor Report",
+        "brandName": "Sample Linen & Bedding Brand",
+        "brandUrl": "cultiver.com / ettitude.com vertical",
+        "category": "Home Goods",
+        "generatedAt": "2026-11-25T14:14:50.277Z",
+        "windowLabel": "Nov 20 – Nov 25, 2026 (ET)",
+        "summary": {
+          "competitorsAnalyzed": 5,
+          "competitorsRunningSales": 5,
+          "totalCompetitorProducts": 1030,
+          "totalCompetitorOnSale": 543,
+          "avgCompetitorSalePct": 52.7,
+          "avgCompetitorDiscountPct": 21,
+          "maxCompetitorDiscountPct": 62.8,
+          "earliestSaleStartedAt": "2026-11-20T12:36:44.619Z",
+          "totalPriceDrops": 683,
+          "totalNewLaunches": 28,
+          "totalStockoutVariants": 4899
+        },
+        "competitors": [
+          {
+            "domain": "coyuchi.com",
+            "name": "Coyuchi",
+            "vertical": "Home Goods",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:38:17.634Z",
+            "productCount": 250,
+            "variantCount": 461,
+            "activeSaleCount": 204,
+            "pctCatalogOnSale": 81.6,
+            "avgDiscountPct": 25.8,
+            "maxDiscountPct": 62.8,
+            "outOfStockVariants": 34,
+            "firstDiscountAt": "2026-11-21T12:47:37.365Z",
+            "promoBanner": "Free shipping on all orders",
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 331,
+              "salesStarted": 331,
+              "priceIncreases": 0,
+              "newProducts": 17,
+              "stockouts": 10,
+              "restocks": 2
+            },
+            "topDiscounts": [
+              {
+                "title": "Marguerite Organic Print Napkins, Set of 4",
+                "variantTitle": "Natural w/Gulf / Set of 4",
+                "price": 29,
+                "compareAtPrice": 78,
+                "discountPct": 62.8,
+                "productUrl": "https://coyuchi.com/products/marguerite-organic-print-napkins-set-of-4-natural-w-gulf",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Cloud Soft Organic Sateen Sham",
+                "variantTitle": "Pale Gray / Standard",
+                "price": 15,
+                "compareAtPrice": 38,
+                "discountPct": 60.5,
+                "productUrl": "https://coyuchi.com/products/cloud-soft-organic-sateen-sham-pale-gray",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Alder Organic Hand Towel, Set of 2",
+                "variantTitle": "Undyed w/Evergreen / Set of 2",
+                "price": 34,
+                "compareAtPrice": 54,
+                "discountPct": 37,
+                "productUrl": "https://coyuchi.com/products/alder-organic-hand-towel-set-of-undyed-evergreen",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Fringe Stripe Organic Napkins, Set of 4",
+                "variantTitle": "Tidal Chambray / Set of 4",
+                "price": 38,
+                "compareAtPrice": 58,
+                "discountPct": 34.5,
+                "productUrl": "https://coyuchi.com/products/fringe-stripe-organic-napkins-set-of-4-tidal-chambray",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Tahoe Wool Throw - Renewed",
+                "variantTitle": "Charcoal / 48\"x70\" / c1d924f9-2bbc-473e-b520-26f4606cb5c5",
+                "price": 270,
+                "compareAtPrice": 398,
+                "discountPct": 32.2,
+                "productUrl": "https://coyuchi.com/products/tahoe-wool-throw-9knkrkcwy5-renewed",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Cozy Cotton Organic Blanket - Renewed",
+                "variantTitle": "Twilight Blue / Full/Queen / 52e5013f-76d4-469d-8837-d52c4c043e37",
+                "price": 270,
+                "compareAtPrice": 398,
+                "discountPct": 32.2,
+                "productUrl": "https://coyuchi.com/products/cozy-cotton-organic-blanket-aevemygbbz-renewed",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Cozy Cotton Organic Blanket - Renewed",
+                "variantTitle": "Stone / Full/Queen / 78a20cbc-838e-47dd-9708-588d464a3d59",
+                "price": 270,
+                "compareAtPrice": 398,
+                "discountPct": 32.2,
+                "productUrl": "https://coyuchi.com/products/cozy-cotton-organic-blanket-8xu5xfpodu-renewed",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Washable Wool Filled Mattress Topper - Renewed",
+                "variantTitle": "Soft White / Twin / 4871d084-c0a8-4f54-8bb7-edf8b27af35c",
+                "price": 305,
+                "compareAtPrice": 448,
+                "discountPct": 31.9,
+                "productUrl": "https://coyuchi.com/products/washable-wool-filled-mattress-topper-uzawppfmle-renewed",
+                "domain": "coyuchi.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Pebbled Handstitched Organic Sham",
+                "price": 73.5,
+                "detectedAt": "2026-11-25T12:38:17.634Z",
+                "productUrl": "https://coyuchi.com/products/pebbled-handstitched-organic-sham-alpine-white",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Refined Organic Percale Flat Sheet",
+                "price": 59,
+                "detectedAt": "2026-11-21T12:47:37.365Z",
+                "productUrl": "https://coyuchi.com/products/refined-organic-percale-flat-sheet",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Classic Organic Sateen Sheet Set",
+                "price": 148,
+                "detectedAt": "2026-11-21T12:47:37.365Z",
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-sheet-set-olive",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Classic Organic Sateen Pillowcases",
+                "price": 38,
+                "detectedAt": "2026-11-21T12:47:37.365Z",
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-pillowcases-copy",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Classic Organic Sateen Duvet Set",
+                "price": 198,
+                "detectedAt": "2026-11-21T12:47:37.365Z",
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-duvet-set-olive",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Classic Organic Sateen Consumer Swatch",
+                "price": 3,
+                "detectedAt": "2026-11-21T12:47:37.365Z",
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-consumer-swatch-olive",
+                "domain": "coyuchi.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Classic Organic Sateen Sheet Set",
+                "variantCountOos": 3,
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-sheet-set-mineral",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Classic Organic Sateen Sheet Set",
+                "variantCountOos": 3,
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-sheet-set-cerulean",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Refined Organic Percale Flat Sheet",
+                "variantCountOos": 3,
+                "productUrl": "https://coyuchi.com/products/refined-organic-percale-flat-sheet",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Canyon Organic Decorative Pillow Cover",
+                "variantCountOos": 2,
+                "productUrl": "https://coyuchi.com/products/canyon-organic-decorative-pillow-cover-lagoon-herringbone",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Classic Organic Sateen Sheet Set",
+                "variantCountOos": 2,
+                "productUrl": "https://coyuchi.com/products/classic-organic-sateen-sheet-set-undyed",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Stinson Organic Towels",
+                "variantCountOos": 2,
+                "productUrl": "https://coyuchi.com/products/stinson-organic-towels-alpine-white-seal",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Unisex Cloud Loom™ Organic Hooded Robe",
+                "variantCountOos": 2,
+                "productUrl": "https://coyuchi.com/products/unisex-cloud-loom-organic-hooded-robe-fossil",
+                "domain": "coyuchi.com"
+              },
+              {
+                "title": "Air Weight® Organic Towels - Renewed",
+                "variantCountOos": 1,
+                "productUrl": "https://coyuchi.com/products/air-weight-organic-towels-aue_fcuctj-renewed",
+                "domain": "coyuchi.com"
+              }
+            ]
+          },
+          {
+            "domain": "snowe.co",
+            "name": "SNOWE",
+            "vertical": "Home Goods",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:38:19.780Z",
+            "productCount": 70,
+            "variantCount": 339,
+            "activeSaleCount": 68,
+            "pctCatalogOnSale": 97.1,
+            "avgDiscountPct": 30,
+            "maxDiscountPct": 30,
+            "outOfStockVariants": 98,
+            "firstDiscountAt": "2026-11-22T12:44:30.556Z",
+            "promoBanner": "Free shipping on orders $150+",
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 321,
+              "salesStarted": 301,
+              "priceIncreases": 8,
+              "newProducts": 0,
+              "stockouts": 1,
+              "restocks": 0
+            },
+            "topDiscounts": [
+              {
+                "title": "Percale Duvet Cover",
+                "variantTitle": "Full/Queen / Essential White",
+                "price": 177.1,
+                "compareAtPrice": 253,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/duvet-cover",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Italian Softexture Duvet Cover - Full/Queen (Selling Out Soon)",
+                "variantTitle": "Full/Queen / White",
+                "price": 177.1,
+                "compareAtPrice": 253,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/washed-cotton-duvet-cover",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Sateen Duvet Cover",
+                "variantTitle": "Full/Queen / Essential White",
+                "price": 177.1,
+                "compareAtPrice": 253,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/sateen-duvet-cover",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Checked Throw",
+                "variantTitle": "Grey",
+                "price": 142.1,
+                "compareAtPrice": 203,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/checked-throw",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Resin Oval Serving Bowl (Selling Out Soon)",
+                "variantTitle": "Onyx",
+                "price": 114.1,
+                "compareAtPrice": 163,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/resin-oval-serving-bowl",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Resin Low Serving Bowl",
+                "variantTitle": "Luna",
+                "price": 114.1,
+                "compareAtPrice": 163,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/resin-low-serving-bowl",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Marble Cheese Board - Sand (Selling Out Soon)",
+                "variantTitle": "Sand",
+                "price": 55.3,
+                "compareAtPrice": 79,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/marble-cheese-board",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Walnut Cheese Board",
+                "variantTitle": null,
+                "price": 55.3,
+                "compareAtPrice": 79,
+                "discountPct": 30,
+                "productUrl": "https://snowe.co/products/serving-board",
+                "domain": "snowe.co"
+              }
+            ],
+            "topNewLaunches": [],
+            "topStockouts": [
+              {
+                "title": "Cone Candle",
+                "variantCountOos": 8,
+                "productUrl": "https://snowe.co/products/cone-candle",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Heritage Linen Sheet Set",
+                "variantCountOos": 8,
+                "productUrl": "https://snowe.co/products/heritage-linen-sheet-set",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Honeycomb Bathrobe",
+                "variantCountOos": 7,
+                "productUrl": "https://snowe.co/products/honeycomb-bathrobe",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Final Sale | Blush Sheet Set",
+                "variantCountOos": 4,
+                "productUrl": "https://snowe.co/products/blush-sheet-set",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Heritage Linen Duvet Set",
+                "variantCountOos": 4,
+                "productUrl": "https://snowe.co/products/heritage-linen-duvet-set",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Sateen Sheet Set",
+                "variantCountOos": 4,
+                "productUrl": "https://snowe.co/products/sateen-sheet-set",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "Spoon (each)",
+                "variantCountOos": 4,
+                "productUrl": "https://snowe.co/products/teaspoon",
+                "domain": "snowe.co"
+              },
+              {
+                "title": "The Classic Bath Refresh Set",
+                "variantCountOos": 4,
+                "productUrl": "https://snowe.co/products/classic-bath-makeover",
+                "domain": "snowe.co"
+              }
+            ]
+          },
+          {
+            "domain": "pigletinbed.com",
+            "name": "Piglet in Bed",
+            "vertical": "Home Goods",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:38:15.831Z",
+            "productCount": 211,
+            "variantCount": 495,
+            "activeSaleCount": 211,
+            "pctCatalogOnSale": 100,
+            "avgDiscountPct": 28.3,
+            "maxDiscountPct": 50.6,
+            "outOfStockVariants": 98,
+            "firstDiscountAt": "2026-11-20T12:36:44.619Z",
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 30,
+              "salesStarted": 2,
+              "priceIncreases": 0,
+              "newProducts": 10,
+              "stockouts": 20,
+              "restocks": 27
+            },
+            "topDiscounts": [
+              {
+                "title": "Botanical Green Linen Blend Flat Sheet",
+                "variantTitle": "Single",
+                "price": 39,
+                "compareAtPrice": 79,
+                "discountPct": 50.6,
+                "productUrl": "https://pigletinbed.com/products/botanical-green-linen-blend-plain-flat-sheet",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Botanical Green Linen Blend Plain Duvet Cover",
+                "variantTitle": "Single",
+                "price": 59,
+                "compareAtPrice": 119,
+                "discountPct": 50.4,
+                "productUrl": "https://pigletinbed.com/products/botanical-green-linen-blend-plain-duvet-cover",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Wallow Eternal Sun Hand & Body Wash",
+                "variantTitle": "300ml",
+                "price": 12,
+                "compareAtPrice": 24,
+                "discountPct": 50,
+                "productUrl": "https://pigletinbed.com/products/eternal-sun-hand-body-wash-wallow",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Wallow Untamed Moss Hand & Body Wash",
+                "variantTitle": "300ml",
+                "price": 12,
+                "compareAtPrice": 24,
+                "discountPct": 50,
+                "productUrl": "https://pigletinbed.com/products/untamed-moss-hand-body-wash-wallow",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Elm Green Linen Blend Plain Pillowcase (Pair)",
+                "variantTitle": "Standard",
+                "price": 23,
+                "compareAtPrice": 39,
+                "discountPct": 41,
+                "productUrl": "https://pigletinbed.com/products/elm-green-linen-blend-plain-pillowcase-pair",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Berry Heritage Gingham 100% Linen Pillowcases (Pair)",
+                "variantTitle": "Standard",
+                "price": 35,
+                "compareAtPrice": 59,
+                "discountPct": 40.7,
+                "productUrl": "https://pigletinbed.com/products/berry-heritage-gingham-linen-pillowcase-pair",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Fern Green Heritage Gingham 100% Linen Pillowcases (Pair)",
+                "variantTitle": "Standard",
+                "price": 35,
+                "compareAtPrice": 59,
+                "discountPct": 40.7,
+                "productUrl": "https://pigletinbed.com/products/fern-green-heritage-gingham-linen-pillowcase-pair",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Fern Green Heritage Gingham 100% Linen Fitted Sheet",
+                "variantTitle": "Double",
+                "price": 77,
+                "compareAtPrice": 129,
+                "discountPct": 40.3,
+                "productUrl": "https://pigletinbed.com/products/fern-green-heritage-gingham-linen-fitted-sheet",
+                "domain": "pigletinbed.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Two of a Kind Sandstone & Pine Green Robe Gift Set",
+                "price": 105,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/pine-green-pembroke-gingham-bathroom-bundle",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Sandstone Red Pembroke Stripe Cotton Bath Mat",
+                "price": 21,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/sandstone-red-pembroke-stripe-bath-mat",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Sand Shell Pembroke Stripe Cotton Bath Mat",
+                "price": 21,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/sand-shell-pembroke-stripe-bath-mat",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Rhubarb & Rose Pembroke Stripe Cotton Bath Mat",
+                "price": 21,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/rhubarb-rose-pembroke-stripe-bath-mat",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Pine Green Pembroke Stripe Cotton Bath Mat",
+                "price": 21,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/pine-green-pembroke-stripe-bath-mat",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Olive Green Pembroke Stripe Cotton Bath Mat",
+                "price": 21,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/olive-green-pembroke-stripe-bath-mat",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Oatmeal Pembroke Stripe Linen Blend Housecoat",
+                "price": 119,
+                "detectedAt": "2026-11-25T12:38:15.831Z",
+                "productUrl": "https://pigletinbed.com/products/oatmeal-pembroke-stripe-linen-blend-housecoat",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Oatmeal Cross Stitch Tapestry Filled Cushion",
+                "price": 48,
+                "detectedAt": "2026-11-23T12:40:36.854Z",
+                "productUrl": "https://pigletinbed.com/products/oatmeal-cross-stitch-tapestry-filled-cushion",
+                "domain": "pigletinbed.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Fern Green Pembroke Stripe Linen Blend Pyjama Trouser Set",
+                "variantCountOos": 6,
+                "productUrl": "https://pigletinbed.com/products/fern-green-pembroke-stripe-linen-blend-pyjama-trouser-set",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Cosy Winter Posy Bud Loungewear Gift Set",
+                "variantCountOos": 4,
+                "productUrl": "https://pigletinbed.com/products/multi-loungewear-set",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Honey Gingham Linen Blend Duvet Set",
+                "variantCountOos": 4,
+                "productUrl": "https://pigletinbed.com/products/honey-gingham-linen-blend-duvet-set",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Lovely Linen Gingham Pyjama Gift Set",
+                "variantCountOos": 4,
+                "productUrl": "https://pigletinbed.com/products/warm-blue-gingham-wash-bag-bundles",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Mindful Cream Hedgerow Check Cotton Fitted Sheet",
+                "variantCountOos": 4,
+                "productUrl": "https://pigletinbed.com/products/mindful-cream-hedgerow-check-printed-cotton-fitted-sheet",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Blackberry Bramble Cotton Trouser Set",
+                "variantCountOos": 3,
+                "productUrl": "https://pigletinbed.com/products/berry-blackberry-bramble-print-cotton-trouser-set",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Elderberry Pembroke Stripe Linen Blend Duvet Cover",
+                "variantCountOos": 3,
+                "productUrl": "https://pigletinbed.com/products/elderberry-pembroke-stripe-linen-blend-duvet-cover",
+                "domain": "pigletinbed.com"
+              },
+              {
+                "title": "Elderberry Pembroke Stripe Linen Blend Duvet Set",
+                "variantCountOos": 3,
+                "productUrl": "https://pigletinbed.com/products/elderberry-pembroke-stripe-linen-blend-duvet-set",
+                "domain": "pigletinbed.com"
+              }
+            ]
+          },
+          {
+            "domain": "cozyearth.com",
+            "name": "Cozy Earth",
+            "vertical": "Home Goods",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:38:18.665Z",
+            "productCount": 249,
+            "variantCount": 5626,
+            "activeSaleCount": 13,
+            "pctCatalogOnSale": 5.2,
+            "avgDiscountPct": 10.3,
+            "maxDiscountPct": 16.7,
+            "outOfStockVariants": 1218,
+            "firstDiscountAt": null,
+            "promoBanner": "Free Domestic Shipping on orders $200+ Shop HSA/FSA Eligible Products",
+            "bannerChanges": [
+              {
+                "detectedAt": "2026-11-24T12:35:06.694Z",
+                "oldValue": "Early Black Friday Deal 25% Off Bedding & Pajamas Free Domestic Shipping on orders $200+ Shop HSA/FSA Eligible Products",
+                "newValue": "Free Domestic Shipping on orders $200+ Shop HSA/FSA Eligible Products"
+              }
+            ],
+            "eventCounts": {
+              "priceDrops": 0,
+              "salesStarted": 0,
+              "priceIncreases": 0,
+              "newProducts": 1,
+              "stockouts": 212,
+              "restocks": 189
+            },
+            "topDiscounts": [
+              {
+                "title": "Men's Essential No-Show Sock 8-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 60,
+                "compareAtPrice": 72,
+                "discountPct": 16.7,
+                "productUrl": "https://cozyearth.com/products/mens-essential-no-show-sock-8-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential Quarter Sock 8-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 94,
+                "compareAtPrice": 112,
+                "discountPct": 16.1,
+                "productUrl": "https://cozyearth.com/products/mens-essential-quarter-sock-8-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential Ankle Sock 8-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 74,
+                "compareAtPrice": 88,
+                "discountPct": 15.9,
+                "productUrl": "https://cozyearth.com/products/mens-essential-ankle-sock-8-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential Calf Sock 8-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 108,
+                "compareAtPrice": 128,
+                "discountPct": 15.6,
+                "productUrl": "https://cozyearth.com/products/mens-essential-calf-sock-8-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential Calf Sock 6-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 84,
+                "compareAtPrice": 96,
+                "discountPct": 12.5,
+                "productUrl": "https://cozyearth.com/products/mens-essential-calf-sock-6-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential Ankle Sock 6-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 58,
+                "compareAtPrice": 66,
+                "discountPct": 12.1,
+                "productUrl": "https://cozyearth.com/products/mens-essential-ankle-sock-6-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential Quarter Sock 6-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 74,
+                "compareAtPrice": 84,
+                "discountPct": 11.9,
+                "productUrl": "https://cozyearth.com/products/mens-essential-quarter-sock-6-pack",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's Essential No-Show Sock 6-Pack",
+                "variantTitle": "White / M: US 7-10",
+                "price": 48,
+                "compareAtPrice": 54,
+                "discountPct": 11.1,
+                "productUrl": "https://cozyearth.com/products/mens-essential-no-show-sock-6-pack",
+                "domain": "cozyearth.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Women's First Layer Soft Bra",
+                "price": 38,
+                "detectedAt": "2026-11-24T12:35:06.694Z",
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-pajama-soft-bra",
+                "domain": "cozyearth.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Women's First Layer Pajama Soft Bra & Boxer Short Set",
+                "variantCountOos": 38,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-pajama-soft-bra-boxer-short-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Women's First Layer Pajama Soft Bra & Pajama Pant Set",
+                "variantCountOos": 38,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-pajama-soft-bra-pant-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Women's First Layer Pajama Short Sleeve Tee & Pajama Pant Set",
+                "variantCountOos": 37,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-pajama-short-sleeve-tee-pant-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Women's First Layer Boyfriend Sleep Tee & Pajama Pant Set",
+                "variantCountOos": 34,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-boyfriend-sleep-tee-pajama-pant-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Women's First Layer Pajama Short Sleeve Tee & Boxer Short Set",
+                "variantCountOos": 34,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-pajama-short-sleeve-tee-boxer-short-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Women's First Layer Boyfriend Sleep Tee & Boxer Short Set",
+                "variantCountOos": 33,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-boyfriend-sleep-tee-boxer-short-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Men's StretchTech Quarter Zip & Jogger Set",
+                "variantCountOos": 24,
+                "productUrl": "https://cozyearth.com/products/mens-stretchtech-quarter-zip-jogger-set",
+                "domain": "cozyearth.com"
+              },
+              {
+                "title": "Women's First Layer Soft Bra",
+                "variantCountOos": 24,
+                "productUrl": "https://cozyearth.com/products/womens-first-layer-pajama-soft-bra",
+                "domain": "cozyearth.com"
+              }
+            ]
+          },
+          {
+            "domain": "linoto.com",
+            "name": "Linoto",
+            "vertical": "Home Goods",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:38:15.431Z",
+            "productCount": 250,
+            "variantCount": 7329,
+            "activeSaleCount": 47,
+            "pctCatalogOnSale": 18.8,
+            "avgDiscountPct": 10.4,
+            "maxDiscountPct": 31.9,
+            "outOfStockVariants": 3451,
+            "firstDiscountAt": "2026-11-21T12:47:35.781Z",
+            "promoBanner": "10% off orders over $450 with code: AUTUMN",
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 1,
+              "salesStarted": 0,
+              "priceIncreases": 0,
+              "newProducts": 0,
+              "stockouts": 1,
+              "restocks": 332
+            },
+            "topDiscounts": [
+              {
+                "title": "Sale Organic Ivory Linen Duvet Cover Twin",
+                "variantTitle": "Twin 66\" x 86\"",
+                "price": 578,
+                "compareAtPrice": 800,
+                "discountPct": 27.8,
+                "productUrl": "https://linoto.com/products/sale-organic-ivory-linen-duvet-cover",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Black Linen Pillowcase",
+                "variantTitle": "Envelope Body Pillow Slip 54\"x20\" (1)",
+                "price": 79,
+                "compareAtPrice": 95,
+                "discountPct": 16.8,
+                "productUrl": "https://linoto.com/products/sale-black-linen-pillowcase",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Aubergine Boxer Shorts",
+                "variantTitle": "XS 30\"",
+                "price": 40,
+                "compareAtPrice": 45,
+                "discountPct": 11.1,
+                "productUrl": "https://linoto.com/products/sale-aubergine-boxer-shorts",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Ivory Duvet Cover",
+                "variantTitle": "Full/Queen 86\" x 86\"",
+                "price": 395,
+                "compareAtPrice": 420,
+                "discountPct": 6,
+                "productUrl": "https://linoto.com/products/sale-ivory-duvet-cover",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Ivory Lightweight Linen Blanket",
+                "variantTitle": "Twin 70\" x 90\"",
+                "price": 290,
+                "compareAtPrice": 295,
+                "discountPct": 1.7,
+                "productUrl": "https://linoto.com/products/sale-ivory-lightweight-linen-blanket",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Flax Lightweight Linen Blanket",
+                "variantTitle": "Twin 70\" x 90\"",
+                "price": 290,
+                "compareAtPrice": 295,
+                "discountPct": 1.7,
+                "productUrl": "https://linoto.com/products/sale-flax-lightweight-linen-blanket",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale White Lightweight Linen Blanket",
+                "variantTitle": "Twin 70\" x 90\"",
+                "price": 290,
+                "compareAtPrice": 295,
+                "discountPct": 1.7,
+                "productUrl": "https://linoto.com/products/sale-white-lightweight-linen-blanket",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Burgundy Duvet Cover",
+                "variantTitle": "King 106\" x 94\"",
+                "price": 575,
+                "compareAtPrice": 580,
+                "discountPct": 0.9,
+                "productUrl": "https://linoto.com/products/sale-burgundy-duvet-cover",
+                "domain": "linoto.com"
+              }
+            ],
+            "topNewLaunches": [],
+            "topStockouts": [
+              {
+                "title": "Burgundy Linen Sheet Set",
+                "variantCountOos": 183,
+                "productUrl": "https://linoto.com/products/burgundy-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Butternut Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-butternut-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Eco Natural Belgian Eco Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-eco-natural-belgian-eco-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Espresso Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-espresso-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Golden Green Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-golden-green-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Graphite Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-graphite-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Harvest Gold Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-harvest-gold-linen-sheet-set",
+                "domain": "linoto.com"
+              },
+              {
+                "title": "Sale Malbec Linen Sheet Set",
+                "variantCountOos": 100,
+                "productUrl": "https://linoto.com/products/sale-malbec-linen-sheet-set",
+                "domain": "linoto.com"
+              }
+            ]
+          }
+        ],
+        "categoryBenchmark": {
+          "vertical": "Home Goods",
+          "stores": 20,
+          "storesRunningSales": 19,
+          "products": 2740,
+          "onSaleProducts": 1217,
+          "pctCatalogOnSale": 44.4,
+          "variants": 23385,
+          "oosVariants": 5805,
+          "avgDiscountPct": 31,
+          "maxDiscountPct": 77.5,
+          "priceDrops": 811,
+          "salesStarted": 634,
+          "newProducts": 61,
+          "stockouts": 387
+        },
+        "allVerticalBenchmarks": [
+          {
+            "vertical": "Home Goods",
+            "stores": 20,
+            "storesRunningSales": 19,
+            "products": 2740,
+            "onSaleProducts": 1217,
+            "pctCatalogOnSale": 44.4,
+            "variants": 23385,
+            "oosVariants": 5805,
+            "avgDiscountPct": 31,
+            "maxDiscountPct": 77.5,
+            "priceDrops": 811,
+            "salesStarted": 634,
+            "newProducts": 61,
+            "stockouts": 387
+          },
+          {
+            "vertical": "Apparel",
+            "stores": 20,
+            "storesRunningSales": 15,
+            "products": 4272,
+            "onSaleProducts": 1663,
+            "pctCatalogOnSale": 38.9,
+            "variants": 30453,
+            "oosVariants": 8148,
+            "avgDiscountPct": 33.1,
+            "maxDiscountPct": 85.1,
+            "priceDrops": 3693,
+            "salesStarted": 3012,
+            "newProducts": 247,
+            "stockouts": 1078
+          },
+          {
+            "vertical": "Beauty/Skincare",
+            "stores": 20,
+            "storesRunningSales": 17,
+            "products": 2038,
+            "onSaleProducts": 396,
+            "pctCatalogOnSale": 19.4,
+            "variants": 6278,
+            "oosVariants": 858,
+            "avgDiscountPct": 21.5,
+            "maxDiscountPct": 59.8,
+            "priceDrops": 25,
+            "salesStarted": 0,
+            "newProducts": 30,
+            "stockouts": 105
+          },
+          {
+            "vertical": "Wellness",
+            "stores": 18,
+            "storesRunningSales": 13,
+            "products": 1024,
+            "onSaleProducts": 154,
+            "pctCatalogOnSale": 15,
+            "variants": 2773,
+            "oosVariants": 116,
+            "avgDiscountPct": 18.6,
+            "maxDiscountPct": 82.6,
+            "priceDrops": 3,
+            "salesStarted": 3,
+            "newProducts": 4,
+            "stockouts": 18
+          }
+        ],
+        "overallIndex": {
+          "totalStores": 80,
+          "activeStores": 78,
+          "storesRunningSales": 64,
+          "totalProducts": 10074,
+          "totalVariants": 62889,
+          "totalOnSaleProducts": 3430,
+          "pctCatalogOnSale": 34,
+          "avgDiscountPct": 26.4,
+          "maxDiscountPct": 85.1,
+          "totalOosVariants": 14927,
+          "totalEvents": 12985,
+          "totalPriceDrops": 4532,
+          "totalSalesStarted": 3649,
+          "totalNewProducts": 342,
+          "totalStockoutEvents": 1588,
+          "totalBannerChanges": 11
+        },
+        "takeaways": [
+          "Discount framing: 5 of 5 tracked competitors are running active compare-at markdowns averaging 21% off across 52.7% of combined SKUs vs. the Home Goods benchmark of 44.4% of catalog on sale and 31% average markdown. Piglet in Bed has 100% of its catalog marked down, while SNOWE leads discount depth at 30% avg (up to 30% off).",
+          "Launch timing: Competitors did not wait for Black Friday morning — the first markdown wave hit on Nov 20, 2026, 7:36 AM EST at Piglet in Bed. Detected promo start timestamps: Piglet in Bed (Nov 20, 2026, 7:36 AM EST), Linoto (Nov 21, 2026, 7:47 AM EST), Coyuchi (Nov 21, 2026, 7:47 AM EST), SNOWE (Nov 22, 2026, 7:44 AM EST). Schedule next year's VIP/early-access drops before T-5 days to protect full-price ad efficiency.",
+          "Promo mechanics & full-price holdouts:  Storefront banners active in this set: Coyuchi (“Free shipping on all orders”); SNOWE (“Free shipping on orders $150+”); Cozy Earth (“Free Domestic Shipping on orders $200+ Shop HSA/FSA Eligible Products”). Compare checkout-code offers against visible strikethroughs so your paid-social landing pages match the friction level shoppers see elsewhere.",
+          "Capture stranded demand from stockouts: Tracked rivals currently show 4,899 out-of-stock variants, led by Linoto (3,451 OOS variants; 1 stockout events logged this week). Shift Google Shopping and Meta retargeting budget toward equivalent in-stock SKUs where rivals are sold out of core sizes or colors.",
+          "Holiday SKU drops instead of pure discounting: Competitors launched 28 new products during Nov 20–25 (Coyuchi added 17). Watch those full-price gift/bundle arrivals—they protect blended gross margin even while core catalog items are discounted."
+        ]
+      }
+    },
+    {
+      "slug": "apparel-sleepwear",
+      "title": "Apparel & Sleepwear — Black Friday 2026 Competitor Report",
+      "brandName": "Sample Sleepwear & Womenswear Brand",
+      "brandUrl": "lakepajamas.com / christydawn.com vertical",
+      "category": "Apparel",
+      "description": "Tracks Lunya, Eberjey, Hill House Home, and DÔEN: 37.5%–76% markdowns, 67+ new holiday launches, and full-price vs. flash-sale splits.",
+      "competitorDomains": [
+        "lunya.co",
+        "eberjey.com",
+        "hillhousehome.com",
+        "shopdoen.com"
+      ],
+      "report": {
+        "slug": "apparel-sleepwear",
+        "title": "Apparel & Sleepwear — Black Friday 2026 Competitor Report",
+        "brandName": "Sample Sleepwear & Womenswear Brand",
+        "brandUrl": "lakepajamas.com / christydawn.com vertical",
+        "category": "Apparel",
+        "generatedAt": "2026-11-25T14:14:51.175Z",
+        "windowLabel": "Nov 20 – Nov 25, 2026 (ET)",
+        "summary": {
+          "competitorsAnalyzed": 4,
+          "competitorsRunningSales": 4,
+          "totalCompetitorProducts": 1000,
+          "totalCompetitorOnSale": 335,
+          "avgCompetitorSalePct": 33.5,
+          "avgCompetitorDiscountPct": 41.2,
+          "maxCompetitorDiscountPct": 85.1,
+          "earliestSaleStartedAt": "2026-11-23T12:40:12.781Z",
+          "totalPriceDrops": 588,
+          "totalNewLaunches": 102,
+          "totalStockoutVariants": 2458
+        },
+        "competitors": [
+          {
+            "domain": "lunya.co",
+            "name": "Lunya",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:51.665Z",
+            "productCount": 250,
+            "variantCount": 1211,
+            "activeSaleCount": 183,
+            "pctCatalogOnSale": 73.2,
+            "avgDiscountPct": 27.9,
+            "maxDiscountPct": 50.2,
+            "outOfStockVariants": 292,
+            "firstDiscountAt": "2026-11-24T12:34:39.662Z",
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 335,
+              "salesStarted": 106,
+              "priceIncreases": 0,
+              "newProducts": 36,
+              "stockouts": 87,
+              "restocks": 60
+            },
+            "topDiscounts": [
+              {
+                "title": "Men's Airy Cotton Piped Pant",
+                "variantTitle": "Still Blue/Deep Blue / S",
+                "price": 58.8,
+                "compareAtPrice": 118,
+                "discountPct": 50.2,
+                "productUrl": "https://lunya.co/products/mens-airy-cotton-piped-pant-still-blue-deep-blue",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Washable Silk Robe",
+                "variantTitle": "Summer Dot / XS S",
+                "price": 149,
+                "compareAtPrice": 298,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/womens-washable-silk-robe-summer-dot",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Washable Silk Bias Pant",
+                "variantTitle": "Half-light Periwinkle / XS",
+                "price": 129,
+                "compareAtPrice": 258,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/womens-washable-silk-bias-pant-half-light-periwinkle",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "The Quintessential Duvet Cover",
+                "variantTitle": "White / Twin",
+                "price": 124,
+                "compareAtPrice": 248,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/the-quintessential-duvet-cover-white",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Wafflesoft Wide Leg",
+                "variantTitle": "Moonlit Grey Heather / L",
+                "price": 99,
+                "compareAtPrice": 198,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/womens-wafflesoft-wide-leg-moonlit-grey-heather",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Cottonsilk™ Ribbed Legging",
+                "variantTitle": "Serene Violet / XS",
+                "price": 99,
+                "compareAtPrice": 198,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/womens-cottonsilk-ribbed-legging-serene-violet",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Linen Embroidered Eyelet Pant",
+                "variantTitle": "Whisper Blue / Regular / XS",
+                "price": 99,
+                "compareAtPrice": 198,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/womens-linen-embroidered-eyelet-pant-whisper-blue",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Cloud Cotton Sweater Tee",
+                "variantTitle": "Whisper Blue / L",
+                "price": 84,
+                "compareAtPrice": 168,
+                "discountPct": 50,
+                "productUrl": "https://lunya.co/products/womens-cloud-cotton-sweater-tee-whisper-blue",
+                "domain": "lunya.co"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Washable Silk High Rise Pant Set",
+                "price": 184.8,
+                "detectedAt": "2026-11-25T12:37:51.665Z",
+                "productUrl": "https://lunya.co/products/womens-washable-silk-high-rise-pant-set-wisteria-stripe",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "The Quintessential Bedding Set",
+                "price": 299.6,
+                "detectedAt": "2026-11-25T12:37:51.665Z",
+                "productUrl": "https://lunya.co/products/the-quintessential-bedding-set-morning-fog",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Soft Modal Rib Tee Short Set",
+                "price": 128,
+                "detectedAt": "2026-11-25T12:37:51.665Z",
+                "productUrl": "https://lunya.co/products/womens-soft-modal-rib-tee-short-set-quiet-lilac",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Slumberknit™ Shawl Collar Short Sleeve Short Set",
+                "price": 103.6,
+                "detectedAt": "2026-11-25T12:37:51.665Z",
+                "productUrl": "https://lunya.co/products/womens-slumberknit-shawl-collar-short-sleeve-short-set-bluebell-bloomspring-clover",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Men's Silksweats™ Midweight Reversible Jogger",
+                "price": 110.6,
+                "detectedAt": "2026-11-25T12:37:51.665Z",
+                "productUrl": "https://lunya.co/products/mens-silksweats-midweight-reversible-jogger-napping-dove-heather",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "3pk Washable Silk Thin Scrunchie",
+                "price": 24,
+                "detectedAt": "2026-11-25T12:37:51.665Z",
+                "productUrl": "https://lunya.co/products/3pk-washable-silk-thin-scrunchie-deep-blue-delicate-pink-immersed-black",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Washable Silk Tee Short Set",
+                "price": 138.6,
+                "detectedAt": "2026-11-24T12:34:39.662Z",
+                "productUrl": "https://lunya.co/products/womens-washable-silk-tee-short-set-lilac-bloom",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Washable Silk Side Stripe Pant",
+                "price": 159.6,
+                "detectedAt": "2026-11-24T12:34:39.662Z",
+                "productUrl": "https://lunya.co/products/womens-washable-silk-side-stripe-pant-deep-blue-soft-ivory",
+                "domain": "lunya.co"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Silksweats™ Lightweight Terry Straight Leg Pant",
+                "variantCountOos": 5,
+                "productUrl": "https://lunya.co/products/womens-silksweats-lightweight-terry-straight-leg-pant-welkin-blue",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Washable Silk Tee Pant Set",
+                "variantCountOos": 5,
+                "productUrl": "https://lunya.co/products/womens-washable-silk-tee-pant-set-deep-blue",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Cloud Cotton Sweater Tee",
+                "variantCountOos": 4,
+                "productUrl": "https://lunya.co/products/womens-cloud-cotton-sweater-tee-whisper-blue",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Linen Embroidered Eyelet Short",
+                "variantCountOos": 4,
+                "productUrl": "https://lunya.co/products/womens-linen-embroidered-eyelet-short-sincere-white",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Linen Embroidered Eyelet Tank",
+                "variantCountOos": 4,
+                "productUrl": "https://lunya.co/products/womens-linen-embroidered-eyelet-tank-whisper-blue",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Men's Silksweats™ Midweight Reversible Jogger",
+                "variantCountOos": 4,
+                "productUrl": "https://lunya.co/products/mens-silksweats-midweight-reversible-jogger-napping-dove-heather",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Men's Slumberknit™ Pant",
+                "variantCountOos": 4,
+                "productUrl": "https://lunya.co/products/mens-slumberknit-pant-shaded-olive",
+                "domain": "lunya.co"
+              },
+              {
+                "title": "Men's Washable Silk Button Up Set",
+                "variantCountOos": 4,
+                "productUrl": "https://lunya.co/products/mens-washable-silk-button-up-set-immersed-black",
+                "domain": "lunya.co"
+              }
+            ]
+          },
+          {
+            "domain": "eberjey.com",
+            "name": "Eberjey",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:51.931Z",
+            "productCount": 250,
+            "variantCount": 1225,
+            "activeSaleCount": 56,
+            "pctCatalogOnSale": 22.4,
+            "avgDiscountPct": 33.6,
+            "maxDiscountPct": 50,
+            "outOfStockVariants": 317,
+            "firstDiscountAt": null,
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 0,
+              "salesStarted": 0,
+              "priceIncreases": 0,
+              "newProducts": 31,
+              "stockouts": 69,
+              "restocks": 21
+            },
+            "topDiscounts": [
+              {
+                "title": "Terry Gender Neutral Robe",
+                "variantTitle": "XS/S",
+                "price": 112.5,
+                "compareAtPrice": 225,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/terry-unisex-long-robe-coastal-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Men's Recycled Boucle Hoodie",
+                "variantTitle": "Small",
+                "price": 79,
+                "compareAtPrice": 158,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/mens-recycled-boucle-hoodie-wedgewood-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Recycled Boucle Hoodie",
+                "variantTitle": "X-Large",
+                "price": 79,
+                "compareAtPrice": 158,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/recycled-boucle-hoodie-wedgewood-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Men's Recycled Boucle Jogger",
+                "variantTitle": "Medium",
+                "price": 74,
+                "compareAtPrice": 148,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/mens-recycled-boucle-jogger-wedgewood-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Recycled Boucle Relaxed Fit Jogger",
+                "variantTitle": "X-Small",
+                "price": 74,
+                "compareAtPrice": 148,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/recycled-boucle-relaxed-fit-jogger-wedgewood-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Recycled Boucle Relaxed Fit Pant",
+                "variantTitle": "X-Small",
+                "price": 74,
+                "compareAtPrice": 148,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/recycled-boucle-relaxed-fit-pant-wedgewood-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Kid's Recycled Boucle Hoodie & Jogger Set",
+                "variantTitle": "4",
+                "price": 64,
+                "compareAtPrice": 128,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/kids-recycled-boucle-hoodie-jogger-set-wedgewood-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Kid's French Terry Sweatshirt and Jogger Set",
+                "variantTitle": "4",
+                "price": 64,
+                "compareAtPrice": 128,
+                "discountPct": 50,
+                "productUrl": "https://eberjey.com/products/french-terry-kids-sweat-set-matcha",
+                "domain": "eberjey.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Recycled Sweater Pant",
+                "price": 168,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/recycled-sweater-pant-wildberry",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Recycled Sweater Cropped Tank",
+                "price": 98,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/recycled-sweater-cropped-tank-wildberry",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Recycled Sweater Cropped Crew",
+                "price": 168,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/recycled-sweater-cropped-crew-wildberry",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Recycled Sweater Cropped Cardigan",
+                "price": 168,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/recycled-sweater-cropped-cardigan-wildberry",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Merry Christmas Stripes Greeting Card",
+                "price": 7,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/merry-christmas-stripes-green",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Essential Rib Socks",
+                "price": 28,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/essential-rib-socks-ivory",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Cozy Socks",
+                "price": 38,
+                "detectedAt": "2026-11-25T12:37:51.931Z",
+                "productUrl": "https://eberjey.com/products/cozy-socks-lt-heather-grey",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Washable Silk with Lace Embroidery Short Slip",
+                "price": 198,
+                "detectedAt": "2026-11-24T12:34:39.835Z",
+                "productUrl": "https://eberjey.com/products/washable-silk-with-lace-embroidery-short-slip-powder-blue",
+                "domain": "eberjey.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Eberjey by Elsa Hosk - Gisele Printed TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 7,
+                "productUrl": "https://eberjey.com/products/gisele-printed-tencel-modal-long-pj-set-nordic-nights-lightblue-deepcl",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Eberjey by Elsa Hosk - William Printed TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 7,
+                "productUrl": "https://eberjey.com/products/william-printed-tencel-modal-long-pj-set-nordic-nights-lightblue-deepcl",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Gisele Printed TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 7,
+                "productUrl": "https://eberjey.com/products/gisele-printed-tencel-modal-long-pj-set-winter-skating-holly-red-ivory",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Gisele Printed TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 6,
+                "productUrl": "https://eberjey.com/products/gisele-printed-tencel-modal-long-pj-set-winter-pine-ivory",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Gisele Printed TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 6,
+                "productUrl": "https://eberjey.com/products/gisele-printed-tencel-modal-long-pj-set-ski-chalet-ivory-pine",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Henry TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 6,
+                "productUrl": "https://eberjey.com/products/henry-tencel-modal-long-pj-set-coastal-blue",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "William Printed TENCEL™ Modal Long PJ Set",
+                "variantCountOos": 6,
+                "productUrl": "https://eberjey.com/products/william-printed-tencel-modal-long-pj-set-duo-stripe-pine-ivory",
+                "domain": "eberjey.com"
+              },
+              {
+                "title": "Eberjey by Elsa Hosk - Gisele Printed TENCEL™ Modal Shortie Short PJ Set",
+                "variantCountOos": 5,
+                "productUrl": "https://eberjey.com/products/gisele-printed-tencel-modal-shortie-short-pj-set-nordic-nights-lightblue-deepcl",
+                "domain": "eberjey.com"
+              }
+            ]
+          },
+          {
+            "domain": "hillhousehome.com",
+            "name": "Hill House Home",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:50.589Z",
+            "productCount": 250,
+            "variantCount": 1627,
+            "activeSaleCount": 69,
+            "pctCatalogOnSale": 27.6,
+            "avgDiscountPct": 41.7,
+            "maxDiscountPct": 76.3,
+            "outOfStockVariants": 763,
+            "firstDiscountAt": "2026-11-23T12:40:12.781Z",
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 246,
+              "salesStarted": 233,
+              "priceIncreases": 0,
+              "newProducts": 8,
+              "stockouts": 135,
+              "restocks": 101
+            },
+            "topDiscounts": [
+              {
+                "title": "The Belle Bow - Blue Trellis",
+                "variantTitle": "Blue Trellis",
+                "price": 9,
+                "compareAtPrice": 38,
+                "discountPct": 76.3,
+                "productUrl": "https://hillhousehome.com/products/the-belle-bow-blue-trellis",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Anjuli Nap Dress - Navy Crepe",
+                "variantTitle": "Wrinkle Resistant Navy Crepe / XXS",
+                "price": 59,
+                "compareAtPrice": 198,
+                "discountPct": 70.2,
+                "productUrl": "https://hillhousehome.com/products/the-anjuli-nap-dress-navy-crepe",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Fleur Mini Dress - White",
+                "variantTitle": "White / L",
+                "price": 69,
+                "compareAtPrice": 218,
+                "discountPct": 68.3,
+                "productUrl": "https://hillhousehome.com/products/the-fleur-mini-dress-white",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Elizabeth Nap Dress - Navy Cotton",
+                "variantTitle": "Navy Cotton / L",
+                "price": 49,
+                "compareAtPrice": 150,
+                "discountPct": 67.3,
+                "productUrl": "https://hillhousehome.com/products/the-elizabeth-nap-dress-navy-cotton",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Maxine Dress - Primrose Bouquet Ivory/Coral",
+                "variantTitle": "Primrose Bouquet Ivory/Coral / XXXS",
+                "price": 99,
+                "compareAtPrice": 278,
+                "discountPct": 64.4,
+                "productUrl": "https://hillhousehome.com/products/the-maxine-dress-sable-bouquet-ivory-coral",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Lillie Dress - Black Cisco Trellis",
+                "variantTitle": "Black Cisco Trellis / XL",
+                "price": 99,
+                "compareAtPrice": 248,
+                "discountPct": 60.1,
+                "productUrl": "https://hillhousehome.com/products/the-lillie-dress-black-cisco-trellis",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Long Sleeve Viola Dress - Windsor Paisley Emerald Green",
+                "variantTitle": "Windsor Paisley Emerald Green / XXXS",
+                "price": 129,
+                "compareAtPrice": 298,
+                "discountPct": 56.7,
+                "productUrl": "https://hillhousehome.com/products/the-long-sleeve-viola-dress-baroque-paisley-emerald-green",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Opal Dress - Peacock Paisley Vines",
+                "variantTitle": "Peacock Paisley Vines / XXS",
+                "price": 129,
+                "compareAtPrice": 298,
+                "discountPct": 56.7,
+                "productUrl": "https://hillhousehome.com/products/the-opal-dress-paisley-vines-jacquard-peacock",
+                "domain": "hillhousehome.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "The Scarlett Nap Dress -  Jacobean Sprig",
+                "price": 228,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/the-scarlett-midi-nap-dress-chilton-floral-block-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Ellie Nap Dress -  Jacobean Sprig",
+                "price": 178,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/the-ellie-nap-dress-chilton-floral-block-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Dalia Mini Nap Dress -  Jacobean Sprig",
+                "price": 248,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/the-dalia-mini-nap-dress-chilton-floral-block-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Camri Top -  Jacobean Sprig",
+                "price": 168,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/the-camri-top-chilton-floral-block-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Belle Bow - Peony Chintz",
+                "price": 9,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/the-belle-bow-peony-chintz",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Baby Hotel Robe - Pastel Trellis",
+                "price": 78,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/the-baby-hotel-robe-pastel-trellis-1",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "Hill House x Wet Brush XL Chiffon Scrunchie - Cornflower Ditsy Thistle",
+                "price": 16,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/1-pk-xl-chiffon-scrunchie-ditsy-thistle",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "Hill House x Wet Brush Terry Scalloped Headband - Cornflower Ditsy Thistle",
+                "price": 16,
+                "detectedAt": "2026-11-25T12:37:50.589Z",
+                "productUrl": "https://hillhousehome.com/products/1-pk-terry-scalloped-headband-ditsy-thistle",
+                "domain": "hillhousehome.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "The American Girl® x Hill House Ellie Nap Dress - Samantha's Historical Print",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-ellie-nap-dress-samanthas-historical-print",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Anjuli Nap Dress - Black Crepe",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-anjuli-nap-dress-black-crepe",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Ellie Nap Dress -  Jacobean Sprig",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-ellie-nap-dress-chilton-floral-block-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Ellie Nap Dress - Pink Broderie Voile",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-ellie-nap-dress-powder-pink",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Katherine Nap Dress - Jewel Tartan",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-katherine-nightgown-gem-plaid-navy-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Mairead Cardigan - Blue Multi",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-mairead-cardigan-blue-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The Marnie Pajama Set - Peppermint Tartan",
+                "variantCountOos": 10,
+                "productUrl": "https://hillhousehome.com/products/the-marnie-pj-set-crystalline-plaid-ivory-multi",
+                "domain": "hillhousehome.com"
+              },
+              {
+                "title": "The American Girl® x Hill House Scarlett Nap Dress - Felicity's Historical Print",
+                "variantCountOos": 9,
+                "productUrl": "https://hillhousehome.com/products/the-scarlett-midi-nap-dress-felicitys-historical-print",
+                "domain": "hillhousehome.com"
+              }
+            ]
+          },
+          {
+            "domain": "shopdoen.com",
+            "name": "DÔEN",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:49.504Z",
+            "productCount": 250,
+            "variantCount": 1517,
+            "activeSaleCount": 27,
+            "pctCatalogOnSale": 10.8,
+            "avgDiscountPct": 61.5,
+            "maxDiscountPct": 85.1,
+            "outOfStockVariants": 1086,
+            "firstDiscountAt": "2026-11-24T12:34:37.520Z",
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 7,
+              "salesStarted": 7,
+              "priceIncreases": 0,
+              "newProducts": 27,
+              "stockouts": 11,
+              "restocks": 1
+            },
+            "topDiscounts": [
+              {
+                "title": "RAINA SKIRT -- MARIANNE PINSTRIPE",
+                "variantTitle": "MARIANNE PINSTRIPE / 2",
+                "price": 80,
+                "compareAtPrice": 398,
+                "discountPct": 79.9,
+                "productUrl": "https://shopdoen.com/products/raina-skirt-marianne-pinstripe",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "ALORA TIE FLAT -- NUDE NAPPA",
+                "variantTitle": "NUDE NAPPA / 35.5",
+                "price": 80,
+                "compareAtPrice": 398,
+                "discountPct": 79.9,
+                "productUrl": "https://shopdoen.com/products/alora-tie-flat-nude",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "LINDON SWEATER -- CERISE",
+                "variantTitle": "CERISE / XXS",
+                "price": 79,
+                "compareAtPrice": 328,
+                "discountPct": 75.9,
+                "productUrl": "https://shopdoen.com/products/lindon-sweater-cerise",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "ALICE CASHMERE DRESS -- BUTTERCUP",
+                "variantTitle": "BUTTERCUP / XS",
+                "price": 125,
+                "compareAtPrice": 498,
+                "discountPct": 74.9,
+                "productUrl": "https://shopdoen.com/products/alice-cashmere-dress-buttercup",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "ARIANNA HIGH HEEL -- BLACK LACE",
+                "variantTitle": "BLACK LACE / 40",
+                "price": 119,
+                "compareAtPrice": 398,
+                "discountPct": 70.1,
+                "productUrl": "https://shopdoen.com/products/arianna-high-heel-black-lace",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "HORTENSE DRESS -- BLACK",
+                "variantTitle": "BLACK / XXS",
+                "price": 199,
+                "compareAtPrice": 398,
+                "discountPct": 50,
+                "productUrl": "https://shopdoen.com/products/hortense-dress-black",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "HAVA TOP -- MALTA STRIPE",
+                "variantTitle": "MALTA STRIPE / XXS",
+                "price": 124,
+                "compareAtPrice": 248,
+                "discountPct": 50,
+                "productUrl": "https://shopdoen.com/products/hava-top-malta-stripe",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "MORGAN PANT -- MALTA STRIPE",
+                "variantTitle": "MALTA STRIPE / XXS",
+                "price": 114,
+                "compareAtPrice": 228,
+                "discountPct": 50,
+                "productUrl": "https://shopdoen.com/products/morgan-pant-malta-stripe",
+                "domain": "shopdoen.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "THELMA SHORT -- MALTA STRIPE",
+                "price": 79,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/thelma-short-malta-stripe",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "SOLENE PANT -- NAVY",
+                "price": 114,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/solene-pant-navy-1",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "RAINA SKIRT -- MARIANNE PINSTRIPE",
+                "price": 80,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/raina-skirt-marianne-pinstripe",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "QUINTESSA DRESS -- DEEP CRIMSON",
+                "price": 104,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/quintessa-dress-deep-crimson",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "PENROSE CARDIGAN -- SPRUCE",
+                "price": 92,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/penrose-cardigan-spruce",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "PAIGE PANT -- SALT",
+                "price": 195,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/paige-pant-salt",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "MORGAN PANT -- MALTA STRIPE",
+                "price": 114,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/morgan-pant-malta-stripe",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "MONT TEE -- COCONUT",
+                "price": 89,
+                "detectedAt": "2026-11-24T12:34:37.520Z",
+                "productUrl": "https://shopdoen.com/products/mont-tee-coconut",
+                "domain": "shopdoen.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "ARIANNA HIGH HEEL -- BLACK LACE",
+                "variantCountOos": 12,
+                "productUrl": "https://shopdoen.com/products/arianna-high-heel-black-lace",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "ALORA TIE FLAT -- NUDE NAPPA",
+                "variantCountOos": 10,
+                "productUrl": "https://shopdoen.com/products/alora-tie-flat-nude",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "HMD -- MERCER JEAN -- LA ROCHELLE WASH",
+                "variantCountOos": 10,
+                "productUrl": "https://shopdoen.com/products/hmd-mercer-jean-la-rochelle-wash",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "HMD -- MELODY JEAN -- ALBI WASH",
+                "variantCountOos": 9,
+                "productUrl": "https://shopdoen.com/products/hmd-melody-jean-albi-wash",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "HMD -- DIANA JEAN -- PALOMINO",
+                "variantCountOos": 8,
+                "productUrl": "https://shopdoen.com/products/hmd-diana-jean-palomino",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "BIJOU DRESS -- NOIR PRAIRIE DE MONTAGNE",
+                "variantCountOos": 7,
+                "productUrl": "https://shopdoen.com/products/bijou-dress-noir-prairie-de-montagne",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "BRIGIDE DRESS -- COTTAGE GROVE",
+                "variantCountOos": 7,
+                "productUrl": "https://shopdoen.com/products/brigide-dress-cottage-grove",
+                "domain": "shopdoen.com"
+              },
+              {
+                "title": "DAPHNE DRESS -- CLOUDLESS SKY",
+                "variantCountOos": 7,
+                "productUrl": "https://shopdoen.com/products/daphne-dress-cloudless-sky",
+                "domain": "shopdoen.com"
+              }
+            ]
+          }
+        ],
+        "categoryBenchmark": {
+          "vertical": "Apparel",
+          "stores": 20,
+          "storesRunningSales": 15,
+          "products": 4272,
+          "onSaleProducts": 1663,
+          "pctCatalogOnSale": 38.9,
+          "variants": 30453,
+          "oosVariants": 8148,
+          "avgDiscountPct": 33.1,
+          "maxDiscountPct": 85.1,
+          "priceDrops": 3693,
+          "salesStarted": 3012,
+          "newProducts": 247,
+          "stockouts": 1078
+        },
+        "allVerticalBenchmarks": [
+          {
+            "vertical": "Home Goods",
+            "stores": 20,
+            "storesRunningSales": 19,
+            "products": 2740,
+            "onSaleProducts": 1217,
+            "pctCatalogOnSale": 44.4,
+            "variants": 23385,
+            "oosVariants": 5805,
+            "avgDiscountPct": 31,
+            "maxDiscountPct": 77.5,
+            "priceDrops": 811,
+            "salesStarted": 634,
+            "newProducts": 61,
+            "stockouts": 387
+          },
+          {
+            "vertical": "Apparel",
+            "stores": 20,
+            "storesRunningSales": 15,
+            "products": 4272,
+            "onSaleProducts": 1663,
+            "pctCatalogOnSale": 38.9,
+            "variants": 30453,
+            "oosVariants": 8148,
+            "avgDiscountPct": 33.1,
+            "maxDiscountPct": 85.1,
+            "priceDrops": 3693,
+            "salesStarted": 3012,
+            "newProducts": 247,
+            "stockouts": 1078
+          },
+          {
+            "vertical": "Beauty/Skincare",
+            "stores": 20,
+            "storesRunningSales": 17,
+            "products": 2038,
+            "onSaleProducts": 396,
+            "pctCatalogOnSale": 19.4,
+            "variants": 6278,
+            "oosVariants": 858,
+            "avgDiscountPct": 21.5,
+            "maxDiscountPct": 59.8,
+            "priceDrops": 25,
+            "salesStarted": 0,
+            "newProducts": 30,
+            "stockouts": 105
+          },
+          {
+            "vertical": "Wellness",
+            "stores": 18,
+            "storesRunningSales": 13,
+            "products": 1024,
+            "onSaleProducts": 154,
+            "pctCatalogOnSale": 15,
+            "variants": 2773,
+            "oosVariants": 116,
+            "avgDiscountPct": 18.6,
+            "maxDiscountPct": 82.6,
+            "priceDrops": 3,
+            "salesStarted": 3,
+            "newProducts": 4,
+            "stockouts": 18
+          }
+        ],
+        "overallIndex": {
+          "totalStores": 80,
+          "activeStores": 78,
+          "storesRunningSales": 64,
+          "totalProducts": 10074,
+          "totalVariants": 62889,
+          "totalOnSaleProducts": 3430,
+          "pctCatalogOnSale": 34,
+          "avgDiscountPct": 26.4,
+          "maxDiscountPct": 85.1,
+          "totalOosVariants": 14927,
+          "totalEvents": 12985,
+          "totalPriceDrops": 4532,
+          "totalSalesStarted": 3649,
+          "totalNewProducts": 342,
+          "totalStockoutEvents": 1588,
+          "totalBannerChanges": 11
+        },
+        "takeaways": [
+          "Discount framing: 4 of 4 tracked competitors are running active compare-at markdowns averaging 41.2% off across 33.5% of combined SKUs vs. the Apparel benchmark of 38.9% of catalog on sale and 33.1% average markdown. Lunya has 73.2% of its catalog marked down, while DÔEN leads discount depth at 61.5% avg (up to 85.1% off).",
+          "Launch timing: Competitors did not wait for Black Friday morning — the first markdown wave hit on Nov 23, 2026, 7:40 AM EST at Hill House Home. Detected promo start timestamps: Hill House Home (Nov 23, 2026, 7:40 AM EST), DÔEN (Nov 24, 2026, 7:34 AM EST), Lunya (Nov 24, 2026, 7:34 AM EST). Schedule next year's VIP/early-access drops before T-5 days to protect full-price ad efficiency.",
+          "Capture stranded demand from stockouts: Tracked rivals currently show 2,458 out-of-stock variants, led by DÔEN (1,086 OOS variants; 11 stockout events logged this week). Shift Google Shopping and Meta retargeting budget toward equivalent in-stock SKUs where rivals are sold out of core sizes or colors.",
+          "Holiday SKU drops instead of pure discounting: Competitors launched 102 new products during Nov 20–25 (Lunya added 36). Watch those full-price gift/bundle arrivals—they protect blended gross margin even while core catalog items are discounted."
+        ]
+      }
+    },
+    {
+      "slug": "menswear",
+      "title": "Menswear — Black Friday 2026 Competitor Report",
+      "brandName": "Sample Heritage & Performance Menswear Brand",
+      "brandUrl": "taylorstitch.com / ministryofsupply.com vertical",
+      "category": "Apparel",
+      "description": "Tracks American Giant, Marine Layer, UNTUCKit, Cuts Clothing, and Alex Mill: 1,821 Nov 24 price cuts, 25% sitewide banners, and 850+ OOS variants.",
+      "competitorDomains": [
+        "american-giant.com",
+        "marinelayer.com",
+        "untuckit.com",
+        "cutsclothing.com",
+        "alexmill.com"
+      ],
+      "report": {
+        "slug": "menswear",
+        "title": "Menswear — Black Friday 2026 Competitor Report",
+        "brandName": "Sample Heritage & Performance Menswear Brand",
+        "brandUrl": "taylorstitch.com / ministryofsupply.com vertical",
+        "category": "Apparel",
+        "generatedAt": "2026-11-25T14:14:51.962Z",
+        "windowLabel": "Nov 20 – Nov 25, 2026 (ET)",
+        "summary": {
+          "competitorsAnalyzed": 5,
+          "competitorsRunningSales": 4,
+          "totalCompetitorProducts": 1197,
+          "totalCompetitorOnSale": 497,
+          "avgCompetitorSalePct": 41.5,
+          "avgCompetitorDiscountPct": 30.7,
+          "maxCompetitorDiscountPct": 70.3,
+          "earliestSaleStartedAt": "2026-11-24T12:34:33.911Z",
+          "totalPriceDrops": 2275,
+          "totalNewLaunches": 33,
+          "totalStockoutVariants": 2529
+        },
+        "competitors": [
+          {
+            "domain": "american-giant.com",
+            "name": "American Giant",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:45.672Z",
+            "productCount": 197,
+            "variantCount": 4047,
+            "activeSaleCount": 153,
+            "pctCatalogOnSale": 77.7,
+            "avgDiscountPct": 32.3,
+            "maxDiscountPct": 70,
+            "outOfStockVariants": 1369,
+            "firstDiscountAt": "2026-11-24T12:34:33.911Z",
+            "promoBanner": "FREE SHIPPING ON US ORDERS OVER $150+ The Loyalty Program. Start Earning Rewards Today.",
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 1821,
+              "salesStarted": 1471,
+              "priceIncreases": 305,
+              "newProducts": 4,
+              "stockouts": 179,
+              "restocks": 92
+            },
+            "topDiscounts": [
+              {
+                "title": "Pickleball Hat - Pickleball",
+                "variantTitle": "White",
+                "price": 15,
+                "compareAtPrice": 50,
+                "discountPct": 70,
+                "productUrl": "https://american-giant.com/products/pickleball-hat-pickleball",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Women's Classic Cotton Crew Tee Mike Rowe",
+                "variantTitle": "White / XS",
+                "price": 20,
+                "compareAtPrice": 55,
+                "discountPct": 63.6,
+                "productUrl": "https://american-giant.com/products/womens-classic-cotton-crew-tee-mike-rowe",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Roughneck Pant Slim",
+                "variantTitle": "Mahogany / 30 / 32",
+                "price": 65,
+                "compareAtPrice": 165,
+                "discountPct": 60.6,
+                "productUrl": "https://american-giant.com/products/mens-roughneck-pant-slim",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Women's Side Slit French Terry Short",
+                "variantTitle": "Plum Berry / XS",
+                "price": 40,
+                "compareAtPrice": 95,
+                "discountPct": 57.9,
+                "productUrl": "https://american-giant.com/products/womens-side-slit-french-terry-short",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Lightweight Beach Short",
+                "variantTitle": "Navy / S",
+                "price": 45,
+                "compareAtPrice": 95,
+                "discountPct": 52.6,
+                "productUrl": "https://american-giant.com/products/mens-lightweight-beach-short",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Ponte Kick Flare Pant",
+                "variantTitle": "Super Black / Regular / 0",
+                "price": 38,
+                "compareAtPrice": 78,
+                "discountPct": 51.3,
+                "productUrl": "https://american-giant.com/products/ponte-kick-flare-pant",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Ponte Slim Pant",
+                "variantTitle": "Super Black / Regular / 0",
+                "price": 38,
+                "compareAtPrice": 78,
+                "discountPct": 51.3,
+                "productUrl": "https://american-giant.com/products/ponte-slim-pant",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Ponte Slim Pant High Rise",
+                "variantTitle": "Super Black / Regular / 0",
+                "price": 38,
+                "compareAtPrice": 78,
+                "discountPct": 51.3,
+                "productUrl": "https://american-giant.com/products/ponte-slim-pant-high-rise",
+                "domain": "american-giant.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Otter Wax Standard Essentials Leather Care Kit",
+                "price": 40,
+                "detectedAt": "2026-11-24T12:34:33.911Z",
+                "productUrl": "https://american-giant.com/products/otter-wax-standard-essentials-leather-care-kit",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Women's Rib Collar Thermal Henley",
+                "price": 130,
+                "detectedAt": "2026-11-22T12:43:58.701Z",
+                "productUrl": "https://american-giant.com/products/womens-rib-collar-thermal-henley",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Varsity Pullover",
+                "price": 130,
+                "detectedAt": "2026-11-22T12:43:58.701Z",
+                "productUrl": "https://american-giant.com/products/mens-varsity-pullover",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Women's French Terry V-Neck",
+                "price": 85,
+                "detectedAt": "2026-11-21T12:47:08.134Z",
+                "productUrl": "https://american-giant.com/products/womens-french-terry-v-neck",
+                "domain": "american-giant.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Men's Roughneck Pant Straight",
+                "variantCountOos": 54,
+                "productUrl": "https://american-giant.com/products/mens-roughneck-pant-straight",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Premium Slub V-Neck Tee",
+                "variantCountOos": 44,
+                "productUrl": "https://american-giant.com/products/mens-premium-slub-v-neck-tee",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Premium Slub Crew Tee",
+                "variantCountOos": 37,
+                "productUrl": "https://american-giant.com/products/mens-premium-slub-crew-tee",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Pocket Tee",
+                "variantCountOos": 36,
+                "productUrl": "https://american-giant.com/products/mens-pocket-tee",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Relaxed Classic Full Zip",
+                "variantCountOos": 34,
+                "productUrl": "https://american-giant.com/products/mens-relaxed-classic-full-zip",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Everest Tee",
+                "variantCountOos": 31,
+                "productUrl": "https://american-giant.com/products/mens-everest-tee",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Women's Premium Slub Crew Tee",
+                "variantCountOos": 30,
+                "productUrl": "https://american-giant.com/products/womens-premium-slub-crew-tee",
+                "domain": "american-giant.com"
+              },
+              {
+                "title": "Men's Golden State Tee",
+                "variantCountOos": 29,
+                "productUrl": "https://american-giant.com/products/mens-golden-state-tee",
+                "domain": "american-giant.com"
+              }
+            ]
+          },
+          {
+            "domain": "marinelayer.com",
+            "name": "Marine Layer",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:47.418Z",
+            "productCount": 250,
+            "variantCount": 1197,
+            "activeSaleCount": 34,
+            "pctCatalogOnSale": 13.6,
+            "avgDiscountPct": 25,
+            "maxDiscountPct": 50.6,
+            "outOfStockVariants": 92,
+            "firstDiscountAt": "2026-11-24T12:34:35.072Z",
+            "promoBanner": "25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+",
+            "bannerChanges": [
+              {
+                "detectedAt": "2026-11-25T12:37:47.418Z",
+                "oldValue": "25% Off Everything. Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+",
+                "newValue": "25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+"
+              },
+              {
+                "detectedAt": "2026-11-24T12:34:35.072Z",
+                "oldValue": "Make Coastal Merino Yours 🐏 Make Coastal Merino Yours 🐏 Personalize It Personalize It Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+ Oh Hey, New Arrivals Free Returns for 365 Days Shop His Shop His Shop Hers Shop Hers",
+                "newValue": "25% Off Everything. Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+"
+              }
+            ],
+            "eventCounts": {
+              "priceDrops": 140,
+              "salesStarted": 140,
+              "priceIncreases": 0,
+              "newProducts": 1,
+              "stockouts": 29,
+              "restocks": 12
+            },
+            "topDiscounts": [
+              {
+                "title": "Suri Alpaca Mock Neck Sweater",
+                "variantTitle": "Small / Cream",
+                "price": 88,
+                "compareAtPrice": 178,
+                "discountPct": 50.6,
+                "productUrl": "https://marinelayer.com/products/suri-alpaca-mock-neck-sweater-1",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Tahoe Fresh Tracks Flannel Shirt",
+                "variantTitle": "Small / Navy Ski Print",
+                "price": 80,
+                "compareAtPrice": 138,
+                "discountPct": 42,
+                "productUrl": "https://marinelayer.com/products/fresh-tracks-stretch-selvage-shirt",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Juno Reversible Raglan",
+                "variantTitle": "Extra Small / Moonlit Blue",
+                "price": 55,
+                "compareAtPrice": 94,
+                "discountPct": 41.5,
+                "productUrl": "https://marinelayer.com/products/reversible-raglan-8",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Suri Alpaca Cardigan",
+                "variantTitle": "Extra Small / Cabernet",
+                "price": 110,
+                "compareAtPrice": 158,
+                "discountPct": 30.4,
+                "productUrl": "https://marinelayer.com/products/suri-alpaca-cardigan",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Suri Alpaca Cardigan",
+                "variantTitle": "Extra Small / French Blue",
+                "price": 110,
+                "compareAtPrice": 158,
+                "discountPct": 30.4,
+                "productUrl": "https://marinelayer.com/products/suri-alpaca-cardigan-1",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Alma Puff Sleeve Sweater",
+                "variantTitle": "Extra Small / Charcoal Multi",
+                "price": 128,
+                "compareAtPrice": 178,
+                "discountPct": 28.1,
+                "productUrl": "https://marinelayer.com/products/alma-puff-sleeve-sweater-4",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Alma Puff Sleeve Sweater",
+                "variantTitle": "Extra Small / Ivory Multi",
+                "price": 128,
+                "compareAtPrice": 178,
+                "discountPct": 28.1,
+                "productUrl": "https://marinelayer.com/products/alma-puff-sleeve-sweater-5",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Everly Cable Knit Cardigan",
+                "variantTitle": "Extra Small / Crimson",
+                "price": 128,
+                "compareAtPrice": 168,
+                "discountPct": 23.8,
+                "productUrl": "https://marinelayer.com/products/everly-cable-knit-cardigan-3",
+                "domain": "marinelayer.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Coastal Merino Crewneck Sweater",
+                "price": 158,
+                "detectedAt": "2026-11-21T12:47:09.281Z",
+                "productUrl": "https://marinelayer.com/products/merino-crew-sweater-6",
+                "domain": "marinelayer.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Men's Signature Sea Change Crew Tee in Asphalt",
+                "variantCountOos": 8,
+                "productUrl": "https://marinelayer.com/products/mens-signature-sea-change-crew-tee",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Men's Signature Sea Change Crew Tee in Black",
+                "variantCountOos": 8,
+                "productUrl": "https://marinelayer.com/products/mens-signature-sea-change-crew-tee-in-black",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Men's Signature Sea Change Crew Tee in Navy",
+                "variantCountOos": 8,
+                "productUrl": "https://marinelayer.com/products/mens-signature-sea-change-crew-tee-in-navy",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Men's Signature Sea Change Crew Tee in White",
+                "variantCountOos": 8,
+                "productUrl": "https://marinelayer.com/products/mens-signature-sea-change-crew-tee-in-white",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Corbet Quilted Reversible Pullover",
+                "variantCountOos": 5,
+                "productUrl": "https://marinelayer.com/products/corbet-quilted-reversible-pullover",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Dara Sherpa Jacket",
+                "variantCountOos": 5,
+                "productUrl": "https://marinelayer.com/products/dara-sherpa-jacket",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Suri Alpaca Mock Neck Sweater",
+                "variantCountOos": 5,
+                "productUrl": "https://marinelayer.com/products/suri-alpaca-mock-neck-sweater",
+                "domain": "marinelayer.com"
+              },
+              {
+                "title": "Juno Reversible Raglan",
+                "variantCountOos": 3,
+                "productUrl": "https://marinelayer.com/products/reversible-raglan-8",
+                "domain": "marinelayer.com"
+              }
+            ]
+          },
+          {
+            "domain": "untuckit.com",
+            "name": "UNTUCKit",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:54.200Z",
+            "productCount": 250,
+            "variantCount": 3014,
+            "activeSaleCount": 65,
+            "pctCatalogOnSale": 26,
+            "avgDiscountPct": 23.4,
+            "maxDiscountPct": 46.9,
+            "outOfStockVariants": 823,
+            "firstDiscountAt": "2026-11-25T12:37:54.200Z",
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 282,
+              "salesStarted": 252,
+              "priceIncreases": 0,
+              "newProducts": 9,
+              "stockouts": 150,
+              "restocks": 116
+            },
+            "topDiscounts": [
+              {
+                "title": "Sherpa Pullover",
+                "variantTitle": "Small / Regular Fit / Tan",
+                "price": 68,
+                "compareAtPrice": 128,
+                "discountPct": 46.9,
+                "productUrl": "https://untuckit.com/products/brenley-pullover-ecru",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Performance Flannel Barker Shirt",
+                "variantTitle": "Small / Regular Fit / Navy",
+                "price": 69,
+                "compareAtPrice": 115,
+                "discountPct": 40,
+                "productUrl": "https://untuckit.com/products/barker",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Vintage Wash Short-Sleeve Normand Shirt",
+                "variantTitle": "Small / Regular Fit / Navy",
+                "price": 60,
+                "compareAtPrice": 99.5,
+                "discountPct": 39.7,
+                "productUrl": "https://untuckit.com/products/normand",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Vintage Wash Valois Shirt",
+                "variantTitle": "Small / Regular Fit / Blue",
+                "price": 60,
+                "compareAtPrice": 99.5,
+                "discountPct": 39.7,
+                "productUrl": "https://untuckit.com/products/valois",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Cable-Knit Button Neck Sweater",
+                "variantTitle": "Small / Regular Fit / Green",
+                "price": 90,
+                "compareAtPrice": 148,
+                "discountPct": 39.2,
+                "productUrl": "https://untuckit.com/products/castilla-forest",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Cable-Knit Button Neck Sweater",
+                "variantTitle": "Small / Regular Fit / Red",
+                "price": 90,
+                "compareAtPrice": 148,
+                "discountPct": 39.2,
+                "productUrl": "https://untuckit.com/products/castilla-red",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "French Terry Track Jacket",
+                "variantTitle": "XX-Large / Regular Fit / Blue",
+                "price": 90,
+                "compareAtPrice": 148,
+                "discountPct": 39.2,
+                "productUrl": "https://untuckit.com/products/gainsborough-navy-blazer",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Lightweight Garment Dye Cotton Hoodie",
+                "variantTitle": "Small / Regular Fit / Dark Green",
+                "price": 72,
+                "compareAtPrice": 118,
+                "discountPct": 39,
+                "productUrl": "https://untuckit.com/products/kraus-pine-grove",
+                "domain": "untuckit.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Wool-Mohair Oaksley Sport Coat",
+                "price": 395,
+                "detectedAt": "2026-11-25T12:37:54.200Z",
+                "productUrl": "https://untuckit.com/products/oaksley",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Wool Blend Gilmore Sport Coat",
+                "price": 395,
+                "detectedAt": "2026-11-25T12:37:54.200Z",
+                "productUrl": "https://untuckit.com/products/gilmore",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Wool Blend Farley Sport Coat",
+                "price": 395,
+                "detectedAt": "2026-11-25T12:37:54.200Z",
+                "productUrl": "https://untuckit.com/products/farley",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Wool Blend Avington Sport Coat",
+                "price": 395,
+                "detectedAt": "2026-11-25T12:37:54.200Z",
+                "productUrl": "https://untuckit.com/products/avington",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Insulated Water-Resistant Jacket",
+                "price": 198,
+                "detectedAt": "2026-11-25T12:37:54.200Z",
+                "productUrl": "https://untuckit.com/products/ferrigan-black",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Stretch Denim Ava Pant",
+                "price": 108,
+                "detectedAt": "2026-11-24T12:34:42.014Z",
+                "productUrl": "https://untuckit.com/products/ava-3",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Performance Viremont Shirt",
+                "price": 115,
+                "detectedAt": "2026-11-23T12:40:16.410Z",
+                "productUrl": "https://untuckit.com/products/viremont-green",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Full-Zip CPO Jacket",
+                "price": 178,
+                "detectedAt": "2026-11-21T12:47:15.647Z",
+                "productUrl": "https://untuckit.com/products/raphael-boiled-wool-tigers-eye",
+                "domain": "untuckit.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "CottonTek™ Brachetto Shirt",
+                "variantCountOos": 24,
+                "productUrl": "https://untuckit.com/products/sunquil-cottontek-red",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "CottonTek™ Brachetto Shirt",
+                "variantCountOos": 24,
+                "productUrl": "https://untuckit.com/products/sunquil-cottontek-blue-fog",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Wrinkle-Free Gallis Shirt - FINAL SALE",
+                "variantCountOos": 22,
+                "productUrl": "https://untuckit.com/products/gallis-wf-black",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Wrinkle-Free Gallis Shirt",
+                "variantCountOos": 18,
+                "productUrl": "https://untuckit.com/products/gallis-wf-grey",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Flannel Plenville Shirt",
+                "variantCountOos": 17,
+                "productUrl": "https://untuckit.com/products/plenville-green",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "CottonTek™ Brachetto Shirt",
+                "variantCountOos": 16,
+                "productUrl": "https://untuckit.com/products/kleinwood-brown",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Flannel Hemsworth Shirt",
+                "variantCountOos": 16,
+                "productUrl": "https://untuckit.com/products/hemsworth-scarab",
+                "domain": "untuckit.com"
+              },
+              {
+                "title": "Flannel Hemsworth Shirt",
+                "variantCountOos": 16,
+                "productUrl": "https://untuckit.com/products/hemsworth-6",
+                "domain": "untuckit.com"
+              }
+            ]
+          },
+          {
+            "domain": "cutsclothing.com",
+            "name": "Cuts Clothing",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:53.435Z",
+            "productCount": 250,
+            "variantCount": 1086,
+            "activeSaleCount": 245,
+            "pctCatalogOnSale": 98,
+            "avgDiscountPct": 41.9,
+            "maxDiscountPct": 70.3,
+            "outOfStockVariants": 183,
+            "firstDiscountAt": "2026-11-24T12:34:41.598Z",
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 32,
+              "salesStarted": 0,
+              "priceIncreases": 83,
+              "newProducts": 18,
+              "stockouts": 29,
+              "restocks": 35
+            },
+            "topDiscounts": [
+              {
+                "title": "Hudson Soft Knit Button Up | Black Signature-Fit",
+                "variantTitle": "M",
+                "price": 48,
+                "compareAtPrice": 138,
+                "discountPct": 65.2,
+                "productUrl": "https://cutsclothing.com/products/hudson-soft-knit-button-up-black",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Soho Short Sleeve Button Up | Pacific Blue Signature-fit",
+                "variantTitle": "S",
+                "price": 34,
+                "compareAtPrice": 84,
+                "discountPct": 59.5,
+                "productUrl": "https://cutsclothing.com/products/soho-short-sleeve-button-up-pacific-blue",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Hoodie | Truffle Classic-fit",
+                "variantTitle": "S",
+                "price": 49,
+                "compareAtPrice": 118,
+                "discountPct": 58.5,
+                "productUrl": "https://cutsclothing.com/products/divine-hoodie-truffle",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Sweatpant | Truffle Classic-fit",
+                "variantTitle": "S",
+                "price": 49,
+                "compareAtPrice": 118,
+                "discountPct": 58.5,
+                "productUrl": "https://cutsclothing.com/products/divine-sweatpant-truffle",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Straight-Leg Sweatpant | Truffle Classic-fit",
+                "variantTitle": "S",
+                "price": 49,
+                "compareAtPrice": 118,
+                "discountPct": 58.5,
+                "productUrl": "https://cutsclothing.com/products/divine-straight-leg-sweatpant-truffle",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Hoodie | Charcoal Classic-fit",
+                "variantTitle": "S",
+                "price": 49,
+                "compareAtPrice": 118,
+                "discountPct": 58.5,
+                "productUrl": "https://cutsclothing.com/products/divine-fleece-hoodie-charcoal",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Sweatpant | Charcoal Classic-fit",
+                "variantTitle": "M",
+                "price": 49,
+                "compareAtPrice": 118,
+                "discountPct": 58.5,
+                "productUrl": "https://cutsclothing.com/products/divine-fleece-sweatpant-charcoal",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Straight-Leg Sweatpant | Black Classic-fit",
+                "variantTitle": "S",
+                "price": 49,
+                "compareAtPrice": 118,
+                "discountPct": 58.5,
+                "productUrl": "https://cutsclothing.com/products/divine-fleece-straight-leg-sweatpant-black",
+                "domain": "cutsclothing.com"
+              }
+            ],
+            "topNewLaunches": [
+              {
+                "title": "Mercer Fisherman Sweater | Sand Dune Classic-Fit",
+                "price": 78,
+                "detectedAt": "2026-11-25T12:37:53.435Z",
+                "productUrl": "https://cutsclothing.com/products/mercer-fisherman-sweater-sand-dune",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Mercer Fisherman Sweater | Black Classic-Fit",
+                "price": 78,
+                "detectedAt": "2026-11-25T12:37:53.435Z",
+                "productUrl": "https://cutsclothing.com/products/mercer-fisherman-sweater-black",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Straight-Leg Sweatpant | Truffle Classic-fit",
+                "price": 49,
+                "detectedAt": "2026-11-25T12:37:53.435Z",
+                "productUrl": "https://cutsclothing.com/products/divine-straight-leg-sweatpant-truffle",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Hoodie | Truffle Classic-fit",
+                "price": 49,
+                "detectedAt": "2026-11-25T12:37:53.435Z",
+                "productUrl": "https://cutsclothing.com/products/divine-hoodie-truffle",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Brooks Flannel Soft Brushed Button Up | Blue-Black Classic-Fit",
+                "price": 58,
+                "detectedAt": "2026-11-24T12:34:41.598Z",
+                "productUrl": "https://cutsclothing.com/products/brooks-flannel-soft-brushed-button-up-blue-black",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "AO Trouser Pant | Steel Classic Fit",
+                "price": 88,
+                "detectedAt": "2026-11-24T12:34:41.598Z",
+                "productUrl": "https://cutsclothing.com/products/ao-trouser-classic-fit-steel",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "AO Trouser Pant | Coast Classic Fit",
+                "price": 88,
+                "detectedAt": "2026-11-24T12:34:41.598Z",
+                "productUrl": "https://cutsclothing.com/products/ao-trouser-classic-fit-coast",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "AO Trouser Pant | Black Classic Fit",
+                "price": 88,
+                "detectedAt": "2026-11-24T12:34:41.598Z",
+                "productUrl": "https://cutsclothing.com/products/ao-trouser-classic-fit-black",
+                "domain": "cutsclothing.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "AO Trouser Pant | Coast Classic Fit",
+                "variantCountOos": 8,
+                "productUrl": "https://cutsclothing.com/products/ao-trouser-classic-fit-coast",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "SoHo Pleated Trouser Relaxed-Fit | Heather Charcoal Woven",
+                "variantCountOos": 6,
+                "productUrl": "https://cutsclothing.com/products/soho-pleated-trouser-heathered-grey",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Divine Fleece Oversized Hoodie | Vapor",
+                "variantCountOos": 5,
+                "productUrl": "https://cutsclothing.com/products/women-divine-hoodie-vapor",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "AO Long Sleeve Curve-Hem Tee | Mountain Mist Signature-fit PYCA Pro®",
+                "variantCountOos": 4,
+                "productUrl": "https://cutsclothing.com/products/mountain-mist-l-s-crew-curve-hem-1",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "AO Trouser Pant | Steel Classic Fit",
+                "variantCountOos": 4,
+                "productUrl": "https://cutsclothing.com/products/ao-trouser-classic-fit-steel",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "Almost Friday Tee Cropped | White Classic-fit PYCA Pro®",
+                "variantCountOos": 4,
+                "productUrl": "https://cutsclothing.com/products/white-almost-friday-tee-cropped",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "District Heavyweight Overshirt | Nimbus Plaid Classic-Fit",
+                "variantCountOos": 4,
+                "productUrl": "https://cutsclothing.com/products/district-heavyweight-overshirt-nimbus-plaid",
+                "domain": "cutsclothing.com"
+              },
+              {
+                "title": "AO Elongated Tee | Pacific Blue Signature-fit PYCA Pro®",
+                "variantCountOos": 3,
+                "productUrl": "https://cutsclothing.com/products/pacific-blue-crew-elongated",
+                "domain": "cutsclothing.com"
+              }
+            ]
+          },
+          {
+            "domain": "alexmill.com",
+            "name": "Alex Mill",
+            "vertical": "Apparel",
+            "foundInDb": true,
+            "status": "active",
+            "lastScannedAt": "2026-11-25T12:37:46.716Z",
+            "productCount": 250,
+            "variantCount": 901,
+            "activeSaleCount": 0,
+            "pctCatalogOnSale": 0,
+            "avgDiscountPct": 0,
+            "maxDiscountPct": 0,
+            "outOfStockVariants": 62,
+            "firstDiscountAt": null,
+            "promoBanner": null,
+            "bannerChanges": [],
+            "eventCounts": {
+              "priceDrops": 0,
+              "salesStarted": 0,
+              "priceIncreases": 0,
+              "newProducts": 1,
+              "stockouts": 9,
+              "restocks": 6
+            },
+            "topDiscounts": [],
+            "topNewLaunches": [
+              {
+                "title": "Maria La Rosa Firefly Lurex Socks",
+                "price": 44,
+                "detectedAt": "2026-11-24T12:34:34.236Z",
+                "productUrl": "https://alexmill.com/products/maria-la-rosa-firefly-lurex-socks-in-gold",
+                "domain": "alexmill.com"
+              }
+            ],
+            "topStockouts": [
+              {
+                "title": "Taylor Candy Stripe Cardigan in Washed Cashmere",
+                "variantCountOos": 5,
+                "productUrl": "https://alexmill.com/products/taylor-candy-stripe-cardigan-in-washed-cashmere-in-multi-colored",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "Carleen x Alex Mill Ardmore Jacket with Fringe",
+                "variantCountOos": 4,
+                "productUrl": "https://alexmill.com/products/carleen-x-alex-mill-ardmore-jacket-with-fringe",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "J. Press x Alex Mill Rugby Striped Shirt In Cotton",
+                "variantCountOos": 4,
+                "productUrl": "https://alexmill.com/products/j-press-x-alex-mill-rugby-striped-shirt-in-cotton-in-royal-green",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "Snooze Striped Shirt in Tartan",
+                "variantCountOos": 4,
+                "productUrl": "https://alexmill.com/products/sleep-shirt-in-tartan-in-navy",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "Carleen x Alex Mill Short Brooks Jacket",
+                "variantCountOos": 3,
+                "productUrl": "https://alexmill.com/products/carleen-x-alex-mill-short-brooks-jacket",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "J. Press x Alex Mill Rugby Striped Shirt In Cotton",
+                "variantCountOos": 3,
+                "productUrl": "https://alexmill.com/products/j-press-x-alex-mill-rugby-striped-shirt-in-cotton-in-lt-blue-red",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "Sherpa House Shoes",
+                "variantCountOos": 3,
+                "productUrl": "https://alexmill.com/products/merippa-wool-plaid-house-shoes-in-blue-plaid",
+                "domain": "alexmill.com"
+              },
+              {
+                "title": "Sherpa House Shoes",
+                "variantCountOos": 3,
+                "productUrl": "https://alexmill.com/products/merippa-buffalo-check-house-shoes",
+                "domain": "alexmill.com"
+              }
+            ]
+          }
+        ],
+        "categoryBenchmark": {
+          "vertical": "Apparel",
+          "stores": 20,
+          "storesRunningSales": 15,
+          "products": 4272,
+          "onSaleProducts": 1663,
+          "pctCatalogOnSale": 38.9,
+          "variants": 30453,
+          "oosVariants": 8148,
+          "avgDiscountPct": 33.1,
+          "maxDiscountPct": 85.1,
+          "priceDrops": 3693,
+          "salesStarted": 3012,
+          "newProducts": 247,
+          "stockouts": 1078
+        },
+        "allVerticalBenchmarks": [
+          {
+            "vertical": "Home Goods",
+            "stores": 20,
+            "storesRunningSales": 19,
+            "products": 2740,
+            "onSaleProducts": 1217,
+            "pctCatalogOnSale": 44.4,
+            "variants": 23385,
+            "oosVariants": 5805,
+            "avgDiscountPct": 31,
+            "maxDiscountPct": 77.5,
+            "priceDrops": 811,
+            "salesStarted": 634,
+            "newProducts": 61,
+            "stockouts": 387
+          },
+          {
+            "vertical": "Apparel",
+            "stores": 20,
+            "storesRunningSales": 15,
+            "products": 4272,
+            "onSaleProducts": 1663,
+            "pctCatalogOnSale": 38.9,
+            "variants": 30453,
+            "oosVariants": 8148,
+            "avgDiscountPct": 33.1,
+            "maxDiscountPct": 85.1,
+            "priceDrops": 3693,
+            "salesStarted": 3012,
+            "newProducts": 247,
+            "stockouts": 1078
+          },
+          {
+            "vertical": "Beauty/Skincare",
+            "stores": 20,
+            "storesRunningSales": 17,
+            "products": 2038,
+            "onSaleProducts": 396,
+            "pctCatalogOnSale": 19.4,
+            "variants": 6278,
+            "oosVariants": 858,
+            "avgDiscountPct": 21.5,
+            "maxDiscountPct": 59.8,
+            "priceDrops": 25,
+            "salesStarted": 0,
+            "newProducts": 30,
+            "stockouts": 105
+          },
+          {
+            "vertical": "Wellness",
+            "stores": 18,
+            "storesRunningSales": 13,
+            "products": 1024,
+            "onSaleProducts": 154,
+            "pctCatalogOnSale": 15,
+            "variants": 2773,
+            "oosVariants": 116,
+            "avgDiscountPct": 18.6,
+            "maxDiscountPct": 82.6,
+            "priceDrops": 3,
+            "salesStarted": 3,
+            "newProducts": 4,
+            "stockouts": 18
+          }
+        ],
+        "overallIndex": {
+          "totalStores": 80,
+          "activeStores": 78,
+          "storesRunningSales": 64,
+          "totalProducts": 10074,
+          "totalVariants": 62889,
+          "totalOnSaleProducts": 3430,
+          "pctCatalogOnSale": 34,
+          "avgDiscountPct": 26.4,
+          "maxDiscountPct": 85.1,
+          "totalOosVariants": 14927,
+          "totalEvents": 12985,
+          "totalPriceDrops": 4532,
+          "totalSalesStarted": 3649,
+          "totalNewProducts": 342,
+          "totalStockoutEvents": 1588,
+          "totalBannerChanges": 11
+        },
+        "takeaways": [
+          "Discount framing: 4 of 5 tracked competitors are running active compare-at markdowns averaging 30.7% off across 41.5% of combined SKUs vs. the Apparel benchmark of 38.9% of catalog on sale and 33.1% average markdown. Cuts Clothing has 98% of its catalog marked down.",
+          "Launch timing: Competitors did not wait for Black Friday morning — the first markdown wave hit on Nov 24, 2026, 7:34 AM EST at American Giant. Detected promo start timestamps: American Giant (Nov 24, 2026, 7:34 AM EST), Marine Layer (Nov 24, 2026, 7:34 AM EST), Cuts Clothing (Nov 24, 2026, 7:34 AM EST), UNTUCKit (Nov 25, 2026, 7:37 AM EST). Schedule next year's VIP/early-access drops before T-5 days to protect full-price ad efficiency.",
+          "Promo mechanics & full-price holdouts: Alex Mill held 0 compare-at markdowns on /products.json (either staying full-price or gating offers via checkout/banner codes). Storefront banners active in this set: American Giant (“FREE SHIPPING ON US ORDERS OVER $150+ The Loyalty Program. Start Earning Rewards Today.”); Marine Layer (“25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+”). Compare checkout-code offers against visible strikethroughs so your paid-social landing pages match the friction level shoppers see elsewhere.",
+          "Capture stranded demand from stockouts: Tracked rivals currently show 2,529 out-of-stock variants, led by American Giant (1,369 OOS variants; 179 stockout events logged this week). Shift Google Shopping and Meta retargeting budget toward equivalent in-stock SKUs where rivals are sold out of core sizes or colors.",
+          "Holiday SKU drops instead of pure discounting: Competitors launched 33 new products during Nov 20–25 (Cuts Clothing added 18). Watch those full-price gift/bundle arrivals—they protect blended gross margin even while core catalog items are discounted."
+        ]
+      }
+    }
+  ]
+}

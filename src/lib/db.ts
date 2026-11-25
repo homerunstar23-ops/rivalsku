@@ -76,6 +76,19 @@ export type AuditLead = {
   created_at: string;
 };
 
+export type BfReportOrder = {
+  id: number;
+  brand_name: string;
+  brand_url: string;
+  email: string;
+  category: string | null;
+  competitor_urls: string;
+  amount_cents: number;
+  payment_status: string;
+  stripe_session_id: string | null;
+  created_at: string;
+};
+
 let instance: Database.Database | null = null;
 
 export function getDb(): Database.Database {
@@ -156,6 +169,19 @@ export function getDb(): Database.Database {
       work_email TEXT NOT NULL,
       brand_url TEXT NOT NULL,
       competitor_urls TEXT NOT NULL,
+      created_at TEXT NOT NULL
+    );
+
+    CREATE TABLE IF NOT EXISTS bf_report_orders (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      brand_name TEXT NOT NULL,
+      brand_url TEXT NOT NULL,
+      email TEXT NOT NULL,
+      category TEXT,
+      competitor_urls TEXT NOT NULL,
+      amount_cents INTEGER NOT NULL DEFAULT 4900,
+      payment_status TEXT NOT NULL DEFAULT 'pending_invoice',
+      stripe_session_id TEXT,
       created_at TEXT NOT NULL
     );
   `);

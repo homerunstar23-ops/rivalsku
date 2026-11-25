@@ -218,6 +218,12 @@ export function LandingPage() {
             <a href="#how-it-works" className="hover:text-white">
               How it works
             </a>
+            <a href="/black-friday-report" className="text-accent-glow hover:text-white">
+              BF 2026 Report
+            </a>
+            <a href="/black-friday-index" className="hover:text-white">
+              Discount Index
+            </a>
             <a href="#pricing" className="hover:text-white">
               Pricing
             </a>
@@ -249,6 +255,21 @@ export function LandingPage() {
         <div className="grain pointer-events-none absolute inset-0 opacity-[0.07]" />
         <div className="pointer-events-none absolute -right-24 -top-24 h-96 w-96 rounded-full bg-accent/10 blur-3xl" />
         <div className="relative mx-auto max-w-6xl px-5 pb-24 pt-16 md:pt-24">
+          <div className="mb-4 flex flex-wrap items-center gap-3">
+            <a
+              href="/black-friday-report"
+              className="inline-flex items-center gap-2 rounded-full border border-accent/40 bg-accent/15 px-3.5 py-1 text-xs font-semibold text-accent-glow hover:bg-accent/25"
+            >
+              <span>New · Black Friday 2026 Competitor Report ($49 one-time)</span>
+              <span>→</span>
+            </a>
+            <a
+              href="/black-friday-index"
+              className="text-xs text-white/65 underline-offset-4 hover:text-white hover:underline"
+            >
+              Read the 78-store 2026 DTC Discount Index
+            </a>
+          </div>
           <p className="eyebrow text-accent-glow">Shopify / DTC competitor monitoring</p>
           <h1 className="mt-5 max-w-3xl font-serif text-4xl leading-[1.1] tracking-tight sm:text-5xl md:text-[3.6rem]">
             Your competitors just changed price. Did you catch it in time?
@@ -271,6 +292,12 @@ export function LandingPage() {
               className="rounded-full border border-white/20 px-5 py-3 text-sm font-semibold text-white hover:border-white/50"
             >
               Start 7-Day Trial
+            </a>
+            <a
+              href="/black-friday-report"
+              className="rounded-full border border-accent/50 bg-accent/10 px-5 py-3 text-sm font-semibold text-accent-glow hover:bg-accent/20"
+            >
+              Black Friday 2026 Report ($49)
             </a>
             <a
               href="#sample-alert"
@@ -867,7 +894,13 @@ export function LandingPage() {
               hello@rivalsku.com
             </a>
           </p>
-          <div className="flex gap-5">
+          <div className="flex flex-wrap gap-5">
+            <a href="/black-friday-report" className="hover:text-ink-900">
+              BF 2026 Report
+            </a>
+            <a href="/black-friday-index" className="hover:text-ink-900">
+              Discount Index
+            </a>
             <a href="/privacy" className="hover:text-ink-900">
               Privacy
             </a>

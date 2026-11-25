@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Menswear — Black Friday 2026 Competitor Report — RivalSKU</title>
+<style>
+  @page { size: letter; margin: 0.55in; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #F6F4EF;
+    color: #0B1220;
+    margin: 0;
+    padding: 32px 16px;
+    line-height: 1.5;
+    font-size: 13px;
+  }
+  .page {
+    max-width: 920px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    border: 1px solid #D9D3C7;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .hero {
+    background: #0B1220;
+    color: #FFFFFF;
+    padding: 36px 40px;
+  }
+  .eyebrow {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #5EEAD4;
+    margin: 0;
+  }
+  .eyebrow-sm {
+    display: block;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #0F766E;
+    margin-bottom: 4px;
+  }
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 1.15;
+    margin: 10px 0 8px;
+  }
+  .sub {
+    color: rgba(255,255,255,0.72);
+    font-size: 14px;
+    margin: 0;
+  }
+  .meta-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 20px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.65);
+  }
+  .content {
+    padding: 32px 40px 40px;
+  }
+  h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin: 28px 0 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #EDE9E0;
+  }
+  h2:first-child { margin-top: 0; }
+  h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0 0 2px;
+  }
+  h4 {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #475569;
+    margin: 16px 0 8px;
+  }
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin: 16px 0 24px;
+  }
+  .kpi {
+    background: #F6F4EF;
+    border: 1px solid #EDE9E0;
+    border-radius: 12px;
+    padding: 14px 16px;
+  }
+  .kpi-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #64748B;
+  }
+  .kpi-val {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 26px;
+    margin-top: 4px;
+    color: #0B1220;
+  }
+  .kpi-sub {
+    font-size: 11px;
+    color: #64748B;
+    margin-top: 2px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0 16px;
+    font-size: 12.5px;
+  }
+  th {
+    text-align: left;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #64748B;
+    border-bottom: 2px solid #EDE9E0;
+    padding: 8px 8px;
+  }
+  td {
+    border-bottom: 1px solid #EDE9E0;
+    padding: 9px 8px;
+    vertical-align: top;
+  }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11.5px; }
+  .muted { color: #64748B; }
+  .highlight-row { background: #F0FDFA; }
+  .badge {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 999px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .badge-teal { background: #CCFBF1; color: #0F766E; }
+  .takeaways {
+    list-style: none;
+    padding: 0;
+    margin: 12px 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .takeaways li {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    background: #F6F4EF;
+    border: 1px solid #EDE9E0;
+    border-radius: 10px;
+    padding: 12px 14px;
+  }
+  .num-circle {
+    flex: none;
+    width: 22px;
+    height: 22px;
+    border-radius: 999px;
+    background: #0B1220;
+    color: #2DD4BF;
+    font-size: 11px;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1px;
+  }
+  .comp-card {
+    border: 1px solid #D9D3C7;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 18px;
+    break-inside: avoid;
+  }
+  .comp-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  .comp-pills { display: flex; gap: 6px; flex-wrap: wrap; }
+  .pill {
+    background: #0B1220;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 999px;
+  }
+  .banner-box {
+    background: #F0FDFA;
+    border: 1px solid #99F6E4;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 12.5px;
+    margin-bottom: 8px;
+  }
+  .muted-box {
+    background: #F8FAFC;
+    border-color: #E2E8F0;
+    color: #64748B;
+  }
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+  }
+  .compact-list {
+    margin: 0;
+    padding-left: 16px;
+    font-size: 12px;
+  }
+  .compact-list li { margin-bottom: 5px; }
+  .footer {
+    border-top: 1px solid #EDE9E0;
+    padding: 18px 40px;
+    font-size: 11.5px;
+    color: #64748B;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    background: #FAF9F6;
+  }
+  @media print {
+    body { background: #FFFFFF; padding: 0; }
+    .page { border: none; border-radius: 0; max-width: none; }
+    .hero { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .kpi, .pill, .badge-teal, .banner-box, .takeaways li { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <p class="eyebrow">RivalSKU · Black Friday 2026 Competitor Report</p>
+      <h1>Menswear — Black Friday 2026 Competitor Report</h1>
+      <p class="sub">Prepared for Sample Heritage &amp; Performance Menswear Brand (taylorstitch.com / ministryofsupply.com vertical) · Category: Apparel</p>
+      <div class="meta-bar">
+        <span>Monitoring Window: Nov 20 – Nov 25, 2026 (ET)</span>
+        <span>Generated: Nov 25, 2026, 9:14 AM EST</span>
+        <span>Source: Public Shopify storefront /products.json &amp; homepage scans</span>
+      </div>
+    </header>
+
+    <div class="content">
+      <h2>Executive Summary</h2>
+      <div class="kpi-grid">
+        <div class="kpi">
+          <div class="kpi-label">Catalog on Sale</div>
+          <div class="kpi-val">41.5%</div>
+          <div class="kpi-sub">497 of 1,197 SKUs</div>
+        </div>
+        <div class="kpi">
+          <div class="kpi-label">Avg Discount Depth</div>
+          <div class="kpi-val">30.7%</div>
+          <div class="kpi-sub">Peak markdown: 70.3% off</div>
+        </div>
+        <div class="kpi">
+          <div class="kpi-label">Price Drops Logged</div>
+          <div class="kpi-val">2,275</div>
+          <div class="kpi-sub">First wave: Nov 24, 2026, 7:34 AM EST</div>
+        </div>
+        <div class="kpi">
+          <div class="kpi-label">OOS Variants / New SKUs</div>
+          <div class="kpi-val">2,529 / 33</div>
+          <div class="kpi-sub">Demand gaps &amp; holiday drops</div>
+        </div>
+      </div>
+
+      <h2>Actionable Takeaways</h2>
+      <ul class="takeaways">
+        <li><span class="num-circle">1</span><span>Discount framing: 4 of 5 tracked competitors are running active compare-at markdowns averaging 30.7% off across 41.5% of combined SKUs vs. the Apparel benchmark of 38.9% of catalog on sale and 33.1% average markdown. Cuts Clothing has 98% of its catalog marked down.</span></li>
+<li><span class="num-circle">2</span><span>Launch timing: Competitors did not wait for Black Friday morning — the first markdown wave hit on Nov 24, 2026, 7:34 AM EST at American Giant. Detected promo start timestamps: American Giant (Nov 24, 2026, 7:34 AM EST), Marine Layer (Nov 24, 2026, 7:34 AM EST), Cuts Clothing (Nov 24, 2026, 7:34 AM EST), UNTUCKit (Nov 25, 2026, 7:37 AM EST). Schedule next year's VIP/early-access drops before T-5 days to protect full-price ad efficiency.</span></li>
+<li><span class="num-circle">3</span><span>Promo mechanics &amp; full-price holdouts: Alex Mill held 0 compare-at markdowns on /products.json (either staying full-price or gating offers via checkout/banner codes). Storefront banners active in this set: American Giant (“FREE SHIPPING ON US ORDERS OVER $150+ The Loyalty Program. Start Earning Rewards Today.”); Marine Layer (“25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+”). Compare checkout-code offers against visible strikethroughs so your paid-social landing pages match the friction level shoppers see elsewhere.</span></li>
+<li><span class="num-circle">4</span><span>Capture stranded demand from stockouts: Tracked rivals currently show 2,529 out-of-stock variants, led by American Giant (1,369 OOS variants; 179 stockout events logged this week). Shift Google Shopping and Meta retargeting budget toward equivalent in-stock SKUs where rivals are sold out of core sizes or colors.</span></li>
+<li><span class="num-circle">5</span><span>Holiday SKU drops instead of pure discounting: Competitors launched 33 new products during Nov 20–25 (Cuts Clothing added 18). Watch those full-price gift/bundle arrivals—they protect blended gross margin even while core catalog items are discounted.</span></li>
+      </ul>
+
+      <h2>Competitor Side-by-Side</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Brand</th>
+            <th class="num">SKUs</th>
+            <th class="num">% On Sale</th>
+            <th class="num">Avg Off</th>
+            <th class="num">Max Off</th>
+            <th>First Discount (ET)</th>
+            <th class="num">New SKUs</th>
+            <th class="num">OOS Vars</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+        <td><strong>American Giant</strong><div class="mono muted">american-giant.com</div></td>
+        <td class="num">197</td>
+        <td class="num"><strong>77.7%</strong><div class="muted">153 SKUs</div></td>
+        <td class="num">32.3%</td>
+        <td class="num">70%</td>
+        <td>Nov 24, 2026, 7:34 AM EST</td>
+        <td class="num">4</td>
+        <td class="num">1,369</td>
+      </tr>
+<tr>
+        <td><strong>Marine Layer</strong><div class="mono muted">marinelayer.com</div></td>
+        <td class="num">250</td>
+        <td class="num"><strong>13.6%</strong><div class="muted">34 SKUs</div></td>
+        <td class="num">25%</td>
+        <td class="num">50.6%</td>
+        <td>Nov 24, 2026, 7:34 AM EST</td>
+        <td class="num">1</td>
+        <td class="num">92</td>
+      </tr>
+<tr>
+        <td><strong>UNTUCKit</strong><div class="mono muted">untuckit.com</div></td>
+        <td class="num">250</td>
+        <td class="num"><strong>26%</strong><div class="muted">65 SKUs</div></td>
+        <td class="num">23.4%</td>
+        <td class="num">46.9%</td>
+        <td>Nov 25, 2026, 7:37 AM EST</td>
+        <td class="num">9</td>
+        <td class="num">823</td>
+      </tr>
+<tr>
+        <td><strong>Cuts Clothing</strong><div class="mono muted">cutsclothing.com</div></td>
+        <td class="num">250</td>
+        <td class="num"><strong>98%</strong><div class="muted">245 SKUs</div></td>
+        <td class="num">41.9%</td>
+        <td class="num">70.3%</td>
+        <td>Nov 24, 2026, 7:34 AM EST</td>
+        <td class="num">18</td>
+        <td class="num">183</td>
+      </tr>
+<tr>
+        <td><strong>Alex Mill</strong><div class="mono muted">alexmill.com</div></td>
+        <td class="num">250</td>
+        <td class="num"><strong>0%</strong><div class="muted">0 SKUs</div></td>
+        <td class="num">0%</td>
+        <td class="num">—</td>
+        <td><span class="muted">No cuts logged</span></td>
+        <td class="num">1</td>
+        <td class="num">62</td>
+      </tr>
+        </tbody>
+      </table>
+
+      <h2>Black Friday 2026 Category Benchmarks (78 Active DTC Stores)</h2>
+      <p class="muted">Aggregate benchmark across 10,074 Shopify products (62,889 variants) and 12,985 live change events tracked Nov 20–25, 2026: <strong>34%</strong> of overall DTC catalog on sale, averaging <strong>26.4% off</strong>.</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Vertical</th>
+            <th class="num">Stores w/ Sales</th>
+            <th class="num">% Catalog on Sale</th>
+            <th class="num">Avg Discount</th>
+            <th class="num">Max Discount</th>
+            <th class="num">Price Drops</th>
+            <th class="num">New SKUs</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="">
+        <td><strong>Home Goods</strong></td>
+        <td class="num">19 / 20</td>
+        <td class="num">44.4%</td>
+        <td class="num">31%</td>
+        <td class="num">77.5%</td>
+        <td class="num">811</td>
+        <td class="num">61</td>
+      </tr>
+<tr class="highlight-row">
+        <td><strong>Apparel</strong></td>
+        <td class="num">15 / 20</td>
+        <td class="num">38.9%</td>
+        <td class="num">33.1%</td>
+        <td class="num">85.1%</td>
+        <td class="num">3,693</td>
+        <td class="num">247</td>
+      </tr>
+<tr class="">
+        <td><strong>Beauty/Skincare</strong></td>
+        <td class="num">17 / 20</td>
+        <td class="num">19.4%</td>
+        <td class="num">21.5%</td>
+        <td class="num">59.8%</td>
+        <td class="num">25</td>
+        <td class="num">30</td>
+      </tr>
+<tr class="">
+        <td><strong>Wellness</strong></td>
+        <td class="num">13 / 18</td>
+        <td class="num">15%</td>
+        <td class="num">18.6%</td>
+        <td class="num">82.6%</td>
+        <td class="num">3</td>
+        <td class="num">4</td>
+      </tr>
+        </tbody>
+      </table>
+
+      <h2>Competitor Deep Dives</h2>
+      <section class="comp-card">
+        <div class="comp-head">
+          <div>
+            <h3>American Giant</h3>
+            <div class="mono muted">american-giant.com · Apparel · Scanned Nov 25, 2026, 7:37 AM EST</div>
+          </div>
+          <div class="comp-pills">
+            <span class="pill">77.7% on sale</span>
+            <span class="pill">32.3% avg off</span>
+            <span class="pill">1821 drops</span>
+          </div>
+        </div>
+        <div class="banner-box"><span class="eyebrow-sm">Active Storefront Banner</span><div>“FREE SHIPPING ON US ORDERS OVER $150+ The Loyalty Program. Start Earning Rewards Today.”</div></div>
+        <h4>Deepest Active Markdowns</h4>
+        <table>
+              <thead><tr><th>Product</th><th class="num">Compare-At</th><th class="num">Sale Price</th><th class="num">Discount</th></tr></thead>
+              <tbody>
+                <tr>
+                      <td>Pickleball Hat - Pickleball <span class="muted">— White</span></td>
+                      <td class="num muted">$50.00</td>
+                      <td class="num"><strong>$15.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-70%</span></td>
+                    </tr><tr>
+                      <td>Women's Classic Cotton Crew Tee Mike Rowe <span class="muted">— White / XS</span></td>
+                      <td class="num muted">$55.00</td>
+                      <td class="num"><strong>$20.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-63.6%</span></td>
+                    </tr><tr>
+                      <td>Men's Roughneck Pant Slim <span class="muted">— Mahogany / 30 / 32</span></td>
+                      <td class="num muted">$165.00</td>
+                      <td class="num"><strong>$65.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-60.6%</span></td>
+                    </tr><tr>
+                      <td>Women's Side Slit French Terry Short <span class="muted">— Plum Berry / XS</span></td>
+                      <td class="num muted">$95.00</td>
+                      <td class="num"><strong>$40.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-57.9%</span></td>
+                    </tr><tr>
+                      <td>Men's Lightweight Beach Short <span class="muted">— Navy / S</span></td>
+                      <td class="num muted">$95.00</td>
+                      <td class="num"><strong>$45.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-52.6%</span></td>
+                    </tr><tr>
+                      <td>Ponte Kick Flare Pant <span class="muted">— Super Black / Regular / 0</span></td>
+                      <td class="num muted">$78.00</td>
+                      <td class="num"><strong>$38.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-51.3%</span></td>
+                    </tr>
+              </tbody>
+            </table>
+        <div class="two-col">
+          <div>
+            <h4>New Launches (4)</h4>
+            <ul class="compact-list"><li><strong>Otter Wax Standard Essentials Leather Care Kit</strong> ($40.00) <span class="muted">· Nov 24, 2026, 7:34 AM EST</span></li><li><strong>Women's Rib Collar Thermal Henley</strong> ($130.00) <span class="muted">· Nov 22, 2026, 7:43 AM EST</span></li><li><strong>Men's Varsity Pullover</strong> ($130.00) <span class="muted">· Nov 22, 2026, 7:43 AM EST</span></li><li><strong>Women's French Terry V-Neck</strong> ($85.00) <span class="muted">· Nov 21, 2026, 7:47 AM EST</span></li></ul>
+          </div>
+          <div>
+            <h4>Top Stockouts (1,369 OOS variants)</h4>
+            <ul class="compact-list"><li><strong>Men's Roughneck Pant Straight</strong> — <span class="muted">54 OOS variant(s)</span></li><li><strong>Men's Premium Slub V-Neck Tee</strong> — <span class="muted">44 OOS variant(s)</span></li><li><strong>Men's Premium Slub Crew Tee</strong> — <span class="muted">37 OOS variant(s)</span></li><li><strong>Men's Pocket Tee</strong> — <span class="muted">36 OOS variant(s)</span></li><li><strong>Men's Relaxed Classic Full Zip</strong> — <span class="muted">34 OOS variant(s)</span></li></ul>
+          </div>
+        </div>
+      </section>
+<section class="comp-card">
+        <div class="comp-head">
+          <div>
+            <h3>Marine Layer</h3>
+            <div class="mono muted">marinelayer.com · Apparel · Scanned Nov 25, 2026, 7:37 AM EST</div>
+          </div>
+          <div class="comp-pills">
+            <span class="pill">13.6% on sale</span>
+            <span class="pill">25% avg off</span>
+            <span class="pill">140 drops</span>
+          </div>
+        </div>
+        <div class="banner-box"><span class="eyebrow-sm">Active Storefront Banner</span><div>“25% Off Everything? Don’t Mind if We Do. 25% Off Everything | Don’t Mind if We Do Free Shipping on $75+ | Free Returns Free Shipping on Orders $75+”</div></div>
+        <h4>Deepest Active Markdowns</h4>
+        <table>
+              <thead><tr><th>Product</th><th class="num">Compare-At</th><th class="num">Sale Price</th><th class="num">Discount</th></tr></thead>
+              <tbody>
+                <tr>
+                      <td>Suri Alpaca Mock Neck Sweater <span class="muted">— Small / Cream</span></td>
+                      <td class="num muted">$178.00</td>
+                      <td class="num"><strong>$88.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-50.6%</span></td>
+                    </tr><tr>
+                      <td>Tahoe Fresh Tracks Flannel Shirt <span class="muted">— Small / Navy Ski Print</span></td>
+                      <td class="num muted">$138.00</td>
+                      <td class="num"><strong>$80.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-42%</span></td>
+                    </tr><tr>
+                      <td>Juno Reversible Raglan <span class="muted">— Extra Small / Moonlit Blue</span></td>
+                      <td class="num muted">$94.00</td>
+                      <td class="num"><strong>$55.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-41.5%</span></td>
+                    </tr><tr>
+                      <td>Suri Alpaca Cardigan <span class="muted">— Extra Small / Cabernet</span></td>
+                      <td class="num muted">$158.00</td>
+                      <td class="num"><strong>$110.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-30.4%</span></td>
+                    </tr><tr>
+                      <td>Suri Alpaca Cardigan <span class="muted">— Extra Small / French Blue</span></td>
+                      <td class="num muted">$158.00</td>
+                      <td class="num"><strong>$110.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-30.4%</span></td>
+                    </tr><tr>
+                      <td>Alma Puff Sleeve Sweater <span class="muted">— Extra Small / Charcoal Multi</span></td>
+                      <td class="num muted">$178.00</td>
+                      <td class="num"><strong>$128.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-28.1%</span></td>
+                    </tr>
+              </tbody>
+            </table>
+        <div class="two-col">
+          <div>
+            <h4>New Launches (1)</h4>
+            <ul class="compact-list"><li><strong>Coastal Merino Crewneck Sweater</strong> ($158.00) <span class="muted">· Nov 21, 2026, 7:47 AM EST</span></li></ul>
+          </div>
+          <div>
+            <h4>Top Stockouts (92 OOS variants)</h4>
+            <ul class="compact-list"><li><strong>Men's Signature Sea Change Crew Tee in Asphalt</strong> — <span class="muted">8 OOS variant(s)</span></li><li><strong>Men's Signature Sea Change Crew Tee in Black</strong> — <span class="muted">8 OOS variant(s)</span></li><li><strong>Men's Signature Sea Change Crew Tee in Navy</strong> — <span class="muted">8 OOS variant(s)</span></li><li><strong>Men's Signature Sea Change Crew Tee in White</strong> — <span class="muted">8 OOS variant(s)</span></li><li><strong>Corbet Quilted Reversible Pullover</strong> — <span class="muted">5 OOS variant(s)</span></li></ul>
+          </div>
+        </div>
+      </section>
+<section class="comp-card">
+        <div class="comp-head">
+          <div>
+            <h3>UNTUCKit</h3>
+            <div class="mono muted">untuckit.com · Apparel · Scanned Nov 25, 2026, 7:37 AM EST</div>
+          </div>
+          <div class="comp-pills">
+            <span class="pill">26% on sale</span>
+            <span class="pill">23.4% avg off</span>
+            <span class="pill">282 drops</span>
+          </div>
+        </div>
+        <div class="banner-box muted-box"><span class="eyebrow-sm">Storefront Banner</span><div>No sitewide promo banner detected on homepage scrape.</div></div>
+        <h4>Deepest Active Markdowns</h4>
+        <table>
+              <thead><tr><th>Product</th><th class="num">Compare-At</th><th class="num">Sale Price</th><th class="num">Discount</th></tr></thead>
+              <tbody>
+                <tr>
+                      <td>Sherpa Pullover <span class="muted">— Small / Regular Fit / Tan</span></td>
+                      <td class="num muted">$128.00</td>
+                      <td class="num"><strong>$68.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-46.9%</span></td>
+                    </tr><tr>
+                      <td>Performance Flannel Barker Shirt <span class="muted">— Small / Regular Fit / Navy</span></td>
+                      <td class="num muted">$115.00</td>
+                      <td class="num"><strong>$69.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-40%</span></td>
+                    </tr><tr>
+                      <td>Vintage Wash Short-Sleeve Normand Shirt <span class="muted">— Small / Regular Fit / Navy</span></td>
+                      <td class="num muted">$99.50</td>
+                      <td class="num"><strong>$60.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-39.7%</span></td>
+                    </tr><tr>
+                      <td>Vintage Wash Valois Shirt <span class="muted">— Small / Regular Fit / Blue</span></td>
+                      <td class="num muted">$99.50</td>
+                      <td class="num"><strong>$60.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-39.7%</span></td>
+                    </tr><tr>
+                      <td>Cable-Knit Button Neck Sweater <span class="muted">— Small / Regular Fit / Green</span></td>
+                      <td class="num muted">$148.00</td>
+                      <td class="num"><strong>$90.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-39.2%</span></td>
+                    </tr><tr>
+                      <td>Cable-Knit Button Neck Sweater <span class="muted">— Small / Regular Fit / Red</span></td>
+                      <td class="num muted">$148.00</td>
+                      <td class="num"><strong>$90.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-39.2%</span></td>
+                    </tr>
+              </tbody>
+            </table>
+        <div class="two-col">
+          <div>
+            <h4>New Launches (9)</h4>
+            <ul class="compact-list"><li><strong>Wool-Mohair Oaksley Sport Coat</strong> ($395.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Wool Blend Gilmore Sport Coat</strong> ($395.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Wool Blend Farley Sport Coat</strong> ($395.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Wool Blend Avington Sport Coat</strong> ($395.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Insulated Water-Resistant Jacket</strong> ($198.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li></ul>
+          </div>
+          <div>
+            <h4>Top Stockouts (823 OOS variants)</h4>
+            <ul class="compact-list"><li><strong>CottonTek™ Brachetto Shirt</strong> — <span class="muted">24 OOS variant(s)</span></li><li><strong>CottonTek™ Brachetto Shirt</strong> — <span class="muted">24 OOS variant(s)</span></li><li><strong>Wrinkle-Free Gallis Shirt - FINAL SALE</strong> — <span class="muted">22 OOS variant(s)</span></li><li><strong>Wrinkle-Free Gallis Shirt</strong> — <span class="muted">18 OOS variant(s)</span></li><li><strong>Flannel Plenville Shirt</strong> — <span class="muted">17 OOS variant(s)</span></li></ul>
+          </div>
+        </div>
+      </section>
+<section class="comp-card">
+        <div class="comp-head">
+          <div>
+            <h3>Cuts Clothing</h3>
+            <div class="mono muted">cutsclothing.com · Apparel · Scanned Nov 25, 2026, 7:37 AM EST</div>
+          </div>
+          <div class="comp-pills">
+            <span class="pill">98% on sale</span>
+            <span class="pill">41.9% avg off</span>
+            <span class="pill">32 drops</span>
+          </div>
+        </div>
+        <div class="banner-box muted-box"><span class="eyebrow-sm">Storefront Banner</span><div>No sitewide promo banner detected on homepage scrape.</div></div>
+        <h4>Deepest Active Markdowns</h4>
+        <table>
+              <thead><tr><th>Product</th><th class="num">Compare-At</th><th class="num">Sale Price</th><th class="num">Discount</th></tr></thead>
+              <tbody>
+                <tr>
+                      <td>Hudson Soft Knit Button Up | Black Signature-Fit <span class="muted">— M</span></td>
+                      <td class="num muted">$138.00</td>
+                      <td class="num"><strong>$48.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-65.2%</span></td>
+                    </tr><tr>
+                      <td>Soho Short Sleeve Button Up | Pacific Blue Signature-fit <span class="muted">— S</span></td>
+                      <td class="num muted">$84.00</td>
+                      <td class="num"><strong>$34.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-59.5%</span></td>
+                    </tr><tr>
+                      <td>Divine Fleece Hoodie | Truffle Classic-fit <span class="muted">— S</span></td>
+                      <td class="num muted">$118.00</td>
+                      <td class="num"><strong>$49.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-58.5%</span></td>
+                    </tr><tr>
+                      <td>Divine Fleece Sweatpant | Truffle Classic-fit <span class="muted">— S</span></td>
+                      <td class="num muted">$118.00</td>
+                      <td class="num"><strong>$49.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-58.5%</span></td>
+                    </tr><tr>
+                      <td>Divine Fleece Straight-Leg Sweatpant | Truffle Classic-fit <span class="muted">— S</span></td>
+                      <td class="num muted">$118.00</td>
+                      <td class="num"><strong>$49.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-58.5%</span></td>
+                    </tr><tr>
+                      <td>Divine Fleece Hoodie | Charcoal Classic-fit <span class="muted">— S</span></td>
+                      <td class="num muted">$118.00</td>
+                      <td class="num"><strong>$49.00</strong></td>
+                      <td class="num"><span class="badge badge-teal">-58.5%</span></td>
+                    </tr>
+              </tbody>
+            </table>
+        <div class="two-col">
+          <div>
+            <h4>New Launches (18)</h4>
+            <ul class="compact-list"><li><strong>Mercer Fisherman Sweater | Sand Dune Classic-Fit</strong> ($78.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Mercer Fisherman Sweater | Black Classic-Fit</strong> ($78.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Divine Fleece Straight-Leg Sweatpant | Truffle Classic-fit</strong> ($49.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Divine Fleece Hoodie | Truffle Classic-fit</strong> ($49.00) <span class="muted">· Nov 25, 2026, 7:37 AM EST</span></li><li><strong>Brooks Flannel Soft Brushed Button Up | Blue-Black Classic-Fit</strong> ($58.00) <span class="muted">· Nov 24, 2026, 7:34 AM EST</span></li></ul>
+          </div>
+          <div>
+            <h4>Top Stockouts (183 OOS variants)</h4>
+            <ul class="compact-list"><li><strong>AO Trouser Pant | Coast Classic Fit</strong> — <span class="muted">8 OOS variant(s)</span></li><li><strong>SoHo Pleated Trouser Relaxed-Fit | Heather Charcoal Woven</strong> — <span class="muted">6 OOS variant(s)</span></li><li><strong>Divine Fleece Oversized Hoodie | Vapor</strong> — <span class="muted">5 OOS variant(s)</span></li><li><strong>AO Long Sleeve Curve-Hem Tee | Mountain Mist Signature-fit PYCA Pro®</strong> — <span class="muted">4 OOS variant(s)</span></li><li><strong>AO Trouser Pant | Steel Classic Fit</strong> — <span class="muted">4 OOS variant(s)</span></li></ul>
+          </div>
+        </div>
+      </section>
+<section class="comp-card">
+        <div class="comp-head">
+          <div>
+            <h3>Alex Mill</h3>
+            <div class="mono muted">alexmill.com · Apparel · Scanned Nov 25, 2026, 7:37 AM EST</div>
+          </div>
+          <div class="comp-pills">
+            <span class="pill">0% on sale</span>
+            <span class="pill">Full price</span>
+            <span class="pill">0 drops</span>
+          </div>
+        </div>
+        <div class="banner-box muted-box"><span class="eyebrow-sm">Storefront Banner</span><div>No sitewide promo banner detected on homepage scrape.</div></div>
+        <h4>Deepest Active Markdowns</h4>
+        <p class="muted">No active compare-at price markdowns detected in the latest catalog snapshot.</p>
+        <div class="two-col">
+          <div>
+            <h4>New Launches (1)</h4>
+            <ul class="compact-list"><li><strong>Maria La Rosa Firefly Lurex Socks</strong> ($44.00) <span class="muted">· Nov 24, 2026, 7:34 AM EST</span></li></ul>
+          </div>
+          <div>
+            <h4>Top Stockouts (62 OOS variants)</h4>
+            <ul class="compact-list"><li><strong>Taylor Candy Stripe Cardigan in Washed Cashmere</strong> — <span class="muted">5 OOS variant(s)</span></li><li><strong>Carleen x Alex Mill Ardmore Jacket with Fringe</strong> — <span class="muted">4 OOS variant(s)</span></li><li><strong>J. Press x Alex Mill Rugby Striped Shirt In Cotton</strong> — <span class="muted">4 OOS variant(s)</span></li><li><strong>Snooze Striped Shirt in Tartan</strong> — <span class="muted">4 OOS variant(s)</span></li><li><strong>Carleen x Alex Mill Short Brooks Jacket</strong> — <span class="muted">3 OOS variant(s)</span></li></ul>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <footer class="footer">
+      <span>RivalSKU · Public Shopify Competitor Intelligence · rivalsku.com · hello@rivalsku.com</span>
+      <span>100% observed storefront data — zero invented estimates.</span>
+    </footer>
+  </main>
+</body>
+</html>

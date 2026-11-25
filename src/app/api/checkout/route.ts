@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
+import { STRIPE_PAYMENT_LINKS } from "@/lib/bf-snapshot";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
@@ -10,8 +11,11 @@ const PLAN_ENV: Record<string, string> = {
   scale: "STRIPE_PRICE_SCALE",
 };
 
-const SETUP_MESSAGE =
-  "Stripe is not configured yet. Add STRIPE_SECRET_KEY and STRIPE_PRICE_STARTER / STRIPE_PRICE_GROWTH / STRIPE_PRICE_SCALE to the environment to enable checkout. See .env.example.";
+const PLAN_PAYMENT_LINKS: Record<string, string> = {
+  starter: STRIPE_PAYMENT_LINKS.starter,
+  growth: STRIPE_PAYMENT_LINKS.growth,
+  scale: STRIPE_PAYMENT_LINKS.scale,
+};
 
 export async function POST(req: Request) {
   const body = (await req.json().catch(() => ({}))) as { plan?: string };
@@ -27,10 +31,20 @@ export async function POST(req: Request) {
   const secret = process.env.STRIPE_SECRET_KEY?.trim();
   const priceId = process.env[envKey]?.trim();
   if (!secret || !priceId) {
+    const fallbackLink = PLAN_PAYMENT_LINKS[plan];
+    if (fallbackLink) {
+      return NextResponse.json({
+        configured: true,
+        mode: "payment_link",
+        url: fallbackLink,
+        plan,
+      });
+    }
     return NextResponse.json(
       {
         configured: false,
-        error: SETUP_MESSAGE,
+        error:
+          "Stripe is not configured yet. Add STRIPE_SECRET_KEY and STRIPE_PRICE_STARTER / STRIPE_PRICE_GROWTH / STRIPE_PRICE_SCALE to the environment to enable checkout.",
         plan,
       },
       { status: 501 },
