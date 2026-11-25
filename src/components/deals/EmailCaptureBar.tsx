@@ -64,8 +64,8 @@ export function EmailCaptureBar({
             Get the top 10 drops every morning
           </h2>
           <p className="mt-0.5 text-sm text-[#5A5A54]">
-            Verified markdowns &amp; restocks from Lunya, DÔEN, Allbirds, Our
-            Place &amp; 340+ brands. Zero spam.
+            Verified markdowns &amp; restocks from Old Navy, Athleta, iRobot, HexClad
+            &amp; 60+ more brands. Zero spam.
           </p>
         </div>
 

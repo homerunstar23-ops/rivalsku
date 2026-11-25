@@ -60,6 +60,8 @@ export default async function BrandDealsPage({
 
   const stats = getDealsStats();
   const deals = brand.status === "live" ? getBrandDeals(brand) : [];
+  const catalogCount = deals.filter((d) => d.kind === "catalog").length;
+  const dealCount = deals.length - catalogCount;
   const discounts = deals.filter((d) => d.discountPct >= 10);
   const maxPct = discounts.reduce((m, d) => Math.max(m, d.discountPct), 0);
 
@@ -112,16 +114,20 @@ export default async function BrandDealsPage({
                   <>
                     Tracking <span className="font-mono">{brand.domain}</span>{" "}
                     directly.{" "}
-                    {deals.length > 0
-                      ? `${deals.length} active drops, restocks & new launches${maxPct > 0 ? ` (up to ${maxPct}% off)` : ""}.`
+                    {dealCount > 0
+                      ? `${dealCount} active drops, restocks & new launches${maxPct > 0 ? ` (up to ${maxPct}% off)` : ""}.`
                       : "No active markdowns above 10% detected today — check back tomorrow."}
+                    {catalogCount > 0 && ` ${catalogCount} products tracked at current prices via ${brand.platform ?? "storefront"} structured data; markdowns appear here as soon as we observe a price drop.`}
                   </>
                 ) : (
                   <>
-                    <span className="font-mono">{brand.domain}</span> is
-                    verified in our {stats.totalDirectoryBrands}-brand directory.
-                    Live deals unlock automatically as soon as the official{" "}
-                    <strong>{brand.networkName}</strong> feed key is active.
+                    <span className="font-mono">{brand.domain}</span> is in our{" "}
+                    {stats.totalDirectoryBrands}-brand directory.{" "}
+                    {brand.status === "paused_tos" ? (
+                      <>Paused: {brand.blockReason?.toLowerCase()}. It goes live once there&apos;s a permitted feed (affiliate network or brand permission).</>
+                    ) : (
+                      <>Live deals unlock automatically once the official <strong>{brand.networkName}</strong> feed is connected.</>
+                    )}
                   </>
                 )}
               </p>
@@ -144,7 +150,7 @@ export default async function BrandDealsPage({
           </div>
         </section>
 
-        {brand.status === "pending_key" ? (
+        {brand.status !== "live" ? (
           <section className="mb-10 rounded-3xl border border-dashed border-[#D6D6CC] bg-white p-8 text-center sm:p-12">
             <span className="inline-flex rounded-full bg-[#FEF3C7] px-3.5 py-1 font-mono text-xs font-semibold uppercase tracking-wider text-[#92400E]">
               Coming Soon
@@ -153,10 +159,12 @@ export default async function BrandDealsPage({
               {brand.name} live feed is queued
             </h2>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-[#555550]">
-              We never display fake or stale prices. {brand.name} uses{" "}
-              <strong>{brand.networkName}</strong> instead of a public catalog
-              feed, and our adapter is ready to go live as soon as partner
-              credentials are connected.
+              We never display fake or stale prices.{" "}
+              {brand.status === "paused_tos" ? (
+                <>{brand.name}&apos;s site terms restrict automated access, so we don&apos;t read its catalog. We&apos;ll list it once a permitted feed is available.</>
+              ) : (
+                <>Direct access isn&apos;t available ({brand.blockReason ?? "partner feed needed"}). Our <strong>{brand.networkName}</strong> adapter goes live as soon as partner credentials are connected.</>
+              )}
             </p>
             <div className="mx-auto mt-8 max-w-3xl text-left">
               <EmailCaptureBar categories={stats.categories} compact />

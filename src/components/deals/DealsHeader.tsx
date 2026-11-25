@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SearchBar } from "./SearchBar";
 
 export function DealsHeader({
   liveBrandsCount,
@@ -35,6 +36,10 @@ export function DealsHeader({
           )}
         </div>
 
+        <div className="hidden flex-1 justify-center px-4 md:flex">
+          <SearchBar variant="header" />
+        </div>
+
         <nav className="flex items-center gap-2 sm:gap-4">
           <Link
             href="/deals"
@@ -55,6 +60,9 @@ export function DealsHeader({
             For Brands (B2B)
           </Link>
         </nav>
+      </div>
+      <div className="mx-auto max-w-7xl px-4 pb-3 md:hidden">
+        <SearchBar variant="header" />
       </div>
     </header>
   );

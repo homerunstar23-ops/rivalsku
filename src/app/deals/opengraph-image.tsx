@@ -3,7 +3,7 @@ import { getDealsStats, queryDeals } from "@/lib/deals-engine";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
-export const alt = "RivalSKU Drops — Real-Time Price Drops Across 340+ Brands";
+export const alt = "RivalSKU Drops — Real-Time Price Drops From Big Names to Indie Brands";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -79,7 +79,7 @@ export default async function Image() {
               letterSpacing: "-0.03em",
             }}
           >
-            Real-time price drops from cult DTC brands.
+            Real-time price drops, big names to indie brands.
           </div>
           <div style={{ display: "flex", fontSize: "24px", color: "#555550" }}>
             Verified daily straight from official store catalogs. Zero expired promo codes.

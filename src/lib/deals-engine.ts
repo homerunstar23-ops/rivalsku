@@ -6,6 +6,7 @@ import {
   getBrandDirectory,
 } from "./adapters";
 import { fetchShopifyBatch } from "./adapters/shopify";
+import { fetchJsonLdBrand } from "./adapters/jsonld";
 import type {
   AdapterStatusInfo,
   BrandDirectoryEntry,
@@ -74,7 +75,14 @@ function hydrateFromSnapshot(state: EngineState) {
     if (!fs.existsSync(snapPath)) return;
     const raw = fs.readFileSync(snapPath, "utf8");
     const parsed = JSON.parse(raw) as DealsSnapshotFile;
-    const deals = Array.isArray(parsed.deals) ? parsed.deals : [];
+    const liveDomains = new Set(
+      getBrandDirectory()
+        .filter((b) => b.status === "live")
+        .map((b) => b.domain),
+    );
+    const deals = (Array.isArray(parsed.deals) ? parsed.deals : []).filter((d) =>
+      liveDomains.has(d.brandDomain),
+    );
     const ts = Date.parse(parsed.generatedAt) || Date.now();
 
     state.dealsById.clear();
@@ -115,7 +123,9 @@ export async function runStaggeredRefresh(force = false): Promise<{
 
   try {
     const directory = getBrandDirectory();
-    const shopifyBrands = directory.filter((b) => b.source === "shopify");
+    const shopifyBrands = directory.filter(
+      (b) => b.source === "shopify" && b.status === "live",
+    );
 
     // Pick stalest Shopify brands first
     const staleSorted = [...shopifyBrands].sort((a, b) => {
@@ -159,9 +169,29 @@ export async function runStaggeredRefresh(force = false): Promise<{
       refreshedCount += batch.length;
     }
 
-    // Also run any configured non-Shopify API adapters
+    // JSON-LD storefronts: one stalest brand per tick (capped pages, delayed requests).
+    const jsonldBrands = directory
+      .filter((b) => b.source === "jsonld" && b.status === "live")
+      .sort(
+        (a, b) =>
+          (state.brandLastRefreshed.get(a.domain) ?? 0) -
+          (state.brandLastRefreshed.get(b.domain) ?? 0),
+      );
+    const jb = jsonldBrands[0];
+    if (jb && now - (state.brandLastRefreshed.get(jb.domain) ?? 0) > BRAND_TTL_MS) {
+      const prevPrices = new Map<string, number>();
+      for (const d of state.dealsById.values()) {
+        if (d.brandDomain === jb.domain) prevPrices.set(d.id, d.nowPrice);
+      }
+      const items = await fetchJsonLdBrand(jb, { prevPrices });
+      for (const d of items) state.dealsById.set(d.id, d);
+      state.brandLastRefreshed.set(jb.domain, Date.now());
+      refreshedCount += 1;
+    }
+
+    // Keyed partner / official API adapters (skip gracefully when keys are missing).
     for (const adapter of ALL_ADAPTERS) {
-      if (adapter.id === "shopify" || !adapter.isConfigured()) continue;
+      if (["shopify", "jsonld", "woocommerce"].includes(adapter.id) || !adapter.isConfigured()) continue;
       const matching = directory.filter((b) => b.source === adapter.id);
       if (matching.length === 0) continue;
       const adapterDeals = await adapter.fetchDeals(matching);
@@ -169,9 +199,7 @@ export async function runStaggeredRefresh(force = false): Promise<{
         for (const [id, deal] of state.dealsById.entries()) {
           if (deal.source === adapter.id) state.dealsById.delete(id);
         }
-        for (const d of adapterDeals) {
-          state.dealsById.set(d.id, d);
-        }
+        for (const d of adapterDeals) state.dealsById.set(d.id, d);
       }
     }
 
@@ -267,11 +295,15 @@ export function getDealsStats(): {
   lastUpdatedAt: string;
   categories: string[];
   adapters: AdapterStatusInfo[];
+  pausedTosCount: number;
+  nonShopifyLiveCount: number;
+  bigNameLiveCount: number;
+  catalogItemCount: number;
 } {
   const all = getAllDeals();
   const directory = getBrandDirectory();
   const liveBrands = directory.filter((b) => b.status === "live");
-  const pendingBrands = directory.filter((b) => b.status === "pending_key");
+  const pendingBrands = directory.filter((b) => b.status !== "live");
   const activeBrandDomains = new Set(all.map((d) => d.brandDomain));
   const categories = Array.from(
     new Set(directory.map((b) => b.category)),
@@ -279,7 +311,7 @@ export function getDealsStats(): {
 
   const state = getState();
   return {
-    totalDeals: all.length,
+    totalDeals: all.filter((d) => d.kind !== "catalog").length,
     biggestDropsCount: all.filter((d) =>
       d.sectionTags.includes("biggest_drop"),
     ).length,
@@ -298,6 +330,10 @@ export function getDealsStats(): {
     lastUpdatedAt: state.lastUpdatedAt,
     categories,
     adapters: getAdapterStatuses(),
+    pausedTosCount: directory.filter((b) => b.status === "paused_tos").length,
+    nonShopifyLiveCount: liveBrands.filter((b) => b.source !== "shopify").length,
+    bigNameLiveCount: liveBrands.filter((b) => b.bigName).length,
+    catalogItemCount: all.filter((d) => d.kind === "catalog").length,
   };
 }
 

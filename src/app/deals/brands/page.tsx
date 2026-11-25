@@ -8,9 +8,9 @@ import { getDealsStats } from "@/lib/deals-engine";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Brand Directory (397 Tracked Brands) · RivalSKU Drops",
+  title: "Brand Directory & Search — Big-Name and Indie Brands · RivalSKU Drops",
   description:
-    "Browse all 397 brands and major retailers tracked by RivalSKU Drops across Shopify, Impact, Rakuten, CJ, Awin, Best Buy, Walmart, and Amazon adapters.",
+    "Search every brand and major retailer tracked by RivalSKU Drops, with each brand's live data source or coming-soon status.",
 };
 
 export default async function BrandsDirectoryPage({

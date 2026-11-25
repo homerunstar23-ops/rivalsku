@@ -1,5 +1,8 @@
 import dtcBrandsRaw from "@/config/dtc-brands.json";
 import partnerBrandsRaw from "@/config/partner-brands.json";
+import jsonldBrandsRaw from "@/config/jsonld-brands.json";
+import { jsonLdAdapter } from "./jsonld";
+import { wooAdapter } from "./woocommerce";
 import { amazonAdapter } from "./amazon";
 import {
   awinAdapter,
@@ -20,6 +23,8 @@ import { walmartAdapter } from "./walmart";
 
 export const ALL_ADAPTERS: DealsAdapter[] = [
   shopifyAdapter,
+  jsonLdAdapter,
+  wooAdapter,
   impactAdapter,
   rakutenAdapter,
   cjAdapter,
@@ -40,7 +45,28 @@ type RawShopifyBrand = {
   slug: string;
   category: string;
   sampleProductCount?: number;
+  platform?: string;
+  status?: string;
+  tosStatus?: "clean" | "prohibits" | "unverified";
+  tosNote?: string;
+  bigName?: boolean;
 };
+
+type RawJsonLdBrand = {
+  domain: string;
+  aliases?: string[];
+  name: string;
+  slug: string;
+  category: string;
+  platform: string;
+  bigName?: boolean;
+};
+
+/** Set ALLOW_TOS_FLAGGED=1 only if the owner decides low-volume public catalog reads are acceptable
+ *  for brands whose Terms of Service contain anti-scraping / anti-automation language. */
+export function allowTosFlagged() {
+  return process.env.ALLOW_TOS_FLAGGED === "1";
+}
 
 type RawPartnerBrand = {
   domain: string;
@@ -51,30 +77,56 @@ type RawPartnerBrand = {
   networkName: string;
   envKeysNeeded: string[];
   signupUrl: string;
+  blockReason?: string;
+  bigName?: boolean;
 };
 
 export function getAdapter(source: AdapterSource): DealsAdapter | undefined {
   return ADAPTER_MAP.get(source);
 }
 
+let directoryCache: { key: string; list: BrandDirectoryEntry[] } | null = null;
+
 export function getBrandDirectory(): BrandDirectoryEntry[] {
-  const shopifyBrands: BrandDirectoryEntry[] = (
-    dtcBrandsRaw.brands as RawShopifyBrand[]
-  ).map((b) => ({
+  const key = `${allowTosFlagged()}|${ALL_ADAPTERS.map((a) => (a.isConfigured() ? 1 : 0)).join("")}`;
+  if (directoryCache && directoryCache.key === key) return directoryCache.list;
+
+  const shopifyBrands: BrandDirectoryEntry[] = (dtcBrandsRaw.brands as RawShopifyBrand[]).map((b) => {
+    const tosOk = b.tosStatus === "clean" || allowTosFlagged();
+    return {
+      domain: b.domain,
+      name: b.name,
+      slug: b.slug,
+      category: b.category,
+      source: "shopify",
+      status: tosOk ? "live" : "paused_tos",
+      networkName: "Shopify public catalog",
+      envKeysNeeded: [],
+      sampleProductCount: b.sampleProductCount,
+      platform: "Shopify",
+      tosStatus: b.tosStatus ?? "unverified",
+      tosNote: b.tosNote,
+      blockReason: tosOk ? undefined : b.tosStatus === "prohibits" ? "Terms of Service restrict automated access" : "Terms of Service not located for review",
+      bigName: b.bigName,
+    };
+  });
+
+  const jsonldBrands: BrandDirectoryEntry[] = (jsonldBrandsRaw.brands as RawJsonLdBrand[]).map((b) => ({
     domain: b.domain,
     name: b.name,
     slug: b.slug,
     category: b.category,
-    source: "shopify",
+    source: "jsonld",
     status: "live",
-    networkName: "Shopify Direct Catalog",
+    networkName: "schema.org JSON-LD",
     envKeysNeeded: [],
-    sampleProductCount: b.sampleProductCount,
+    platform: b.platform,
+    tosStatus: "clean",
+    bigName: b.bigName,
+    aliases: b.aliases,
   }));
 
-  const partnerBrands: BrandDirectoryEntry[] = (
-    partnerBrandsRaw.brands as RawPartnerBrand[]
-  ).map((b) => {
+  const partnerBrands: BrandDirectoryEntry[] = (partnerBrandsRaw.brands as RawPartnerBrand[]).map((b) => {
     const adapter = ADAPTER_MAP.get(b.source);
     const live = adapter ? adapter.isConfigured() : false;
     return {
@@ -87,12 +139,14 @@ export function getBrandDirectory(): BrandDirectoryEntry[] {
       networkName: b.networkName,
       envKeysNeeded: b.envKeysNeeded,
       signupUrl: b.signupUrl,
+      blockReason: b.blockReason,
+      bigName: b.bigName ?? true,
     };
   });
 
-  return [...shopifyBrands, ...partnerBrands].sort((a, b) =>
-    a.name.localeCompare(b.name),
-  );
+  const list = [...shopifyBrands, ...jsonldBrands, ...partnerBrands].sort((a, b) => a.name.localeCompare(b.name));
+  directoryCache = { key, list };
+  return list;
 }
 
 export function getBrandBySlug(slug: string): BrandDirectoryEntry | undefined {

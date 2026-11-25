@@ -4,20 +4,20 @@ import { DealsPageShell } from "@/components/deals/DealsPageShell";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "RivalSKU Drops — Live Price Drops Across 340+ Cult Brands",
+  title: "RivalSKU Drops — Search Live Price Drops Across Big-Name & Indie Brands",
   description:
-    "Track real-time markdowns, restocks, and new product drops across Lunya, DÔEN, Allbirds, Brooklinen, Gymshark, Our Place & 340+ top consumer brands. Updated daily.",
+    "Track real-time markdowns, restocks, and new product drops across Old Navy, Banana Republic, Athleta, iRobot, Harry & David, Skullcandy, HexClad and 60+ more live brands. Search nearly 500 brands in one place. Updated daily.",
   openGraph: {
-    title: "RivalSKU Drops — Real-Time Price Drops Across 340+ Brands",
+    title: "RivalSKU Drops — Real-Time Price Drops, Big Names to Indie Brands",
     description:
-      "Live catalog markdowns, back-in-stock alerts, and new launches across 340+ cult DTC brands. Zero fake coupon codes.",
+      "Live catalog markdowns, back-in-stock alerts, and new launches from big-name retailers and indie brands. Zero fake coupon codes.",
     images: ["/deals/opengraph-image"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "RivalSKU Drops — Real-Time Price Drops Across 340+ Brands",
+    title: "RivalSKU Drops — Real-Time Price Drops, Big Names to Indie Brands",
     description:
-      "Live catalog markdowns, back-in-stock alerts, and new launches across 340+ cult DTC brands.",
+      "Live catalog markdowns, back-in-stock alerts, and new launches from big-name retailers and indie brands.",
     images: ["/deals/opengraph-image"],
   },
 };

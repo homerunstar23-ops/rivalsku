@@ -1,3084 +1,3750 @@
 {
-  "updatedAt": "2026-11-25T14:28:46.419Z",
-  "totalCount": 342,
+  "updatedAt": "2026-11-25T15:20:49.130Z",
+  "totalCount": 377,
+  "tosCheckedAt": "2026-11-25T15:36:57.933Z",
   "brands": [
     {
       "domain": "aersf.com",
-      "canonicalDomain": "aersf.com",
       "name": "Aer",
       "slug": "aer",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "aimeleondore.com",
-      "canonicalDomain": "aimeleondore.com",
       "name": "Aimé Leon Dore",
       "slug": "aim-leon-dore",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(g) use any automatic or manual process to harvest information from the Services"
     },
     {
       "domain": "albanypark.com",
-      "canonicalDomain": "albanypark.com",
       "name": "Albany Park",
       "slug": "albany-park",
       "category": "Home",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "alexandani.com",
-      "canonicalDomain": "alexandani.com",
       "name": "Alex and Ani",
       "slug": "alex-and-ani",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(e) use any robot, spider, scraping, data gathering and extraction tools, automatic devices or processes, AI tools (such as agentic AI) or automated or manual means to access",
+      "status": "paused_tos"
     },
     {
       "domain": "alexmill.com",
-      "canonicalDomain": "alexmill.com",
       "name": "Alex Mill",
       "slug": "alex-mill",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "allbirds.com",
-      "canonicalDomain": "allbirds.com",
       "name": "Allbirds",
       "slug": "allbirds",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "Access any of the features of the Platform through any automated means or with any automated features or devices (including use of scripts or web crawlers)"
     },
     {
       "domain": "american-giant.com",
-      "canonicalDomain": "american-giant.com",
       "name": "American Giant",
       "slug": "american-giant",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(e) use of any data mining, robots or similar data gathering or extraction methods"
     },
     {
       "domain": "andar.com",
-      "canonicalDomain": "andar.com",
       "name": "Andar",
       "slug": "andar",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "apolloneuro.com",
-      "canonicalDomain": "apolloneuro.com",
       "name": "Apollo Neuro",
       "slug": "apollo-neuro",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "areaware.com",
-      "canonicalDomain": "areaware.com",
       "name": "Areaware",
       "slug": "areaware",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "astridandmiyu.com",
-      "canonicalDomain": "astridandmiyu.com",
       "name": "Astrid & Miyu",
       "slug": "astrid-and-miyu",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "auratenewyork.com",
-      "canonicalDomain": "auratenewyork.com",
       "name": "AURATE",
       "slug": "aurate",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "awaytravel.com",
-      "canonicalDomain": "awaytravel.com",
       "name": "Away",
       "slug": "away",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "badbirdiegolf.com",
-      "canonicalDomain": "badbirdiegolf.com",
       "name": "Bad Birdie",
       "slug": "bad-birdie",
       "category": "Apparel",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "shopbala.com",
-      "canonicalDomain": "shopbala.com",
       "name": "Bala",
       "slug": "bala",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "balooliving.com",
-      "canonicalDomain": "balooliving.com",
       "name": "Baloo Living",
       "slug": "baloo-living",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "bandolierstyle.com",
-      "canonicalDomain": "bandolierstyle.com",
       "name": "Bandolier",
       "slug": "bandolier",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "baublebar.com",
-      "canonicalDomain": "baublebar.com",
       "name": "BaubleBar",
       "slug": "baublebar",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "tware or routine, or access or attempt to gain access to any data, files, or passwords related to the Platform through hacking, password or data mining, or any other means",
+      "status": "paused_tos"
     },
     {
       "domain": "shopbeam.com",
-      "canonicalDomain": "shopbeam.com",
       "name": "beam",
       "slug": "beam-shopbeam",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "bearaby.com",
-      "canonicalDomain": "bearaby.com",
       "name": "Bearaby",
       "slug": "bearaby",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "beckettsimonon.com",
-      "canonicalDomain": "beckettsimonon.com",
       "name": "Beckett Simonon",
       "slug": "beckett-simonon",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "beistravel.com",
-      "canonicalDomain": "beistravel.com",
       "name": "BÉIS",
       "slug": "b-is",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(vii) harvest or otherwise collect or store any information (including Personal Data of other users of the Site, including email addresses, without the e",
+      "status": "paused_tos"
     },
     {
       "domain": "bentgo.com",
-      "canonicalDomain": "bentgo.com",
       "name": "Bentgo",
       "slug": "bentgo",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "getbevel.com",
-      "canonicalDomain": "getbevel.com",
       "name": "Bevel",
       "slug": "bevel",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(iv) use any robot, scraper, or other automated means to access the Services"
     },
     {
       "domain": "bioliteenergy.com",
-      "canonicalDomain": "bioliteenergy.com",
       "name": "BioLite",
       "slug": "biolite",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider, scraper or other automated means to access the Site"
     },
     {
       "domain": "birdandbe.com",
-      "canonicalDomain": "birdandbe.com",
       "name": "Bird&Be",
       "slug": "birdandbe",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(f) using any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on"
     },
     {
       "domain": "birdies.com",
-      "canonicalDomain": "birdies.com",
       "name": "Birdies",
       "slug": "birdies",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "birdwell.com",
-      "canonicalDomain": "birdwell.com",
       "name": "Birdwell",
       "slug": "birdwell",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "blenderseyewear.com",
-      "canonicalDomain": "blenderseyewear.com",
       "name": "Blenders Eyewear",
       "slug": "blenders-eyewear",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You may not use any automated means or form of scraping or data extraction to access, query or otherwise collect material from the Blenders Eyewear® Offerings except as expressly permitted by Ble",
+      "status": "paused_tos"
     },
     {
       "domain": "blueland.com",
-      "canonicalDomain": "blueland.com",
       "name": "Blueland",
       "slug": "blueland",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "boccesbakery.com",
-      "canonicalDomain": "boccesbakery.com",
       "name": "Bocce's Bakery",
       "slug": "bocce-s-bakery",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "bollandbranch.com",
-      "canonicalDomain": "bollandbranch.com",
       "name": "Boll & Branch",
       "slug": "boll-and-branch",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "bonobos.com",
-      "canonicalDomain": "bonobos.com",
       "name": "Bonobos",
       "slug": "bonobos",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "vices or Content or download Content from the Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools and the like) other than the software and/or search age"
     },
     {
       "domain": "boysmells.com",
-      "canonicalDomain": "boysmells.com",
       "name": "Boy Smells",
       "slug": "boy-smells",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Content (as defined below) provided through or obtained from the Services, including without limitation, engage in the practice of \\\"screen scraping,\\\" or any other similar activity",
+      "status": "paused_tos"
     },
     {
       "domain": "branchbasics.com",
-      "canonicalDomain": "branchbasics.com",
       "name": "Branch Basics",
       "slug": "branch-basics",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "ted website, other websites, or the Internet (h) to collect or track the personal information of others (i) to spam, phish, pharm, pretext, spider, crawl, or scrape (j) for any obscene or immoral purpose (k) to interfere with or circumvent "
     },
     {
       "domain": "branchfurniture.com",
-      "canonicalDomain": "branchfurniture.com",
       "name": "Branch Furniture",
       "slug": "branch-furniture",
       "category": "Home",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "breadbeautysupply.com",
-      "canonicalDomain": "breadbeautysupply.com",
       "name": "Bread Beauty Supply",
       "slug": "bread-beauty-supply",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "breeo.co",
-      "canonicalDomain": "breeo.co",
       "name": "Breeo",
       "slug": "breeo",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "breezygolf.com",
-      "canonicalDomain": "breezygolf.com",
       "name": "Breezy Golf",
       "slug": "breezy-golf",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "k, threaten or otherwise violate the legal rights of others, including without limitation others’ privacy rights or rights of publicity, or harvest or collect personally identifiable information about other users of the Property"
     },
     {
       "domain": "brightland.co",
-      "canonicalDomain": "brightland.co",
       "name": "Brightland",
       "slug": "brightland",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "adorably sized LIMITED EDITION Sold Out The Mediterranean Duo $92 Limited-edition pair from Italy & Greece Black Friday · 25% off OCT 2025 HARVEST Awake Extra Virgin Olive Oil $38 Bold and green, gloriously peppery Black Friday · 25% off Be"
     },
     {
       "domain": "brooklinen.com",
-      "canonicalDomain": "brooklinen.com",
       "name": "Brooklinen",
       "slug": "brooklinen",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos",
+      "bigName": true
     },
     {
       "domain": "brooklynbedding.com",
-      "canonicalDomain": "brooklynbedding.com",
       "name": "Brooklyn Bedding",
       "slug": "brooklyn-bedding",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "buffy.co",
-      "canonicalDomain": "buffy.co",
       "name": "Buffy",
       "slug": "buffy",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "“crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the Services or Content (through use of manual or automated means)"
     },
     {
       "domain": "burlapandbarrel.com",
-      "canonicalDomain": "burlapandbarrel.com",
       "name": "Burlap & Barrel",
       "slug": "burlap-and-barrel",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "byoma.com",
-      "canonicalDomain": "byoma.com",
       "name": "BYOMA",
       "slug": "byoma",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "cadenlane.com",
-      "canonicalDomain": "cadenlane.com",
       "name": "Caden Lane",
       "slug": "caden-lane",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "caitlynminimalist.com",
-      "canonicalDomain": "caitlynminimalist.com",
       "name": "Caitlyn Minimalist",
       "slug": "caitlyn-minimalist",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "calpaktravel.com",
-      "canonicalDomain": "calpaktravel.com",
       "name": "CALPAK",
       "slug": "calpak",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Without limiting the foregoing, you may not use “bots,” spiders or intelligent agent software (or similar technologies) for any purposes other than accessing publicly posted portions of the Website and o",
+      "status": "paused_tos"
     },
     {
       "domain": "casper.com",
-      "canonicalDomain": "casper.com",
       "name": "Casper",
       "slug": "casper",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "(d) use any data mining, bots, spiders, automated tools or similar data gathering and extraction methods on the contents of the Sites or Apps, or to collect any information from the Sites or Apps"
     },
     {
       "domain": "gochirp.com",
-      "canonicalDomain": "gochirp.com",
       "name": "Chirp",
       "slug": "chirp",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on"
     },
     {
       "domain": "christydawn.com",
-      "canonicalDomain": "christydawn.com",
       "name": "Christy Dawn",
       "slug": "christy-dawn",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "chubbiesshorts.com",
-      "canonicalDomain": "chubbiesshorts.com",
       "name": "Chubbies",
       "slug": "chubbies",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "cocokind.com",
-      "canonicalDomain": "cocokind.com",
       "name": "cocokind",
       "slug": "cocokind",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "coloredorganics.com",
-      "canonicalDomain": "coloredorganics.com",
       "name": "Colored Organics",
       "slug": "colored-organics",
       "category": "Kids",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "colorfulstandard.com",
-      "canonicalDomain": "colorfulstandard.com",
       "name": "Colorful Standard",
       "slug": "colorful-standard",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "colourpop.com",
-      "canonicalDomain": "colourpop.com",
       "name": "ColourPop",
       "slug": "colourpop",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You are prohibited from using any robots, spiders, data mining or scraping technology or any similar third party tools for the extraction or reproduction of any data or content from our website without our prior wr",
+      "status": "paused_tos"
     },
     {
       "domain": "corkcicle.com",
-      "canonicalDomain": "corkcicle.com",
       "name": "Corkcicle",
       "slug": "corkcicle",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on t"
     },
     {
       "domain": "corridornyc.com",
-      "canonicalDomain": "corridornyc.com",
       "name": "Corridor",
       "slug": "corridor",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "cotopaxi.com",
-      "canonicalDomain": "cotopaxi.com",
       "name": "Cotopaxi",
       "slug": "cotopaxi",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or (n) use data mining, robots or similar data gathering and extraction tools or otherwise collect or harvest information regarding other users of the Web Site for any reason whatsoever, including, without limitation, for forwarding unsolic"
     },
     {
       "domain": "staycourant.com",
-      "canonicalDomain": "staycourant.com",
       "name": "Courant",
       "slug": "courant",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "coyuchi.com",
-      "canonicalDomain": "coyuchi.com",
       "name": "Coyuchi",
       "slug": "coyuchi",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Harvest or otherwise collect information about others, including e-mail addresses, without their consent",
+      "status": "paused_tos"
     },
     {
       "domain": "cozyearth.com",
-      "canonicalDomain": "cozyearth.com",
       "name": "Cozy Earth",
       "slug": "cozy-earth",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "craftdlondon.com",
-      "canonicalDomain": "craftdlondon.com",
       "name": "CRAFTD",
       "slug": "craftd",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "crownaffair.com",
-      "canonicalDomain": "crownaffair.com",
       "name": "Crown Affair",
       "slug": "crown-affair",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "cultiver.com",
-      "canonicalDomain": "cultiver.com",
       "name": "Cultiver",
       "slug": "cultiver",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "curehydration.com",
-      "canonicalDomain": "curehydration.com",
       "name": "Cure Hydration",
       "slug": "cure-hydration",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "curiouselixirs.com",
-      "canonicalDomain": "curiouselixirs.com",
       "name": "Curious Elixirs",
       "slug": "curious-elixirs",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "cutsclothing.com",
-      "canonicalDomain": "cutsclothing.com",
       "name": "Cuts Clothing",
       "slug": "cuts-clothing",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "cuyana.com",
-      "canonicalDomain": "cuyana.com",
       "name": "Cuyana",
       "slug": "cuyana",
       "category": "Apparel",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "daehair.com",
-      "canonicalDomain": "daehair.com",
       "name": "dae",
       "slug": "dae",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "dagnedover.com",
-      "canonicalDomain": "dagnedover.com",
       "name": "Dagne Dover",
       "slug": "dagne-dover",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "drinkdesoi.com",
-      "canonicalDomain": "drinkdesoi.com",
       "name": "De Soi",
       "slug": "de-soi",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Scrape, mine, or extract data without authorization"
     },
     {
       "domain": "dedcool.com",
-      "canonicalDomain": "dedcool.com",
       "name": "DedCool",
       "slug": "dedcool",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "diasporaco.com",
-      "canonicalDomain": "diasporaco.com",
       "name": "Diaspora Co.",
       "slug": "diaspora-co",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "ices or Content or download Content from the Services, through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agen"
     },
     {
       "domain": "dieuxskin.com",
-      "canonicalDomain": "dieuxskin.com",
       "name": "Dieux",
       "slug": "dieux",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or (g) use software robots, spiders, crawlers, or similar data gathering and extraction tools, or take any other action that may impose an unreasonable burden or load on our infrastruct"
     },
     {
       "domain": "diffeyewear.com",
-      "canonicalDomain": "diffeyewear.com",
       "name": "DIFF Eyewear",
       "slug": "diff-eyewear",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "• Use bots, scrapers, crawlers, automated tools, or similar technologies without our prior written permission",
+      "status": "paused_tos"
     },
     {
       "domain": "dirtylabs.com",
-      "canonicalDomain": "dirtylabs.com",
       "name": "Dirty Labs",
       "slug": "dirty-labs",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Bowl Cleaner with Phytolase® , Enzyme Buddies Wool Dryer Balls , Bio Laundry Detergent Travel Pack , Delicates Wash Bag , Wooden Pan & Dish Scraper , German Dish Cloths , Bio Enzyme Laundry Booster - 2 Pack , Aestival Bio Enzyme Dishwasher ",
+      "status": "paused_tos"
     },
     {
       "domain": "shopdoen.com",
-      "canonicalDomain": "shopdoen.com",
       "name": "DÔEN",
       "slug": "d-en",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "vices or any Content, (c) modify or otherwise make any derivative uses of the Dôen Services or Content, or any portion thereof, (d) use any data mining, robots or similar data gathering or extraction methods, (e) download (other than page c",
+      "status": "paused_tos"
     },
     {
       "domain": "drsquatch.com",
-      "canonicalDomain": "drsquatch.com",
       "name": "Dr. Squatch",
       "slug": "dr-squatch",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "dropps.com",
-      "canonicalDomain": "dropps.com",
       "name": "Dropps",
       "slug": "dropps",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Use of any affiliate website, affiliate network properties, automated systems, script, or macro to participate is strictly prohibited and will result in disqualification",
+      "status": "paused_tos"
     },
     {
       "domain": "duckcamp.com",
-      "canonicalDomain": "duckcamp.com",
       "name": "Duck Camp",
       "slug": "duck-camp",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "eastfork.com",
-      "canonicalDomain": "eastfork.com",
       "name": "East Fork",
       "slug": "east-fork",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on"
     },
     {
       "domain": "ekster.com",
-      "canonicalDomain": "ekster.com",
       "name": "Ekster",
       "slug": "ekster",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "electricpicks.com",
-      "canonicalDomain": "electricpicks.com",
       "name": "Electric Picks",
       "slug": "electric-picks",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "ellisbrooklyn.com",
-      "canonicalDomain": "ellisbrooklyn.com",
       "name": "Ellis Brooklyn",
       "slug": "ellis-brooklyn",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "ember.com",
-      "canonicalDomain": "ember.com",
       "name": "Ember",
       "slug": "ember",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "scrape, access, monitor, index, frame, link, or copy any content or information on the Services by accessing the Services in an automated way, usi",
+      "status": "paused_tos"
     },
     {
       "domain": "enroutejewelry.com",
-      "canonicalDomain": "enroutejewelry.com",
       "name": "En Route",
       "slug": "en-route",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "enonation.com",
-      "canonicalDomain": "enonation.com",
       "name": "ENO",
       "slug": "eno",
       "category": "Outdoor",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "equipfoods.com",
-      "canonicalDomain": "equipfoods.com",
       "name": "Equip Foods",
       "slug": "equip-foods",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "ergopouch.com",
-      "canonicalDomain": "ergopouch.com",
       "name": "ergoPouch",
       "slug": "ergopouch",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "The license to access and use the information on our website does not include the right to use any data mining robots or other extraction tools",
+      "status": "paused_tos"
     },
     {
       "domain": "ettitude.com",
-      "canonicalDomain": "ettitude.com",
       "name": "ettitude",
       "slug": "ettitude",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "everybody.world",
-      "canonicalDomain": "everybody.world",
       "name": "Everybody.World",
       "slug": "everybody-world",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "everydaydose.com",
-      "canonicalDomain": "everydaydose.com",
       "name": "Everyday Dose",
       "slug": "everyday-dose",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "evryjewels.com",
-      "canonicalDomain": "evryjewels.com",
       "name": "Evry Jewels",
       "slug": "evry-jewels",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "fablehome.co",
-      "canonicalDomain": "fablehome.co",
       "name": "Fable",
       "slug": "fable",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "fablepets.com",
-      "canonicalDomain": "fablepets.com",
       "name": "Fable Pets",
       "slug": "fable-pets",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "fahertybrand.com",
-      "canonicalDomain": "fahertybrand.com",
       "name": "Faherty",
       "slug": "faherty",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "use any software, tool, data, device or other mechanism to “scrape” or otherwise compile data on this Site"
     },
     {
       "domain": "farmacybeauty.com",
-      "canonicalDomain": "farmacybeauty.com",
       "name": "Farmacy",
       "slug": "farmacy",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "fashionnova.com",
-      "canonicalDomain": "fashionnova.com",
       "name": "Fashion Nova",
       "slug": "fashion-nova",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
     },
     {
       "domain": "fellowproducts.com",
-      "canonicalDomain": "fellowproducts.com",
       "name": "Fellow",
       "slug": "fellow",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "vices or Content or download Content from the Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agen"
     },
     {
       "domain": "fentybeauty.com",
-      "canonicalDomain": "fentybeauty.com",
       "name": "Fenty Beauty",
       "slug": "fenty-beauty",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "Using or launching, developing or distributing any automated system, including, without limitation, any spider, robot (or “bot”), cheat utility, scraper or offline reader that accesses the Website, or using or launching any unauthorized scr"
     },
     {
       "domain": "ferapetorganics.com",
-      "canonicalDomain": "ferapetorganics.com",
       "name": "Fera Pets",
       "slug": "fera-pets",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "flauntcases.com",
-      "canonicalDomain": "flauntcases.com",
       "name": "FLAUNT",
       "slug": "flaunt",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "floydhome.com",
-      "canonicalDomain": "floydhome.com",
       "name": "Floyd",
       "slug": "floyd",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "• scrape, copy, download, use, or distribute (whether or not for commercial purposes) any other user's personal information",
+      "status": "paused_tos"
     },
     {
       "domain": "fluxfootwear.com",
-      "canonicalDomain": "fluxfootwear.com",
       "name": "Flux Footwear",
       "slug": "flux-footwear",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "flybyjing.com",
-      "canonicalDomain": "flybyjing.com",
       "name": "Fly By Jing",
       "slug": "fly-by-jing",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "us.foursigmatic.com",
-      "canonicalDomain": "us.foursigmatic.com",
       "name": "Four Sigmatic",
       "slug": "four-sigmatic",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "frankandeileen.com",
-      "canonicalDomain": "frankandeileen.com",
       "name": "Frank & Eileen",
       "slug": "frank-and-eileen",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "‎ create User accounts by automated means or under false or fraudulent pretenses"
     },
     {
       "domain": "fredasalvador.com",
-      "canonicalDomain": "fredasalvador.com",
       "name": "FREDA SALVADOR",
       "slug": "freda-salvador",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "freeflyapparel.com",
-      "canonicalDomain": "freeflyapparel.com",
       "name": "Free Fly",
       "slug": "free-fly",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "freshcleantees.com",
-      "canonicalDomain": "freshcleantees.com",
       "name": "Fresh Clean Threads",
       "slug": "fresh-clean-threads",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Chat and Communication Consent By initiating or participating in a chat session with FRESH CLEAN TEES—whether with a live agent or automated system—you expressly consent to the recording, storage, and potential review of that communication "
     },
     {
       "domain": "fullwellfertility.com",
-      "canonicalDomain": "fullwellfertility.com",
       "name": "FullWell",
       "slug": "fullwell",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Use scripts, macros or other automated means to impact the integrity of the Site, and ambassador programs, ratings or similar features",
+      "status": "paused_tos"
     },
     {
       "domain": "drinkghia.com",
-      "canonicalDomain": "drinkghia.com",
       "name": "Ghia",
       "slug": "ghia",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Scrape the Services or use other automated or manual means to take our content without our express prior written consent"
     },
     {
       "domain": "gir.co",
-      "canonicalDomain": "gir.co",
       "name": "GIR",
       "slug": "gir",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "girlfriend.com",
-      "canonicalDomain": "girlfriend.com",
       "name": "Girlfriend Collective",
       "slug": "girlfriend-collective",
       "category": "Apparel",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "gld.com",
-      "canonicalDomain": "gld.com",
       "name": "GLD",
       "slug": "gld",
       "category": "Jewelry",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "glossier.com",
-      "canonicalDomain": "glossier.com",
       "name": "Glossier",
       "slug": "glossier",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "(e) use or attempt to use any engine, software, tool, agent, data, or other device or mechanism (including browsers, spiders, robots, avatars, or intelligent agents) to navigate or search the Site other than the search engine and search age"
     },
     {
       "domain": "glowrecipe.com",
-      "canonicalDomain": "glowrecipe.com",
       "name": "Glow Recipe",
       "slug": "glow-recipe",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "golde.co",
-      "canonicalDomain": "golde.co",
       "name": "Golde",
       "slug": "golde",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "goodr.com",
-      "canonicalDomain": "goodr.com",
       "name": "goodr",
       "slug": "goodr",
       "category": "Apparel",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "gorjana.com",
-      "canonicalDomain": "gorjana.com",
       "name": "gorjana",
       "slug": "gorjana",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "you may not download or copy any information, service or Content on the Website for the benefit of a third party or, use data mining, robots, bots, or similar data gathering, data scraping or extraction tools",
+      "status": "paused_tos"
     },
     {
       "domain": "gozney.com",
-      "canonicalDomain": "gozney.com",
       "name": "Gozney",
       "slug": "gozney",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "gravityblankets.com",
-      "canonicalDomain": "gravityblankets.com",
       "name": "Gravity Blankets",
       "slug": "gravity-blankets",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on"
     },
     {
       "domain": "graza.co",
-      "canonicalDomain": "graza.co",
       "name": "Graza",
       "slug": "graza",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "ToS text not readable",
+      "status": "paused_tos"
     },
     {
       "domain": "greatjonesgoods.com",
-      "canonicalDomain": "greatjonesgoods.com",
       "name": "Great Jones",
       "slug": "great-jones",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Scrape the Services or use other automated or manual means to take our content without our express prior written consent",
+      "status": "paused_tos"
     },
     {
       "domain": "greats.com",
-      "canonicalDomain": "greats.com",
       "name": "GREATS",
       "slug": "greats",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Any use of data mining, robots, or similar data-gathering and extraction tools"
     },
     {
       "domain": "greysonclothiers.com",
-      "canonicalDomain": "greysonclothiers.com",
       "name": "Greyson Clothiers",
       "slug": "greyson-clothiers",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "To use any robot, spider, or other automatic device, process, or other means to crawl, scrape, or otherwise access the Services, or use any means to reproduce or alter the navigational structure or presentation of the Services, for a"
     },
     {
       "domain": "gunamuna.com",
-      "canonicalDomain": "gunamuna.com",
       "name": "gunamuna",
       "slug": "gunamuna",
       "category": "Kids",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "gymshark.com",
-      "canonicalDomain": "gymshark.com",
       "name": "Gymshark",
       "slug": "gymshark",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "ToS text not readable",
+      "status": "paused_tos",
+      "bigName": true
     },
     {
       "domain": "harimari.com",
-      "canonicalDomain": "harimari.com",
       "name": "Hari Mari",
       "slug": "hari-mari",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "harrys.com",
-      "canonicalDomain": "harrys.com",
       "name": "Harry's",
       "slug": "harry-s",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "hawkinsnewyork.com",
-      "canonicalDomain": "hawkinsnewyork.com",
       "name": "Hawkins New York",
       "slug": "hawkins-new-york",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "heathceramics.com",
-      "canonicalDomain": "heathceramics.com",
       "name": "Heath Ceramics",
       "slug": "heath-ceramics",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "hedleyandbennett.com",
-      "canonicalDomain": "hedleyandbennett.com",
       "name": "Hedley & Bennett",
       "slug": "hedley-and-bennett",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "hello-bello.com",
-      "canonicalDomain": "hello-bello.com",
       "name": "Hello Bello",
       "slug": "hello-bello",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "herbivorebotanicals.com",
-      "canonicalDomain": "herbivorebotanicals.com",
       "name": "Herbivore Botanicals",
       "slug": "herbivore-botanicals",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "hexclad.com",
-      "canonicalDomain": "hexclad.com",
       "name": "HexClad",
       "slug": "hexclad",
       "category": "Kitchen",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "heymaeve.com",
-      "canonicalDomain": "heymaeve.com",
       "name": "Hey Maeve",
       "slug": "hey-maeve",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "hillhousehome.com",
-      "canonicalDomain": "hillhousehome.com",
       "name": "Hill House Home",
       "slug": "hill-house-home",
       "category": "Apparel",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "hilma.co",
-      "canonicalDomain": "hilma.co",
       "name": "Hilma",
       "slug": "hilma",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "and (vi) use any robot, spider, site search/retrieval application or other automated device, process or means to access, retrieve, scrape or index any portion of the Hilma Service or any Content"
     },
     {
       "domain": "homesick.com",
-      "canonicalDomain": "homesick.com",
       "name": "Homesick",
       "slug": "homesick",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on"
     },
     {
       "domain": "hotelcollection.com",
-      "canonicalDomain": "hotelcollection.com",
       "name": "Hotel Collection",
       "slug": "hotel-collection",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "howlerbros.com",
-      "canonicalDomain": "howlerbros.com",
       "name": "Howler Brothers",
       "slug": "howler-brothers",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Re-deliver or publish all or part of the Site using framing, scraping, or any other related technology"
     },
     {
       "domain": "hushblankets.com",
-      "canonicalDomain": "hushblankets.com",
       "name": "Hush Blankets",
       "slug": "hush-blankets",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "drinkhydrant.com",
-      "canonicalDomain": "drinkhydrant.com",
       "name": "Hydrant",
       "slug": "hydrant",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "use any robot, spider or other automatic device, process or means to access the Service for any purpose, including monitoring or copying any of the material on t",
+      "status": "paused_tos"
     },
     {
       "domain": "hyperice.com",
-      "canonicalDomain": "hyperice.com",
       "name": "Hyperice",
       "slug": "hyperice",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "hyperlitemountaingear.com",
-      "canonicalDomain": "hyperlitemountaingear.com",
       "name": "Hyperlite Mountain Gear",
       "slug": "hyperlite-mountain-gear",
       "category": "Outdoor",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "iliabeauty.com",
-      "canonicalDomain": "iliabeauty.com",
       "name": "ILIA Beauty",
       "slug": "ilia-beauty",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "or (v) any use of data mining, robots, or similar data gathering and extraction tools",
+      "status": "paused_tos"
     },
     {
       "domain": "innersensebeauty.com",
-      "canonicalDomain": "innersensebeauty.com",
       "name": "Innersense",
       "slug": "innersense",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "insideweather.com",
-      "canonicalDomain": "insideweather.com",
       "name": "Inside Weather",
       "slug": "inside-weather",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "jamiekay.com",
-      "canonicalDomain": "jamiekay.com",
       "name": "Jamie Kay",
       "slug": "jamie-kay",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "jennikayne.com",
-      "canonicalDomain": "jennikayne.com",
       "name": "Jenni Kayne",
       "slug": "jenni-kayne",
       "category": "Apparel",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "thinkjinx.com",
-      "canonicalDomain": "thinkjinx.com",
       "name": "Jinx",
       "slug": "jinx",
       "category": "Pets",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "jonesroadbeauty.com",
-      "canonicalDomain": "jonesroadbeauty.com",
       "name": "Jones Road",
       "slug": "jones-road",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "k18hair.com",
-      "canonicalDomain": "k18hair.com",
       "name": "K18",
       "slug": "k18",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "to place (or allow our service providers to place) Messages to the phone number you provided using an automatic telephone dialing system or automated system for the selection of telephone numbers"
     },
     {
       "domain": "kammok.com",
-      "canonicalDomain": "kammok.com",
       "name": "Kammok",
       "slug": "kammok",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "katinusa.com",
-      "canonicalDomain": "katinusa.com",
       "name": "Katin",
       "slug": "katin",
       "category": "Outdoor",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "keychron.com",
-      "canonicalDomain": "keychron.com",
       "name": "Keychron",
       "slug": "keychron",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "kineuphorics.com",
-      "canonicalDomain": "kineuphorics.com",
       "name": "Kin Euphorics",
       "slug": "kin-euphorics",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "getkion.com",
-      "canonicalDomain": "getkion.com",
       "name": "Kion",
       "slug": "kion",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "kith.com",
-      "canonicalDomain": "kith.com",
       "name": "Kith",
       "slug": "kith",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "THE USE OF ANY ROBOT, SPIDER, OR OTHER AUTOMATIC DEVICE OR SOFTWARE IN CONNECTION WITH THE SERVICES IS STRICTLY PROHIBITED",
+      "status": "paused_tos"
     },
     {
       "domain": "kizik.com",
-      "canonicalDomain": "kizik.com",
       "name": "Kizik",
       "slug": "kizik",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "kleankanteen.com",
-      "canonicalDomain": "kleankanteen.com",
       "name": "Klean Kanteen",
       "slug": "klean-kanteen",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "knockaround.com",
-      "canonicalDomain": "knockaround.com",
       "name": "Knockaround",
       "slug": "knockaround",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "koio.co",
-      "canonicalDomain": "koio.co",
       "name": "KOIO",
       "slug": "koio",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or (d) use any data mining, bots, spiders, automated tools or similar data gathering and extraction methods on the contents of the Site or to collect any information from the Site or any other user"
     },
     {
       "domain": "kosas.com",
-      "canonicalDomain": "kosas.com",
       "name": "Kosas",
       "slug": "kosas",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(vii) copy, reproduce, transmit, scrape or distribute the Site, including through the use of a robot, spider or other automatic means"
     },
     {
       "domain": "kotn.com",
-      "canonicalDomain": "kotn.com",
       "name": "Kotn",
       "slug": "kotn",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "attempt to scrape or bypass security measures"
     },
     {
       "domain": "kuiu.com",
-      "canonicalDomain": "kuiu.com",
       "name": "KUIU",
       "slug": "kuiu",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "kyliecosmetics.com",
-      "canonicalDomain": "kyliecosmetics.com",
       "name": "Kylie Cosmetics",
       "slug": "kylie-cosmetics",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "· Use any robot, spider, or other automatic device, process, or means to access the Website for any purpose, including monitoring or copying any of the material on",
+      "status": "paused_tos",
+      "bigName": true
     },
     {
       "domain": "kytebaby.com",
-      "canonicalDomain": "kytebaby.com",
       "name": "Kyte Baby",
       "slug": "kyte-baby",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Pajamas Sets Tops Bottoms Dresses Intimates Robes Men Pajamas Tops Bottoms Collabs Collaborations Mickey and Friends Curious George MARVEL Spider-Man Gilmore Girls Harry Potter™ Shop All Collaborations Search Search Clear Account Cart 0 Bes",
+      "status": "paused_tos"
     },
     {
       "domain": "lakepajamas.com",
-      "canonicalDomain": "lakepajamas.com",
       "name": "Lake Pajamas",
       "slug": "lake-pajamas",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "lalo.com",
-      "canonicalDomain": "lalo.com",
       "name": "Lalo",
       "slug": "lalo",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "lambwolf.co",
-      "canonicalDomain": "lambwolf.co",
       "name": "Lambwolf Collective",
       "slug": "lambwolf-collective",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(e) use any robot, spider, scraping, data gathering and extraction tools, automatic devices or processes, AI tools (such as agentic AI) or automated or manual means to access",
+      "status": "paused_tos"
     },
     {
       "domain": "lespecs.com",
-      "canonicalDomain": "lespecs.com",
       "name": "Le Specs",
       "slug": "le-specs",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "liforme.com",
-      "canonicalDomain": "liforme.com",
       "name": "Liforme",
       "slug": "liforme",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "linoto.com",
-      "canonicalDomain": "linoto.com",
       "name": "Linoto",
       "slug": "linoto",
       "category": "Home",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "liquid-iv.com",
-      "canonicalDomain": "liquid-iv.com",
       "name": "Liquid I.V.",
       "slug": "liquid-i-v",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "littlebeast.co",
-      "canonicalDomain": "littlebeast.co",
       "name": "Little Beast",
       "slug": "little-beast",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "littlesleepies.com",
-      "canonicalDomain": "littlesleepies.com",
       "name": "Little Sleepies",
       "slug": "little-sleepies",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "ty Training By Size 12-18 months 18-24 months 2T 3T 4T Kid Kid 5Y - 16Y Shop All Top Picks Just Dropped Bath Harry Potter™ Toy Story Marvel Spider-Man Dream Print Finder Collections Holiday Shop Winter Favorites Sibling Matching Outfits The",
+      "status": "paused_tos"
     },
     {
       "domain": "lofree.co",
-      "canonicalDomain": "lofree.co",
       "name": "Lofree",
       "slug": "lofree",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "loftie.com",
-      "canonicalDomain": "loftie.com",
       "name": "Loftie",
       "slug": "loftie",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "scrape or copy content from the Services by automated or manual means, without our written consent",
+      "status": "paused_tos"
     },
     {
       "domain": "loopycases.com",
-      "canonicalDomain": "loopycases.com",
       "name": "Loopy Cases",
       "slug": "loopy-cases",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "losangelesapparel.net",
-      "canonicalDomain": "losangelesapparel.net",
       "name": "Los Angeles Apparel",
       "slug": "los-angeles-apparel",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "lucyand.co",
-      "canonicalDomain": "lucyand.co",
       "name": "Lucy & Co.",
       "slug": "lucy-and-co",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "lunya.co",
-      "canonicalDomain": "lunya.co",
       "name": "Lunya",
       "slug": "lunya",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You may not use any robot, \"bot\", spider, crawler or other automatic device or manual process to gather data from the site for commercial use",
+      "status": "paused_tos"
     },
     {
       "domain": "mackweldon.com",
-      "canonicalDomain": "mackweldon.com",
       "name": "Mack Weldon",
       "slug": "mack-weldon",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(d) use any data mining, bots, spiders, automated tools or similar data gathering and extraction methods on the contents of the Site or to collect any information from the Site or any other user"
     },
     {
       "domain": "magneticme.com",
-      "canonicalDomain": "magneticme.com",
       "name": "Magnetic Me",
       "slug": "magnetic-me",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "maidenhome.com",
-      "canonicalDomain": "maidenhome.com",
       "name": "Maiden Home",
       "slug": "maiden-home",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or (d) use any data mining, bots, spiders, automated tools or similar data gathering and extraction methods on the contents of the Site or to collect any information from the Site or any other user"
     },
     {
       "domain": "maisonmiru.com",
-      "canonicalDomain": "maisonmiru.com",
       "name": "Maison Miru",
       "slug": "maison-miru",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on t"
     },
     {
       "domain": "manduka.com",
-      "canonicalDomain": "manduka.com",
       "name": "Manduka",
       "slug": "manduka",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You will not use any automated means – such as any robot, spider, etc",
+      "status": "paused_tos"
     },
     {
       "domain": "margauxny.com",
-      "canonicalDomain": "margauxny.com",
       "name": "Margaux",
       "slug": "margaux",
       "category": "Footwear",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "marinelayer.com",
-      "canonicalDomain": "marinelayer.com",
       "name": "Marine Layer",
       "slug": "marine-layer",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "matadorup.com",
-      "canonicalDomain": "matadorup.com",
       "name": "Matador",
       "slug": "matador",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(iv) use automated means not provided by Matador to access the Services",
+      "status": "paused_tos"
     },
     {
       "domain": "matethelabel.com",
-      "canonicalDomain": "matethelabel.com",
       "name": "MATE the Label",
       "slug": "mate-the-label",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "materialkitchen.com",
-      "canonicalDomain": "materialkitchen.com",
       "name": "Material Kitchen",
       "slug": "material-kitchen",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "maxbone.com",
-      "canonicalDomain": "maxbone.com",
       "name": "maxbone",
       "slug": "maxbone",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "melindamaria.com",
-      "canonicalDomain": "melindamaria.com",
       "name": "Melinda Maria",
       "slug": "melinda-maria",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "miansai.com",
-      "canonicalDomain": "miansai.com",
       "name": "Miansai",
       "slug": "miansai",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "miir.com",
-      "canonicalDomain": "miir.com",
       "name": "MiiR",
       "slug": "miir",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You agree not to use or launch any automated system, including without limitation, \"robots,\" \"spiders,\" or similar technological devices or programs, that access the Website in a manner that sends more request messages to the MiiR",
+      "status": "paused_tos"
     },
     {
       "domain": "milkmakeup.com",
-      "canonicalDomain": "milkmakeup.com",
       "name": "Milk Makeup",
       "slug": "milk-makeup",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "ministryofsupply.com",
-      "canonicalDomain": "ministryofsupply.com",
       "name": "Ministry of Supply",
       "slug": "ministry-of-supply",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "misen.com",
-      "canonicalDomain": "misen.com",
       "name": "Misen",
       "slug": "misen",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "75 in savings 151 Reviews Featured Bench Scraper - Blue Play video Play video Pause video Bench Scraper - Blue Sale price $18",
+      "status": "paused_tos"
     },
     {
       "domain": "missoma.com",
-      "canonicalDomain": "missoma.com",
       "name": "Missoma",
       "slug": "missoma",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "hellomockingbird.com",
-      "canonicalDomain": "hellomockingbird.com",
       "name": "Mockingbird",
       "slug": "mockingbird",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "shopmoment.com",
-      "canonicalDomain": "shopmoment.com",
       "name": "Moment",
       "slug": "moment",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "livemomentous.com",
-      "canonicalDomain": "livemomentous.com",
       "name": "Momentous",
       "slug": "momentous",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "shop.momofuku.com",
-      "canonicalDomain": "shop.momofuku.com",
       "name": "Momofuku Goods",
       "slug": "momofuku-goods",
       "category": "Kitchen",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "monos.com",
-      "canonicalDomain": "monos.com",
       "name": "Monos",
       "slug": "monos",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "moonjuice.com",
-      "canonicalDomain": "moonjuice.com",
       "name": "Moon Juice",
       "slug": "moon-juice",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "mous.co",
-      "canonicalDomain": "mous.co",
       "name": "Mous",
       "slug": "mous",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "mudwtr.com",
-      "canonicalDomain": "mudwtr.com",
       "name": "MUD/WTR",
       "slug": "mud-wtr",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "mushie.com",
-      "canonicalDomain": "mushie.com",
       "name": "mushie",
       "slug": "mushie",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "mvmt.com",
-      "canonicalDomain": "mvmt.com",
       "name": "MVMT",
       "slug": "mvmt",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You may not use any manual or automated software, devices, or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools, or the like) that “scrape” or download data from any pages containe",
+      "status": "paused_tos"
     },
     {
       "domain": "nativecos.com",
-      "canonicalDomain": "nativecos.com",
       "name": "Native",
       "slug": "native",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "nativepet.com",
-      "canonicalDomain": "nativepet.com",
       "name": "Native Pet",
       "slug": "native-pet",
       "category": "Pets",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "nativeunion.com",
-      "canonicalDomain": "nativeunion.com",
       "name": "Native Union",
       "slug": "native-union",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "earch, or create accounts for the Website by any means (automated or otherwise) other than our publicly supported interfaces (for example, \"scraping\" or creating accounts in bulk) or attempt to do so"
     },
     {
       "domain": "naturium.com",
-      "canonicalDomain": "naturium.com",
       "name": "Naturium",
       "slug": "naturium",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "· scrape, crawl, mine, or use automated tools to extract data"
     },
     {
       "domain": "necessaire.com",
-      "canonicalDomain": "necessaire.com",
       "name": "Nécessaire",
       "slug": "n-cessaire",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "nisolo.com",
-      "canonicalDomain": "nisolo.com",
       "name": "Nisolo",
       "slug": "nisolo",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "exploit the Website or collect any data incorporated in the Website in any automated manner through the use of, metaspiders, crawlers or any other automated means"
     },
     {
       "domain": "noahny.com",
-      "canonicalDomain": "noahny.com",
       "name": "Noah",
       "slug": "noah",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "nobullproject.com",
-      "canonicalDomain": "nobullproject.com",
       "name": "NOBULL",
       "slug": "nobull",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on t"
     },
     {
       "domain": "nuggetcomfort.com",
-      "canonicalDomain": "nuggetcomfort.com",
       "name": "Nugget",
       "slug": "nugget",
       "category": "Kids",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "nuunlife.com",
-      "canonicalDomain": "nuunlife.com",
       "name": "Nuun",
       "slug": "nuun",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "olaplex.com",
-      "canonicalDomain": "olaplex.com",
       "name": "OLAPLEX",
       "slug": "olaplex",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos",
+      "bigName": true
     },
     {
       "domain": "drinkolipop.com",
-      "canonicalDomain": "drinkolipop.com",
       "name": "OLIPOP",
       "slug": "olipop",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "olukai.com",
-      "canonicalDomain": "olukai.com",
       "name": "OluKai",
       "slug": "olukai",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "oofos.com",
-      "canonicalDomain": "oofos.com",
       "name": "OOFOS",
       "slug": "oofos",
       "category": "Footwear",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "ooni.com",
-      "canonicalDomain": "ooni.com",
       "name": "Ooni",
       "slug": "ooni",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "openfarmpet.com",
-      "canonicalDomain": "openfarmpet.com",
       "name": "Open Farm",
       "slug": "open-farm",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "to harvest or collect Personal Information about other users"
     },
     {
       "domain": "orbitkey.com",
-      "canonicalDomain": "orbitkey.com",
       "name": "Orbitkey",
       "slug": "orbitkey",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "organicbasics.com",
-      "canonicalDomain": "organicbasics.com",
       "name": "Organic Basics",
       "slug": "organic-basics",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "oseamalibu.com",
-      "canonicalDomain": "oseamalibu.com",
       "name": "OSEA Malibu",
       "slug": "osea-malibu",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(e) use any robot, spider, scraping, data gathering and extraction tools, automatic devices or processes, AI tools (such as agentic AI) or automated or manual means to access",
+      "status": "paused_tos"
     },
     {
       "domain": "otherland.com",
-      "canonicalDomain": "otherland.com",
       "name": "Otherland",
       "slug": "otherland",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "theouai.com",
-      "canonicalDomain": "theouai.com",
       "name": "OUAI",
       "slug": "ouai",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "fromourplace.com",
-      "canonicalDomain": "fromourplace.com",
       "name": "Our Place",
       "slug": "our-place",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "engage in spidering or harvesting, or participate in the use of software, including spyware, designed to collect data from the Services"
     },
     {
       "domain": "outdoorvoices.com",
-      "canonicalDomain": "outdoorvoices.com",
       "name": "Outdoor Voices",
       "slug": "outdoor-voices",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "op or use any third-party applications that interact with our Services without our prior written consent, including any scripts designed to scrape or extract data from our Services",
+      "status": "paused_tos"
     },
     {
       "domain": "outerknown.com",
-      "canonicalDomain": "outerknown.com",
       "name": "Outerknown",
       "slug": "outerknown",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You may not use any data mining, robots, or other data gathering methods",
+      "status": "paused_tos"
     },
     {
       "domain": "oystercooler.com",
-      "canonicalDomain": "oystercooler.com",
       "name": "Oyster",
       "slug": "oyster",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "pacificabeauty.com",
-      "canonicalDomain": "pacificabeauty.com",
       "name": "Pacifica",
       "slug": "pacifica",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or (g) use software robots, spiders, crawlers, or similar data gathering and extraction tools, or take any other action that may impose an unreasonable burden or load on our infrastruct"
     },
     {
       "domain": "parachutehome.com",
-      "canonicalDomain": "parachutehome.com",
       "name": "Parachute",
       "slug": "parachute",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "patternbeauty.com",
-      "canonicalDomain": "patternbeauty.com",
       "name": "PATTERN Beauty",
       "slug": "pattern-beauty",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(vii) harvest or otherwise collect or store any information (including Personal Data of other users of the Site, including email addresses, without the e",
+      "status": "paused_tos"
     },
     {
       "domain": "pavoi.com",
-      "canonicalDomain": "pavoi.com",
       "name": "PAVOI",
       "slug": "pavoi",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "peachandlily.com",
-      "canonicalDomain": "peachandlily.com",
       "name": "Peach & Lily",
       "slug": "peach-and-lily",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "ftware or routine, or access or attempt to gain access to any data, files, or passwords related to the Service through hacking, password or data mining, or any other means",
+      "status": "paused_tos"
     },
     {
       "domain": "peakdesign.com",
-      "canonicalDomain": "peakdesign.com",
       "name": "Peak Design",
       "slug": "peak-design",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     },
     {
       "domain": "buypeel.com",
-      "canonicalDomain": "buypeel.com",
       "name": "PEEL",
       "slug": "peel",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "You further agree that you will not systematically extract, collect, or harvest through electronic means or otherwise, any data or data fields from our Services, including but not limited to customer identities or perso"
     },
     {
       "domain": "perelelhealth.com",
-      "canonicalDomain": "perelelhealth.com",
       "name": "Perelel",
       "slug": "perelel",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(iMessage, WhatsApp)), or successor protocols or technologies), and voicemails, and that these communications may be made or sent using an automated system, prerecorded or artificial voice, and/or artificial intelligence (AI)",
+      "status": "paused_tos"
     },
     {
       "domain": "pigletinbed.com",
-      "canonicalDomain": "pigletinbed.com",
       "name": "Piglet in Bed",
       "slug": "piglet-in-bed",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "pipettebaby.com",
-      "canonicalDomain": "pipettebaby.com",
       "name": "Pipette",
       "slug": "pipette",
       "category": "Kids",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "ipitaka.com",
-      "canonicalDomain": "ipitaka.com",
       "name": "PITAKA",
       "slug": "pitaka",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "plae.co",
-      "canonicalDomain": "plae.co",
       "name": "PLAE",
       "slug": "plae",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "poshpeanut.com",
-      "canonicalDomain": "poshpeanut.com",
       "name": "Posh Peanut",
       "slug": "posh-peanut",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(k) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "primary.com",
-      "canonicalDomain": "primary.com",
       "name": "Primary",
       "slug": "primary",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "vices or Content or download Content from the Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agen"
     },
     {
       "domain": "us.princesspolly.com",
-      "canonicalDomain": "us.princesspolly.com",
       "name": "Princess Polly",
       "slug": "princess-polly",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "quadlockcase.com",
-      "canonicalDomain": "quadlockcase.com",
       "name": "Quad Lock",
       "slug": "quad-lock",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "quay.com",
-      "canonicalDomain": "quay.com",
       "name": "Quay",
       "slug": "quay",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "The licence to access and use the information on our website does not include the right to use any data mining robots or other extraction tools",
+      "status": "paused_tos"
     },
     {
       "domain": "quiettownhome.com",
-      "canonicalDomain": "quiettownhome.com",
       "name": "Quiet Town",
       "slug": "quiet-town",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(vii) use any automated means, including, without limitation, agents, robots, scripts, or spiders, to access, monitor, or copy any part of the Service"
     },
     {
       "domain": "rails.com",
-      "canonicalDomain": "rails.com",
       "name": "Rails",
       "slug": "rails",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "rarebeauty.com",
-      "canonicalDomain": "rarebeauty.com",
       "name": "Rare Beauty",
       "slug": "rare-beauty",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "ng that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Services Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract da"
     },
     {
       "domain": "rayconglobal.com",
-      "canonicalDomain": "rayconglobal.com",
       "name": "Raycon",
       "slug": "raycon",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "revivalrugs.com",
-      "canonicalDomain": "revivalrugs.com",
       "name": "Revival Rugs",
       "slug": "revival-rugs",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Except as expressly authorized by Revival, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute, or create derivative works based on the Site or the Site Content, in whole or in part, or otherwise u",
+      "status": "paused_tos"
     },
     {
       "domain": "rhodeskin.com",
-      "canonicalDomain": "rhodeskin.com",
       "name": "rhode",
       "slug": "rhode",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "rifrufqueens.com",
-      "canonicalDomain": "rifrufqueens.com",
       "name": "RIFRUF",
       "slug": "rifruf",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "ringconcierge.com",
-      "canonicalDomain": "ringconcierge.com",
       "name": "Ring Concierge",
       "slug": "ring-concierge",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "ritual.com",
-      "canonicalDomain": "ritual.com",
       "name": "Ritual",
       "slug": "ritual",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "using manual or automated software or other means to scrape, crawl, spider, or similarly access or copy any portion of the Services or to use any portion of the Services to train or otherwise include in large langu",
+      "status": "paused_tos"
     },
     {
       "domain": "rmsbeauty.com",
-      "canonicalDomain": "rmsbeauty.com",
       "name": "RMS Beauty",
       "slug": "rms-beauty",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "roark.com",
-      "canonicalDomain": "roark.com",
       "name": "Roark",
       "slug": "roark",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You agree that you will not use any robot, spider, scraper or other automated means to access the Site for any purpose without our express written permission",
+      "status": "paused_tos"
     },
     {
       "domain": "roseinc.com",
-      "canonicalDomain": "roseinc.com",
       "name": "Rose Inc",
       "slug": "rose-inc",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "rothys.com",
-      "canonicalDomain": "rothys.com",
       "name": "Rothy's",
       "slug": "rothy-s",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "and You shall not use any manual or automated software, devices or other processes (including spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to “scrape” or download data from any web pages contained in the Webs",
+      "status": "paused_tos"
     },
     {
       "domain": "rowingblazers.com",
-      "canonicalDomain": "rowingblazers.com",
       "name": "Rowing Blazers",
       "slug": "rowing-blazers",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "ruffwear.com",
-      "canonicalDomain": "ruffwear.com",
       "name": "Ruffwear",
       "slug": "ruffwear",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You agree not to use any data mining, robots, scraping or similar data gathering methods",
+      "status": "paused_tos"
     },
     {
       "domain": "rumpl.com",
-      "canonicalDomain": "rumpl.com",
       "name": "Rumpl",
       "slug": "rumpl",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "ryzesuperfoods.com",
-      "canonicalDomain": "ryzesuperfoods.com",
       "name": "RYZE",
       "slug": "ryze",
       "category": "Wellness",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "saiehello.com",
-      "canonicalDomain": "saiehello.com",
       "name": "Saie",
       "slug": "saie",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "saltair.com",
-      "canonicalDomain": "saltair.com",
       "name": "Saltair",
       "slug": "saltair",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "satechi.net",
-      "canonicalDomain": "satechi.net",
       "name": "Satechi",
       "slug": "satechi",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "schoolhouse.com",
-      "canonicalDomain": "schoolhouse.com",
       "name": "Schoolhouse",
       "slug": "schoolhouse",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "shamelesspets.com",
-      "canonicalDomain": "shamelesspets.com",
       "name": "Shameless Pets",
       "slug": "shameless-pets",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "sharge.com",
-      "canonicalDomain": "sharge.com",
       "name": "SHARGE",
       "slug": "sharge",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "skratchlabs.com",
-      "canonicalDomain": "skratchlabs.com",
       "name": "Skratch Labs",
       "slug": "skratch-labs",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "skullcandy.com",
-      "canonicalDomain": "skullcandy.com",
       "name": "Skullcandy",
       "slug": "skullcandy",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
     },
     {
       "domain": "smartish.com",
-      "canonicalDomain": "smartish.com",
       "name": "Smartish",
       "slug": "smartish",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "snowe.co",
-      "canonicalDomain": "snowe.co",
       "name": "SNOWE",
       "slug": "snowe",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": ", framing, scraping, etc",
+      "status": "paused_tos"
     },
     {
       "domain": "soldejaneiro.com",
-      "canonicalDomain": "soldejaneiro.com",
       "name": "Sol de Janeiro",
       "slug": "sol-de-janeiro",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "sollybaby.com",
-      "canonicalDomain": "sollybaby.com",
       "name": "Solly Baby",
       "slug": "solly-baby",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "soludos.com",
-      "canonicalDomain": "soludos.com",
       "name": "Soludos",
       "slug": "soludos",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "ToS text not readable",
+      "status": "paused_tos"
     },
     {
       "domain": "shopsonix.com",
-      "canonicalDomain": "shopsonix.com",
       "name": "Sonix",
       "slug": "sonix",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "stance.com",
-      "canonicalDomain": "stance.com",
       "name": "Stance",
       "slug": "stance",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "o agree not to: (i) access or use the Site by means of any automated program, expert system, electronic agent or “bot,” and (ii) engage in “scraping,” copying, republishing, licensing, or selling the data, information or other content on th",
+      "status": "paused_tos"
     },
     {
       "domain": "stanley1913.com",
-      "canonicalDomain": "stanley1913.com",
       "name": "Stanley",
       "slug": "stanley",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "or any use of data mining, robots, or similar data gathering and extraction tools"
     },
     {
       "domain": "stasherbag.com",
-      "canonicalDomain": "stasherbag.com",
       "name": "Stasher",
       "slug": "stasher",
       "category": "Kitchen",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "stateandliberty.com",
-      "canonicalDomain": "stateandliberty.com",
       "name": "State and Liberty",
       "slug": "state-and-liberty",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "y related website, other websites, or the internet, to collect or track the personal information of others, to spam, phish, pharm, pretext, spider, craw or scrape or to interfere with or circumvent the security features of the Service or an",
+      "status": "paused_tos"
     },
     {
       "domain": "statebags.com",
-      "canonicalDomain": "statebags.com",
       "name": "STATE Bags",
       "slug": "state-bags",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "status.co",
-      "canonicalDomain": "status.co",
       "name": "Status Audio",
       "slug": "status-audio",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "stoneandstrand.com",
-      "canonicalDomain": "stoneandstrand.com",
       "name": "Stone and Strand",
       "slug": "stone-and-strand",
       "category": "Jewelry",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "studs.com",
-      "canonicalDomain": "studs.com",
       "name": "Studs",
       "slug": "studs",
       "category": "Jewelry",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "search, or otherwise use any portion of the Services through the use of any engine, software, tool, agent, device, or mechanism (including spiders, robots, crawlers, and data mining tools) other than the software or search agents provided b"
     },
     {
       "domain": "sundayriley.com",
-      "canonicalDomain": "sundayriley.com",
       "name": "Sunday Riley",
       "slug": "sunday-riley",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You agree that you will not use any robot, spider, scraper, or other automated means to access the Site for any purpose without our express prior written permission or bypass our robot exclusion headers or other measures we",
+      "status": "paused_tos"
     },
     {
       "domain": "sundayscaries.com",
-      "canonicalDomain": "sundayscaries.com",
       "name": "Sunday Scaries",
       "slug": "sunday-scaries",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on t"
     },
     {
       "domain": "sunski.com",
-      "canonicalDomain": "sunski.com",
       "name": "Sunski",
       "slug": "sunski",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "supergoop.com",
-      "canonicalDomain": "supergoop.com",
       "name": "Supergoop!",
       "slug": "supergoop",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(g) to access or scrape the Site by any automated means unless you are a search engine crawling the Site for the sole purpose of creating a publicly accessible search index"
     },
     {
       "domain": "supply.co",
-      "canonicalDomain": "supply.co",
       "name": "Supply",
       "slug": "supply",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "taftclothing.com",
-      "canonicalDomain": "taftclothing.com",
       "name": "TAFT",
       "slug": "taft",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "tatcha.com",
-      "canonicalDomain": "tatcha.com",
       "name": "Tatcha",
       "slug": "tatcha",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "derivative works from Tatcha’s Site or its Contents, download or copy account information for another person’s or entity’s benefit, or use data mining, robots, scrapers, or similar data gathering and extraction tools on, in or in connection",
+      "status": "paused_tos"
     },
     {
       "domain": "taylorstitch.com",
-      "canonicalDomain": "taylorstitch.com",
       "name": "Taylor Stitch",
       "slug": "taylor-stitch",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on t"
     },
     {
       "domain": "teacollection.com",
-      "canonicalDomain": "teacollection.com",
       "name": "Tea Collection",
       "slug": "tea-collection",
       "category": "Kids",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "tecovas.com",
-      "canonicalDomain": "tecovas.com",
       "name": "Tecovas",
       "slug": "tecovas",
       "category": "Footwear",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "tenlittle.com",
-      "canonicalDomain": "tenlittle.com",
       "name": "Ten Little",
       "slug": "ten-little",
       "category": "Kids",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "engage in unauthorized spidering, scraping, or harvesting Ten Little content, contacts or other personal information, or use any other unauthorized automated means to obtain Ten Little information"
     },
     {
       "domain": "tenthousand.cc",
-      "canonicalDomain": "tenthousand.cc",
       "name": "Ten Thousand",
       "slug": "ten-thousand",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "tentree.com",
-      "canonicalDomain": "tentree.com",
       "name": "Tentree",
       "slug": "tentree",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
     },
     {
       "domain": "thenueco.com",
-      "canonicalDomain": "thenueco.com",
       "name": "The Nue Co",
       "slug": "the-nue-co",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Entries generated by script, macro or other automated means or means which subvert the entry process will be void"
     },
     {
       "domain": "therabody.com",
-      "canonicalDomain": "therabody.com",
       "name": "Therabody",
       "slug": "therabody",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(vii) harvest or otherwise collect or store any information (including personally identifiable information about other users of the Service, including em",
+      "status": "paused_tos",
+      "bigName": true
     },
     {
       "domain": "thermoworks.com",
-      "canonicalDomain": "thermoworks.com",
       "name": "ThermoWorks",
       "slug": "thermoworks",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(e) use any robot, spider, scraping, data gathering and extraction tools, automatic devices or processes, AI tools (such as agentic AI) or automated or manual means to access",
+      "status": "paused_tos"
     },
     {
       "domain": "thursdayboots.com",
-      "canonicalDomain": "thursdayboots.com",
       "name": "Thursday Boot Co.",
       "slug": "thursday-boot-co",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "toddsnyder.com",
-      "canonicalDomain": "toddsnyder.com",
       "name": "Todd Snyder",
       "slug": "todd-snyder",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "tommyjohn.com",
-      "canonicalDomain": "tommyjohn.com",
       "name": "Tommy John",
       "slug": "tommy-john",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (403)",
+      "status": "paused_tos"
     },
     {
       "domain": "topodesigns.com",
-      "canonicalDomain": "topodesigns.com",
       "name": "Topo Designs",
       "slug": "topo-designs",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "totalleecase.com",
-      "canonicalDomain": "totalleecase.com",
       "name": "Totallee",
       "slug": "totallee",
       "category": "Tech Accessories",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "tower28beauty.com",
-      "canonicalDomain": "tower28beauty.com",
       "name": "Tower 28",
       "slug": "tower-28",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "transparentlabs.com",
-      "canonicalDomain": "transparentlabs.com",
       "name": "Transparent Labs",
       "slug": "transparent-labs",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without TRANSPARENT LABS express written",
+      "status": "paused_tos"
     },
     {
       "domain": "truebotanicals.com",
-      "canonicalDomain": "truebotanicals.com",
       "name": "True Botanicals",
       "slug": "true-botanicals",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "trueclassictees.com",
-      "canonicalDomain": "trueclassictees.com",
       "name": "True Classic",
       "slug": "true-classic",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "(g) use bots, scrapers, or other automated tools to access the Website or collect its data, including to train artificial intelligence or machine learning models, unless we agree in writin"
     },
     {
       "domain": "tuftandneedle.com",
-      "canonicalDomain": "tuftandneedle.com",
       "name": "Tuft & Needle",
       "slug": "tuft-and-needle",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "Use any automated software or tools that are designed to extract and copy data (such as bots, spiders, crawlers, or other similar data-mining, data-gathering, or data-extraction methods) on the Contents of, or source code / HTML code underl"
     },
     {
       "domain": "tuftandpaw.com",
-      "canonicalDomain": "tuftandpaw.com",
       "name": "Tuft + Paw",
       "slug": "tuft-paw",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "twelvesouth.com",
-      "canonicalDomain": "twelvesouth.com",
       "name": "Twelve South",
       "slug": "twelve-south",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "ncluding reproduction for purposes other than those noted above, modification, distribution, or replication, any form of data extraction or data mining, or other commercial exploitation of any kind, without prior written permission of an au",
+      "status": "paused_tos"
     },
     {
       "domain": "ugmonk.com",
-      "canonicalDomain": "ugmonk.com",
       "name": "Ugmonk",
       "slug": "ugmonk",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "universalstandard.com",
-      "canonicalDomain": "universalstandard.com",
       "name": "Universal Standard",
       "slug": "universal-standard",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "● Attempt to access or search the Services or Content or download or scrape the Content from the Site through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, d"
     },
     {
       "domain": "untuckit.com",
-      "canonicalDomain": "untuckit.com",
       "name": "UNTUCKit",
       "slug": "untuckit",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos",
+      "bigName": true
     },
     {
       "domain": "verbproducts.com",
-      "canonicalDomain": "verbproducts.com",
       "name": "Verb",
       "slug": "verb",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "versedskin.com",
-      "canonicalDomain": "versedskin.com",
       "name": "Versed",
       "slug": "versed",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or (g) use software robots, spiders, crawlers, or similar data gathering and extraction tools, or take any other action that may impose an unreasonable burden or load on our infrastruct"
     },
     {
       "domain": "vessi.com",
-      "canonicalDomain": "vessi.com",
       "name": "Vessi",
       "slug": "vessi",
       "category": "Footwear",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "vissla.com",
-      "canonicalDomain": "vissla.com",
       "name": "Vissla",
       "slug": "vissla",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You may not use any robot, scraper or other automated means to access the site for any purpose without our written permission, and you may not interfere with the operation or security of the site",
+      "status": "paused_tos"
     },
     {
       "domain": "vitruvi.com",
-      "canonicalDomain": "vitruvi.com",
       "name": "Vitruvi",
       "slug": "vitruvi",
       "category": "Home",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "wellpeople.com",
-      "canonicalDomain": "wellpeople.com",
       "name": "W3LL PEOPLE",
       "slug": "w3ll-people",
       "category": "Beauty",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "· scrape, crawl, mine, or use automated tools to extract data"
     },
     {
       "domain": "wandrd.com",
-      "canonicalDomain": "wandrd.com",
       "name": "WANDRD",
       "slug": "wandrd",
       "category": "Outdoor",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "welleco.com",
-      "canonicalDomain": "welleco.com",
       "name": "WelleCo",
       "slug": "welleco",
       "category": "Wellness",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "wildearth.com",
-      "canonicalDomain": "wildearth.com",
       "name": "Wild Earth",
       "slug": "wild-earth",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "wildone.com",
-      "canonicalDomain": "wildone.com",
       "name": "Wild One",
       "slug": "wild-one",
       "category": "Pets",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "wildflowercases.com",
-      "canonicalDomain": "wildflowercases.com",
       "name": "Wildflower Cases",
       "slug": "wildflower-cases",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "winkylux.com",
-      "canonicalDomain": "winkylux.com",
       "name": "Winky Lux",
       "slug": "winky-lux",
       "category": "Beauty",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "wyze.com",
-      "canonicalDomain": "wyze.com",
       "name": "Wyze",
       "slug": "wyze",
       "category": "Tech Accessories",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "use any data mining, robots or similar data-gathering or extraction methods designed to scrape or extract data from our Products or Services",
+      "status": "paused_tos"
     },
     {
       "domain": "xeroshoes.com",
-      "canonicalDomain": "xeroshoes.com",
       "name": "Xero Shoes",
       "slug": "xero-shoes",
       "category": "Footwear",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
     },
     {
       "domain": "yearandday.com",
-      "canonicalDomain": "yearandday.com",
       "name": "Year & Day",
       "slug": "year-and-day",
       "category": "Kitchen",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "b) use a robot, spider or data mining or extraction tool or process to monitor, extract or copy Site Content"
     },
     {
       "domain": "youngla.com",
-      "canonicalDomain": "youngla.com",
       "name": "YoungLA",
       "slug": "youngla",
       "category": "Apparel",
-      "source": "shopify",
-      "status": "live"
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
     },
     {
       "domain": "zeedog.com",
-      "canonicalDomain": "zeedog.com",
       "name": "Zee.Dog",
       "slug": "zee-dog",
       "category": "Pets",
-      "source": "shopify",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(e) use any robot, spider, scraping, data gathering and extraction tools, automatic devices or processes, AI tools (such as agentic AI) or automated or manual means to access",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "peets.com",
+      "name": "Peet's Coffee",
+      "slug": "peet-s-coffee",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
+    },
+    {
+      "domain": "davidstea.com",
+      "name": "DAVIDsTEA",
+      "slug": "davidstea",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "clean",
       "status": "live"
+    },
+    {
+      "domain": "t3micro.com",
+      "name": "T3",
+      "slug": "t3",
+      "category": "Beauty",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live"
+    },
+    {
+      "domain": "pyrexhome.com",
+      "name": "Pyrex",
+      "slug": "pyrex",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
+    },
+    {
+      "domain": "waterford.com",
+      "name": "Waterford",
+      "slug": "waterford",
+      "category": "Home",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
+    },
+    {
+      "domain": "hoover.com",
+      "name": "Hoover",
+      "slug": "hoover",
+      "category": "Home",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "ToS text not readable"
+    },
+    {
+      "domain": "blissworld.com",
+      "name": "Bliss",
+      "slug": "bliss",
+      "category": "Beauty",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live"
+    },
+    {
+      "domain": "dirtdevil.com",
+      "name": "Dirt Devil",
+      "slug": "dirt-devil",
+      "category": "Home",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "ToS text not readable"
+    },
+    {
+      "domain": "sharperimage.com",
+      "name": "Sharper Image",
+      "slug": "sharper-image",
+      "category": "Tech Accessories",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
+    },
+    {
+      "domain": "fiestafactorydirect.com",
+      "name": "Fiesta",
+      "slug": "fiesta",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "tosNote": "ToS text not readable"
+    },
+    {
+      "domain": "gibson.com",
+      "name": "Gibson",
+      "slug": "gibson",
+      "category": "Tech Accessories",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
+    },
+    {
+      "domain": "burton.com",
+      "name": "Burton",
+      "slug": "burton",
+      "category": "Outdoor",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "ToS text not readable"
+    },
+    {
+      "domain": "republicoftea.com",
+      "name": "The Republic of Tea",
+      "slug": "the-republic-of-tea",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or any use of data mining, robots, spiders or similar data gathering and extraction tools"
+    },
+    {
+      "domain": "pfaltzgraff.com",
+      "name": "Pfaltzgraff",
+      "slug": "pfaltzgraff",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "b) use a robot, spider or data mining or extraction tool or process to monitor, extract or copy Site Content"
+    },
+    {
+      "domain": "bluemercury.com",
+      "name": "Bluemercury",
+      "slug": "bluemercury",
+      "category": "Beauty",
+      "platform": "Shopify",
+      "tosStatus": "clean",
+      "status": "live",
+      "bigName": true
+    },
+    {
+      "domain": "corelle.com",
+      "name": "Corelle",
+      "slug": "corelle",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "ToS text not readable",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "instantpot.com",
+      "name": "Instant Pot",
+      "slug": "instant-pot",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "You also agree that you will not, including by use of any robot, scraper, or other data mining technology or process, frame, mask, extract data or other materials from, copy or distribute the Site Content (except as may be a result of",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "dylanscandybar.com",
+      "name": "Dylan's Candy Bar",
+      "slug": "dylan-s-candy-bar",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "bulletproof.com",
+      "name": "Bulletproof",
+      "slug": "bulletproof",
+      "category": "Wellness",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "tosNote": "or any use of data mining, robots, or data gathering and extraction tools"
+    },
+    {
+      "domain": "dreametech.com",
+      "name": "Dreame",
+      "slug": "dreame",
+      "category": "Home",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "ttempt to manipulate, exploit or interfere with the proper operation of the website, including but not limited to the use of bots, scripts, automated tools or other means to place orders, monitor inventory or bypass security measures",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "rachaelray.com",
+      "name": "Rachael Ray",
+      "slug": "rachael-ray",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "In addition, you may not use any robot, spider, or intelligent agent software (whether through an automatic device or manual process) to monitor, copy ,harvest, or scrape any of our web",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "chemexcoffeemaker.com",
+      "name": "Chemex",
+      "slug": "chemex",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "brookstone.com",
+      "name": "Brookstone",
+      "slug": "brookstone",
+      "category": "Tech Accessories",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Services for any purpose, including monitoring or copying any of the material on"
+    },
+    {
+      "domain": "wusthof.com",
+      "name": "Wüsthof",
+      "slug": "wusthof",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "(i) to spam, phish, pharm, pretext, spider, crawl, or scrape",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "keenfootwear.com",
+      "name": "KEEN",
+      "slug": "keen",
+      "category": "Footwear",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "or use any robot, spider, search/retrieval application or other manual or automatic device to retrieve, index, “scrape,” “data mine,” or in any way gather or reproduce the Websites or circumvent the navigational structure or presentation of"
+    },
+    {
+      "domain": "reebok.com",
+      "name": "Reebok",
+      "slug": "reebok",
+      "category": "Footwear",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "▪ Use any data mining, robots, or similar data gathering or extraction methods designed to scrape or extract data from our Services except in accordance with instructions contained in our robot",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "zojirushi.com",
+      "name": "Zojirushi",
+      "slug": "zojirushi",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "use any \"deep-link\", \"page-scrape\", \"robot\", \"spider\" or other automatic device, program, algorithm or methodology, or any similar or equivalent process, to access, acquire, copy or monitor an",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "revlon.com",
+      "name": "Revlon",
+      "slug": "revlon",
+      "category": "Beauty",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Prohibited Activities You may not use any “deep link,” “page-scrape,” “robot,” “spider” or other automatic device, program, algorithm or methodology or any similar or equivalent manual process, to access, acquire, copy or moni",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "godiva.com",
+      "name": "Godiva",
+      "slug": "godiva",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "Do not “harvest”, “scrape”, “mine” or otherwise collect information from the Online Services using an automated software tool or manually on a mass basis",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "natori.com",
+      "name": "Natori",
+      "slug": "natori",
+      "category": "Apparel",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "ncluding reproduction for purposes other than those noted above, modification, distribution, or replication, any form of data extraction or data mining, or other commercial exploitation of any kind, without prior written permission of an au",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "hestanculinary.com",
+      "name": "Hestan Culinary",
+      "slug": "hestan-culinary",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "tosNote": "In addition, you may not use any robot, spider, other automatic device, or manual process to monitor, copy or scrape any of our web pages or the content contained herein, without the prior express written consent from an authorized executiv",
+      "status": "paused_tos"
+    },
+    {
+      "domain": "thermos.com",
+      "name": "Thermos",
+      "slug": "thermos",
+      "category": "Outdoor",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring, extracting, or copying any of the"
+    },
+    {
+      "domain": "lenox.com",
+      "name": "Lenox",
+      "slug": "lenox",
+      "category": "Home",
+      "platform": "Shopify",
+      "tosStatus": "prohibits",
+      "status": "paused_tos",
+      "bigName": true,
+      "tosNote": "Take, duplicate, or otherwise “scrape” any content or data from our Website"
+    },
+    {
+      "domain": "ediblearrangements.com",
+      "name": "Edible Arrangements",
+      "slug": "edible-arrangements",
+      "category": "Kitchen",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos",
+      "bigName": true
+    },
+    {
+      "domain": "altrarunning.com",
+      "name": "Altra Running",
+      "slug": "altra-running",
+      "category": "Footwear",
+      "platform": "Shopify",
+      "tosStatus": "unverified",
+      "tosNote": "no ToS page (404)",
+      "status": "paused_tos"
     }
   ]
 }

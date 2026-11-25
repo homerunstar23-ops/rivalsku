@@ -4,6 +4,7 @@ import type {
   DealSectionTag,
   NormalizedDeal,
 } from "./types";
+import { robotsAllows } from "./robots";
 
 type ShopifyVariant = {
   id: number | string;
@@ -57,6 +58,7 @@ export async function fetchShopifyBrandDeals(
   const nowMs = options.nowMs ?? Date.now();
   const url = `https://${brand.domain}/products.json?limit=${maxProducts}`;
 
+  if (!(await robotsAllows(url))) return [];
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
 
@@ -181,6 +183,7 @@ export async function fetchShopifyBrandDeals(
         savingsDollars,
         available,
         sectionTags,
+        kind: "deal",
         createdAt: p.created_at || p.published_at || null,
         updatedAt: p.updated_at || null,
       });

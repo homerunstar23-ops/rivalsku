@@ -1,0 +1,81 @@
+{
+  "updatedAt": "2026-11-25T15:20:49.130Z",
+  "note": "Robots.txt-allowed schema.org Product JSON-LD; ToS reviewed with no anti-automation clause. Capped, delayed page fetches.",
+  "brands": [
+    {
+      "domain": "oldnavy.gap.com",
+      "aliases": [
+        "oldnavy.com"
+      ],
+      "name": "Old Navy",
+      "category": "Apparel",
+      "platform": "Custom (Gap Inc.)",
+      "tosUrl": "https://oldnavy.gap.com/customerService/info.do?cid=3319",
+      "slug": "old-navy",
+      "source": "jsonld",
+      "status": "live",
+      "tosStatus": "clean",
+      "bigName": true
+    },
+    {
+      "domain": "bananarepublic.gap.com",
+      "aliases": [
+        "bananarepublic.com"
+      ],
+      "name": "Banana Republic",
+      "category": "Apparel",
+      "platform": "Custom (Gap Inc.)",
+      "tosUrl": "https://oldnavy.gap.com/customerService/info.do?cid=3319",
+      "slug": "banana-republic",
+      "source": "jsonld",
+      "status": "live",
+      "tosStatus": "clean",
+      "bigName": true
+    },
+    {
+      "domain": "athleta.gap.com",
+      "aliases": [
+        "athleta.com"
+      ],
+      "name": "Athleta",
+      "category": "Apparel",
+      "platform": "Custom (Gap Inc.)",
+      "tosUrl": "https://oldnavy.gap.com/customerService/info.do?cid=3319",
+      "slug": "athleta",
+      "source": "jsonld",
+      "status": "live",
+      "tosStatus": "clean",
+      "bigName": true
+    },
+    {
+      "domain": "www.harryanddavid.com",
+      "aliases": [
+        "harryanddavid.com"
+      ],
+      "name": "Harry & David",
+      "category": "Kitchen",
+      "platform": "Custom",
+      "tosUrl": "https://www.harryanddavid.com/About-Us-Terms-of-Use",
+      "slug": "harry-and-david",
+      "source": "jsonld",
+      "status": "live",
+      "tosStatus": "clean",
+      "bigName": true
+    },
+    {
+      "domain": "www.irobot.com",
+      "aliases": [
+        "irobot.com"
+      ],
+      "name": "iRobot",
+      "category": "Home",
+      "platform": "Salesforce Commerce Cloud",
+      "tosUrl": "https://www.irobot.com/en_US/legal/terms-and-conditions.html",
+      "slug": "irobot",
+      "source": "jsonld",
+      "status": "live",
+      "tosStatus": "clean",
+      "bigName": true
+    }
+  ]
+}

@@ -30,7 +30,7 @@ export function DealsFooter() {
             </div>
             <p className="mt-3 max-w-md text-sm leading-relaxed text-[#555550]">
               A free daily tracker for real price drops, markdowns, restocks,
-              and new launches across 340+ cult consumer brands — pulled straight
+              and new launches from big-name retailers and indie brands — pulled straight
               from store catalogs with zero fake coupon codes.
             </p>
             <p className="mt-3 text-xs text-[#777770]">
@@ -73,7 +73,7 @@ export function DealsFooter() {
                   href="/deals/brands"
                   className="hover:text-[#111111] hover:underline"
                 >
-                  Full Brand Directory (397)
+                  Brand Directory & Search
                 </Link>
               </li>
               <li>

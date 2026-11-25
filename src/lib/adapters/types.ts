@@ -7,9 +7,11 @@ export type AdapterSource =
   | "rakuten"
   | "cj"
   | "awin"
-  | "skimlinks";
+  | "skimlinks"
+  | "jsonld"
+  | "woocommerce";
 
-export type BrandStatus = "live" | "pending_key";
+export type BrandStatus = "live" | "pending_key" | "paused_tos";
 
 export type DealSectionTag =
   | "biggest_drop"
@@ -28,6 +30,12 @@ export type BrandDirectoryEntry = {
   envKeysNeeded: string[];
   signupUrl?: string;
   sampleProductCount?: number;
+  platform?: string;
+  tosStatus?: "clean" | "prohibits" | "unverified";
+  tosNote?: string;
+  blockReason?: string;
+  bigName?: boolean;
+  aliases?: string[];
 };
 
 export type NormalizedDeal = {
@@ -48,6 +56,8 @@ export type NormalizedDeal = {
   savingsDollars: number;
   available: boolean;
   sectionTags: DealSectionTag[];
+  /** "deal" = verified markdown/restock/launch; "catalog" = current price only (searchable, not a deal) */
+  kind?: "deal" | "catalog";
   createdAt: string | null;
   updatedAt: string | null;
 };

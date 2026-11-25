@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T14:29:47.818Z",
+  "updatedAt": "2026-11-25T15:20:49.130Z",
   "brands": [
     {
       "domain": "bestbuy.com",
@@ -11,7 +11,9 @@
       "envKeysNeeded": [
         "BESTBUY_API_KEY"
       ],
-      "signupUrl": "https://developer.bestbuy.com/"
+      "signupUrl": "https://developer.bestbuy.com/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "walmart.com",
@@ -24,7 +26,9 @@
         "WALMART_AFFILIATE_CONSUMER_ID",
         "WALMART_AFFILIATE_PRIVATE_KEY"
       ],
-      "signupUrl": "https://affiliates.walmart.com/"
+      "signupUrl": "https://affiliates.walmart.com/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "amazon.com",
@@ -38,7 +42,9 @@
         "AMAZON_PAAPI_SECRET_KEY",
         "AMAZON_ASSOCIATE_TAG"
       ],
-      "signupUrl": "https://affiliate-program.amazon.com/"
+      "signupUrl": "https://affiliate-program.amazon.com/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "target.com",
@@ -51,7 +57,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "adidas.com",
@@ -64,20 +72,24 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "lululemon.com",
       "name": "Lululemon",
       "slug": "lululemon",
       "category": "Apparel",
-      "source": "impact",
-      "networkName": "Impact",
+      "source": "awin",
+      "networkName": "Awin",
       "envKeysNeeded": [
-        "IMPACT_ACCOUNT_SID",
-        "IMPACT_AUTH_TOKEN"
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://ui.awin.com/publisher-signup/en/awin/step1",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "ulta.com",
@@ -90,7 +102,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "blockReason": "no structured product data",
+      "bigName": true
     },
     {
       "domain": "dyson.com",
@@ -103,7 +117,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "apple.com",
@@ -116,7 +132,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "levi.com",
@@ -129,7 +147,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "rei.com",
@@ -142,7 +162,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "patagonia.com",
@@ -155,7 +177,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "newbalance.com",
@@ -168,7 +192,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "chewy.com",
@@ -181,7 +207,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "sonos.com",
@@ -194,20 +222,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
-    },
-    {
-      "domain": "bose.com",
-      "name": "Bose",
-      "slug": "bose",
-      "category": "Tech Accessories",
-      "source": "impact",
-      "networkName": "Impact",
-      "envKeysNeeded": [
-        "IMPACT_ACCOUNT_SID",
-        "IMPACT_AUTH_TOKEN"
-      ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "samsung.com",
@@ -220,7 +237,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "yeti.com",
@@ -233,7 +252,9 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "everlane.com",
@@ -246,34 +267,24 @@
         "IMPACT_ACCOUNT_SID",
         "IMPACT_AUTH_TOKEN"
       ],
-      "signupUrl": "https://app.impact.com/signup/partner"
-    },
-    {
-      "domain": "madewell.com",
-      "name": "Madewell",
-      "slug": "madewell",
-      "category": "Apparel",
-      "source": "impact",
-      "networkName": "Impact",
-      "envKeysNeeded": [
-        "IMPACT_ACCOUNT_SID",
-        "IMPACT_AUTH_TOKEN"
-      ],
-      "signupUrl": "https://app.impact.com/signup/partner"
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "nike.com",
       "name": "Nike",
       "slug": "nike",
       "category": "Footwear",
-      "source": "rakuten",
-      "networkName": "Rakuten Advertising",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
       "envKeysNeeded": [
-        "RAKUTEN_CLIENT_ID",
-        "RAKUTEN_CLIENT_SECRET",
-        "RAKUTEN_SID"
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "sephora.com",
@@ -287,7 +298,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "nordstrom.com",
@@ -301,7 +314,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "macys.com",
@@ -315,7 +330,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "bloomingdales.com",
@@ -329,7 +346,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "anthropologie.com",
@@ -343,7 +362,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "urbanoutfitters.com",
@@ -357,7 +378,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "freepeople.com",
@@ -371,7 +394,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "hoka.com",
@@ -385,7 +410,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "on.com",
@@ -399,7 +426,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "asics.com",
@@ -413,7 +442,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "jcrew.com",
@@ -427,7 +458,9 @@
         "RAKUTEN_CLIENT_SECRET",
         "RAKUTEN_SID"
       ],
-      "signupUrl": "https://rakutenadvertising.com/publisher/"
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "homedepot.com",
@@ -440,7 +473,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "blockReason": "no structured product data",
+      "bigName": true
     },
     {
       "domain": "lowes.com",
@@ -453,7 +488,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "williams-sonoma.com",
@@ -466,7 +503,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "potterybarn.com",
@@ -479,7 +518,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "westelm.com",
@@ -492,7 +533,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "crateandbarrel.com",
@@ -505,7 +548,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "gap.com",
@@ -518,33 +563,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
-    },
-    {
-      "domain": "oldnavy.com",
-      "name": "Old Navy",
-      "slug": "old-navy",
-      "category": "Kids",
-      "source": "cj",
-      "networkName": "CJ Affiliate",
-      "envKeysNeeded": [
-        "CJ_PERSONAL_ACCESS_TOKEN",
-        "CJ_COMPANY_ID"
-      ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
-    },
-    {
-      "domain": "bananarepublic.com",
-      "name": "Banana Republic",
-      "slug": "banana-republic",
-      "category": "Apparel",
-      "source": "cj",
-      "networkName": "CJ Affiliate",
-      "envKeysNeeded": [
-        "CJ_PERSONAL_ACCESS_TOKEN",
-        "CJ_COMPANY_ID"
-      ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "blockReason": "bot wall",
+      "bigName": true
     },
     {
       "domain": "converse.com",
@@ -557,7 +578,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "brooksrunning.com",
@@ -570,7 +593,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "petco.com",
@@ -583,7 +608,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "underarmour.com",
@@ -596,7 +623,9 @@
         "CJ_PERSONAL_ACCESS_TOKEN",
         "CJ_COMPANY_ID"
       ],
-      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "etsy.com",
@@ -609,7 +638,9 @@
         "AWIN_API_TOKEN",
         "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://ui.awin.com/publisher-signup"
+      "signupUrl": "https://ui.awin.com/publisher-signup",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "wayfair.com",
@@ -622,7 +653,9 @@
         "AWIN_API_TOKEN",
         "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://ui.awin.com/publisher-signup"
+      "signupUrl": "https://ui.awin.com/publisher-signup",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "hm.com",
@@ -635,7 +668,9 @@
         "AWIN_API_TOKEN",
         "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://ui.awin.com/publisher-signup"
+      "signupUrl": "https://ui.awin.com/publisher-signup",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "abercrombie.com",
@@ -648,7 +683,9 @@
         "AWIN_API_TOKEN",
         "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://ui.awin.com/publisher-signup"
+      "signupUrl": "https://ui.awin.com/publisher-signup",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "cb2.com",
@@ -661,7 +698,9 @@
         "AWIN_API_TOKEN",
         "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://ui.awin.com/publisher-signup"
+      "signupUrl": "https://ui.awin.com/publisher-signup",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "pandora.net",
@@ -674,7 +713,9 @@
         "AWIN_API_TOKEN",
         "AWIN_PUBLISHER_ID"
       ],
-      "signupUrl": "https://ui.awin.com/publisher-signup"
+      "signupUrl": "https://ui.awin.com/publisher-signup",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "uniqlo.com",
@@ -687,7 +728,9 @@
         "SKIMLINKS_API_KEY",
         "SKIMLINKS_PUBLISHER_ID"
       ],
-      "signupUrl": "https://www.skimlinks.com/signup/"
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "zara.com",
@@ -700,7 +743,9 @@
         "SKIMLINKS_API_KEY",
         "SKIMLINKS_PUBLISHER_ID"
       ],
-      "signupUrl": "https://www.skimlinks.com/signup/"
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "tiffany.com",
@@ -713,7 +758,9 @@
         "SKIMLINKS_API_KEY",
         "SKIMLINKS_PUBLISHER_ID"
       ],
-      "signupUrl": "https://www.skimlinks.com/signup/"
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
     },
     {
       "domain": "ikea.com",
@@ -726,7 +773,988 @@
         "SKIMLINKS_API_KEY",
         "SKIMLINKS_PUBLISHER_ID"
       ],
-      "signupUrl": "https://www.skimlinks.com/signup/"
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "bigName": true,
+      "blockReason": "direct catalog blocked or unavailable; partner feed needed"
+    },
+    {
+      "domain": "kohls.com",
+      "name": "Kohl's",
+      "slug": "kohl-s",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/",
+      "blockReason": "bot wall (robots.txt 403)",
+      "bigName": true
+    },
+    {
+      "domain": "costco.com",
+      "name": "Costco",
+      "slug": "costco",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "columbia.com",
+      "name": "Columbia Sportswear",
+      "slug": "columbia-sportswear",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "puma.com",
+      "name": "PUMA",
+      "slug": "puma",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "crocs.com",
+      "name": "Crocs",
+      "slug": "crocs",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "ugg.com",
+      "name": "UGG",
+      "slug": "ugg",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "timed out",
+      "bigName": true
+    },
+    {
+      "domain": "teva.com",
+      "name": "Teva",
+      "slug": "teva",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "merrell.com",
+      "name": "Merrell",
+      "slug": "merrell",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "timed out",
+      "bigName": true
+    },
+    {
+      "domain": "vans.com",
+      "name": "Vans",
+      "slug": "vans",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "timberland.com",
+      "name": "Timberland",
+      "slug": "timberland",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "thenorthface.com",
+      "name": "The North Face",
+      "slug": "the-north-face",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "landsend.com",
+      "name": "Lands' End",
+      "slug": "lands-end",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "llbean.com",
+      "name": "L.L.Bean",
+      "slug": "l-l-bean",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "carhartt.com",
+      "name": "Carhartt",
+      "slug": "carhartt",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "express.com",
+      "name": "Express",
+      "slug": "express",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "ae.com",
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "HTTP 403",
+      "bigName": true
+    },
+    {
+      "domain": "hollisterco.com",
+      "name": "Hollister",
+      "slug": "hollister",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "victoriassecret.com",
+      "name": "Victoria's Secret",
+      "slug": "victoria-s-secret",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "bathandbodyworks.com",
+      "name": "Bath & Body Works",
+      "slug": "bath-and-body-works",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "redirect wall",
+      "bigName": true
+    },
+    {
+      "domain": "kiehls.com",
+      "name": "Kiehl's",
+      "slug": "kiehl-s",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "HTTP 403",
+      "bigName": true
+    },
+    {
+      "domain": "clinique.com",
+      "name": "Clinique",
+      "slug": "clinique",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "esteelauder.com",
+      "name": "Estée Lauder",
+      "slug": "estee-lauder",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "maccosmetics.com",
+      "name": "MAC Cosmetics",
+      "slug": "mac-cosmetics",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "benefitcosmetics.com",
+      "name": "Benefit Cosmetics",
+      "slug": "benefit-cosmetics",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "elfcosmetics.com",
+      "name": "e.l.f. Cosmetics",
+      "slug": "e-l-f-cosmetics",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "cerave.com",
+      "name": "CeraVe",
+      "slug": "cerave",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "dermstore.com",
+      "name": "Dermstore",
+      "slug": "dermstore",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "backcountry.com",
+      "name": "Backcountry",
+      "slug": "backcountry",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "dickssportinggoods.com",
+      "name": "DICK'S Sporting Goods",
+      "slug": "dick-s-sporting-goods",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "basspro.com",
+      "name": "Bass Pro Shops",
+      "slug": "bass-pro-shops",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "kitchenaid.com",
+      "name": "KitchenAid",
+      "slug": "kitchenaid",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "keurig.com",
+      "name": "Keurig",
+      "slug": "keurig",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "ninjakitchen.com",
+      "name": "Ninja",
+      "slug": "ninja",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "sharkclean.com",
+      "name": "Shark",
+      "slug": "shark",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "solostove.com",
+      "name": "Solo Stove",
+      "slug": "solo-stove",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "rh.com",
+      "name": "RH",
+      "slug": "rh",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "serenaandlily.com",
+      "name": "Serena & Lily",
+      "slug": "serena-and-lily",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "arhaus.com",
+      "name": "Arhaus",
+      "slug": "arhaus",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "HTTP 430",
+      "bigName": true
+    },
+    {
+      "domain": "birkenstock.com",
+      "name": "Birkenstock",
+      "slug": "birkenstock",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "clarks.com",
+      "name": "Clarks",
+      "slug": "clarks",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "bot wall",
+      "bigName": true
+    },
+    {
+      "domain": "drmartens.com",
+      "name": "Dr. Martens",
+      "slug": "dr-martens",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "no product sitemap",
+      "bigName": true
+    },
+    {
+      "domain": "saucony.com",
+      "name": "Saucony",
+      "slug": "saucony",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "no product sitemap",
+      "bigName": true
+    },
+    {
+      "domain": "weber.com",
+      "name": "Weber",
+      "slug": "weber",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "no structured product data",
+      "bigName": true
+    },
+    {
+      "domain": "traeger.com",
+      "name": "Traeger",
+      "slug": "traeger",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "no structured product data",
+      "bigName": true
+    },
+    {
+      "domain": "zappos.com",
+      "name": "Zappos",
+      "slug": "zappos",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS prohibits bots/data mining",
+      "bigName": true
+    },
+    {
+      "domain": "lovesac.com",
+      "name": "Lovesac",
+      "slug": "lovesac",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS prohibits robots/data mining",
+      "bigName": true
+    },
+    {
+      "domain": "lecreuset.com",
+      "name": "Le Creuset",
+      "slug": "le-creuset",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS prohibits robots/spiders",
+      "bigName": true
+    },
+    {
+      "domain": "subzero-wolf.com",
+      "name": "Sub-Zero & Wolf",
+      "slug": "sub-zero-and-wolf",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS prohibits scraping",
+      "bigName": true
+    },
+    {
+      "domain": "oralb.com",
+      "name": "Oral-B",
+      "slug": "oral-b",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "P&G ToS prohibits scraping",
+      "bigName": true
+    },
+    {
+      "domain": "illy.com",
+      "name": "illy",
+      "slug": "illy",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS prohibits scraping",
+      "bigName": true
+    },
+    {
+      "domain": "skechers.com",
+      "name": "Skechers",
+      "slug": "skechers",
+      "category": "Footwear",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS not located for review",
+      "bigName": true
+    },
+    {
+      "domain": "academy.com",
+      "name": "Academy Sports + Outdoors",
+      "slug": "academy-sports-outdoors",
+      "category": "Outdoor",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS not located for review",
+      "bigName": true
+    },
+    {
+      "domain": "vitamix.com",
+      "name": "Vitamix",
+      "slug": "vitamix",
+      "category": "Kitchen",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS not located for review",
+      "bigName": true
+    },
+    {
+      "domain": "paulaschoice.com",
+      "name": "Paula's Choice",
+      "slug": "paula-s-choice",
+      "category": "Beauty",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS not located for review",
+      "bigName": true
+    },
+    {
+      "domain": "waterpik.com",
+      "name": "Waterpik",
+      "slug": "waterpik",
+      "category": "Wellness",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS not located for review",
+      "bigName": true
+    },
+    {
+      "domain": "1800flowers.com",
+      "name": "1-800-Flowers",
+      "slug": "1-800-flowers",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS not located for review",
+      "bigName": true
+    },
+    {
+      "domain": "aloyoga.com",
+      "name": "Alo Yoga",
+      "slug": "alo-yoga",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "ToS prohibits automated collection",
+      "bigName": true
+    },
+    {
+      "domain": "vuori.com",
+      "name": "Vuori",
+      "slug": "vuori",
+      "category": "Apparel",
+      "source": "awin",
+      "networkName": "Awin",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup/en/awin/step1",
+      "blockReason": "catalog JSON blocked",
+      "bigName": true
+    },
+    {
+      "domain": "madewell.com",
+      "name": "Madewell",
+      "slug": "madewell",
+      "category": "Apparel",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner",
+      "blockReason": "sitemap exposes no product URLs (JSON-LD present on PDPs)",
+      "bigName": true
+    },
+    {
+      "domain": "lookfantastic.com",
+      "name": "LOOKFANTASTIC",
+      "slug": "lookfantastic",
+      "category": "Beauty",
+      "source": "awin",
+      "networkName": "Awin",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup/en/awin/step1",
+      "blockReason": "UK store: JSON-LD prices are GBP only",
+      "bigName": true
+    },
+    {
+      "domain": "www.bose.com",
+      "aliases": [
+        "bose.com"
+      ],
+      "name": "Bose",
+      "slug": "bose",
+      "category": "Tech Accessories",
+      "platform": "Salesforce Commerce Cloud",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "Terms of use prohibit spidering, scraping and crawling (checked 2026-11-25)",
+      "tosStatus": "prohibits",
+      "bigName": true
+    },
+    {
+      "domain": "theordinary.com",
+      "aliases": [],
+      "name": "The Ordinary",
+      "slug": "the-ordinary",
+      "category": "Beauty",
+      "platform": "Salesforce Commerce Cloud",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "Terms of use prohibit robots, spiders and crawlers (checked 2026-11-25)",
+      "tosStatus": "prohibits",
+      "bigName": true
+    },
+    {
+      "domain": "www.worldmarket.com",
+      "aliases": [
+        "worldmarket.com"
+      ],
+      "name": "World Market",
+      "slug": "world-market",
+      "category": "Home",
+      "platform": "Salesforce Commerce Cloud",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "Terms prohibit automated collection of site information (checked 2026-11-25)",
+      "tosStatus": "prohibits",
+      "bigName": true
+    },
+    {
+      "domain": "www.henckels.com",
+      "aliases": [
+        "henckels.com"
+      ],
+      "name": "HENCKELS",
+      "slug": "henckels",
+      "category": "Kitchen",
+      "platform": "Salesforce Commerce Cloud",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/",
+      "blockReason": "Terms prohibit robots, spiders or automatic devices (checked 2026-11-25)",
+      "tosStatus": "prohibits",
+      "bigName": true
     }
   ]
 }

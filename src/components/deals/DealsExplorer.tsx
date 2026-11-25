@@ -5,6 +5,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import type { BrandDirectoryEntry, DealSectionTag, NormalizedDeal } from "@/lib/adapters/types";
 import { DealCard } from "./DealCard";
 import { EmailCaptureBar } from "./EmailCaptureBar";
+import { SearchBar } from "./SearchBar";
 
 type StatsSummary = {
   totalDeals: number;
@@ -18,6 +19,8 @@ type StatsSummary = {
   brandsWithActiveDeals: number;
   lastUpdatedAt: string;
   categories: string[];
+  nonShopifyLiveCount?: number;
+  bigNameLiveCount?: number;
 };
 
 const SECTION_TABS: Array<{
@@ -169,15 +172,25 @@ export function DealsExplorer({
               </Link>
             </div>
             <h1 className="mt-4 font-serif text-4xl tracking-tight text-[#111111] sm:text-5xl">
-              Real-time price drops across the internet&apos;s best brands.
+              Search price drops across big-name and indie brands.
             </h1>
             <p className="mt-3 text-base leading-relaxed text-[#555550] sm:text-lg">
-              Direct catalog markdowns, fresh restocks, and new launches from
-              Lunya, DÔEN, Allbirds, Brooklinen, Gymshark, Our Place, Rare
-              Beauty &amp; {stats.liveBrandsCount - 7}+ more — verified daily, no
-              promo-code clutter.
+              Real markdowns, restocks, and new launches from Old Navy, Banana
+              Republic, Athleta, iRobot, Harry &amp; David, Skullcandy, Waterford, HexClad
+              &amp; {Math.max(0, stats.liveBrandsCount - 9)} more live brands —
+              read from official catalogs and structured product data, never
+              guessed.
             </p>
           </div>
+        </div>
+
+        <div className="mt-6 max-w-3xl">
+          <SearchBar variant="hero" />
+          <p className="mt-2 text-xs text-[#77776F]">
+            Searches {stats.totalDirectoryBrands} brands (including coming-soon
+            ones like Nike, Target and Sephora) and every live product. Typos
+            are OK.
+          </p>
         </div>
 
         <div className="mt-6">
@@ -414,7 +427,7 @@ export function DealsExplorer({
                 Expanding Coverage · Official Feeds Queued
               </span>
               <h2 className="mt-1 font-serif text-2xl text-[#111111] sm:text-3xl">
-                {stats.pendingBrandsCount} major retailers coming soon
+                {pendingPreviewBrands.length} big-name retailers coming soon
               </h2>
               <p className="mt-1 max-w-2xl text-sm text-[#5A5A52]">
                 Our multi-source adapters are built for Impact, Rakuten, CJ,

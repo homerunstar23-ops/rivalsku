@@ -2,11 +2,13 @@ import fs from "fs";
 import path from "path";
 import { getBrandDirectory } from "../src/lib/adapters";
 import { fetchShopifyBatch } from "../src/lib/adapters/shopify";
+import { fetchJsonLdBrand } from "../src/lib/adapters/jsonld";
 import type { NormalizedDeal } from "../src/lib/adapters/types";
 
 async function main() {
   const dir = getBrandDirectory();
-  const shopify = dir.filter((b) => b.source === "shopify");
+  const shopify = dir.filter((b) => b.source === "shopify" && b.status === "live");
+  const jsonldBrands = dir.filter((b) => b.source === "jsonld" && b.status === "live");
   console.log(
     `Scanning ${shopify.length} live Shopify brands (total directory: ${dir.length})...`,
   );
@@ -16,6 +18,20 @@ async function main() {
     timeoutMs: 5000,
     maxProducts: 100,
   });
+
+  // Previous snapshot prices let JSON-LD brands show real drops observed between runs.
+  const prevPrices = new Map<string, number>();
+  try {
+    const prev = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "src", "data", "deals-snapshot.json"), "utf8")) as { deals: NormalizedDeal[] };
+    for (const d of prev.deals) if (d.source === "jsonld") prevPrices.set(d.id, d.nowPrice);
+  } catch {}
+  console.log(`Scanning ${jsonldBrands.length} JSON-LD brands (robots-allowed, capped, delayed)...`);
+  const jsonldResults = await Promise.all(jsonldBrands.map(async (b) => {
+    const items = await fetchJsonLdBrand(b, { prevPrices, maxPages: Number(process.env.JSONLD_MAX_PAGES || 30) });
+    console.log(`  ${b.name}: ${items.length} products (${items.filter((d) => d.kind === "deal").length} discounted)`);
+    return items;
+  }));
+  const jsonldItems = jsonldResults.flat();
 
   // Cap per brand to keep snapshot sleek and diverse across brands:
   // keep top 12 biggest drops + up to 4 new launches + up to 4 back-in-stock per brand
@@ -62,6 +78,7 @@ async function main() {
     }
   }
 
+  curated.push(...jsonldItems);
   // Sort globally by discountPct desc
   curated.sort(
     (a, b) =>
@@ -78,7 +95,7 @@ async function main() {
   const payload = {
     generatedAt: new Date().toISOString(),
     liveBrandsChecked: shopify.length,
-    brandsWithDeals: byBrand.size,
+    brandsWithDeals: byBrand.size + new Set(jsonldItems.map((d) => d.brandDomain)).size,
     totalDeals: curated.length,
     deals: curated,
   };

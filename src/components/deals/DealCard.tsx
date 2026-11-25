@@ -140,7 +140,7 @@ export function DealCard({ deal }: { deal: NormalizedDeal }) {
             rel="noopener noreferrer sponsored"
             className="mt-3 flex w-full items-center justify-center rounded-xl bg-[#111111] px-3 py-2 text-xs font-semibold text-white transition-colors hover:bg-[#2B2B28] sm:text-sm"
           >
-            Shop deal &rarr;
+            {isDiscount ? "Shop deal" : "View product"} &rarr;
           </a>
         </div>
       </div>
