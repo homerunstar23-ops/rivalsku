@@ -1,0 +1,3084 @@
+{
+  "updatedAt": "2026-11-25T14:28:46.419Z",
+  "totalCount": 342,
+  "brands": [
+    {
+      "domain": "aersf.com",
+      "canonicalDomain": "aersf.com",
+      "name": "Aer",
+      "slug": "aer",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "aimeleondore.com",
+      "canonicalDomain": "aimeleondore.com",
+      "name": "Aimé Leon Dore",
+      "slug": "aim-leon-dore",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "albanypark.com",
+      "canonicalDomain": "albanypark.com",
+      "name": "Albany Park",
+      "slug": "albany-park",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "alexandani.com",
+      "canonicalDomain": "alexandani.com",
+      "name": "Alex and Ani",
+      "slug": "alex-and-ani",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "alexmill.com",
+      "canonicalDomain": "alexmill.com",
+      "name": "Alex Mill",
+      "slug": "alex-mill",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "allbirds.com",
+      "canonicalDomain": "allbirds.com",
+      "name": "Allbirds",
+      "slug": "allbirds",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "american-giant.com",
+      "canonicalDomain": "american-giant.com",
+      "name": "American Giant",
+      "slug": "american-giant",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "andar.com",
+      "canonicalDomain": "andar.com",
+      "name": "Andar",
+      "slug": "andar",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "apolloneuro.com",
+      "canonicalDomain": "apolloneuro.com",
+      "name": "Apollo Neuro",
+      "slug": "apollo-neuro",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "areaware.com",
+      "canonicalDomain": "areaware.com",
+      "name": "Areaware",
+      "slug": "areaware",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "astridandmiyu.com",
+      "canonicalDomain": "astridandmiyu.com",
+      "name": "Astrid & Miyu",
+      "slug": "astrid-and-miyu",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "auratenewyork.com",
+      "canonicalDomain": "auratenewyork.com",
+      "name": "AURATE",
+      "slug": "aurate",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "awaytravel.com",
+      "canonicalDomain": "awaytravel.com",
+      "name": "Away",
+      "slug": "away",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "badbirdiegolf.com",
+      "canonicalDomain": "badbirdiegolf.com",
+      "name": "Bad Birdie",
+      "slug": "bad-birdie",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shopbala.com",
+      "canonicalDomain": "shopbala.com",
+      "name": "Bala",
+      "slug": "bala",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "balooliving.com",
+      "canonicalDomain": "balooliving.com",
+      "name": "Baloo Living",
+      "slug": "baloo-living",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "bandolierstyle.com",
+      "canonicalDomain": "bandolierstyle.com",
+      "name": "Bandolier",
+      "slug": "bandolier",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "baublebar.com",
+      "canonicalDomain": "baublebar.com",
+      "name": "BaubleBar",
+      "slug": "baublebar",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shopbeam.com",
+      "canonicalDomain": "shopbeam.com",
+      "name": "beam",
+      "slug": "beam-shopbeam",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "bearaby.com",
+      "canonicalDomain": "bearaby.com",
+      "name": "Bearaby",
+      "slug": "bearaby",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "beckettsimonon.com",
+      "canonicalDomain": "beckettsimonon.com",
+      "name": "Beckett Simonon",
+      "slug": "beckett-simonon",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "beistravel.com",
+      "canonicalDomain": "beistravel.com",
+      "name": "BÉIS",
+      "slug": "b-is",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "bentgo.com",
+      "canonicalDomain": "bentgo.com",
+      "name": "Bentgo",
+      "slug": "bentgo",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "getbevel.com",
+      "canonicalDomain": "getbevel.com",
+      "name": "Bevel",
+      "slug": "bevel",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "bioliteenergy.com",
+      "canonicalDomain": "bioliteenergy.com",
+      "name": "BioLite",
+      "slug": "biolite",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "birdandbe.com",
+      "canonicalDomain": "birdandbe.com",
+      "name": "Bird&Be",
+      "slug": "birdandbe",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "birdies.com",
+      "canonicalDomain": "birdies.com",
+      "name": "Birdies",
+      "slug": "birdies",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "birdwell.com",
+      "canonicalDomain": "birdwell.com",
+      "name": "Birdwell",
+      "slug": "birdwell",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "blenderseyewear.com",
+      "canonicalDomain": "blenderseyewear.com",
+      "name": "Blenders Eyewear",
+      "slug": "blenders-eyewear",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "blueland.com",
+      "canonicalDomain": "blueland.com",
+      "name": "Blueland",
+      "slug": "blueland",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "boccesbakery.com",
+      "canonicalDomain": "boccesbakery.com",
+      "name": "Bocce's Bakery",
+      "slug": "bocce-s-bakery",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "bollandbranch.com",
+      "canonicalDomain": "bollandbranch.com",
+      "name": "Boll & Branch",
+      "slug": "boll-and-branch",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "bonobos.com",
+      "canonicalDomain": "bonobos.com",
+      "name": "Bonobos",
+      "slug": "bonobos",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "boysmells.com",
+      "canonicalDomain": "boysmells.com",
+      "name": "Boy Smells",
+      "slug": "boy-smells",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "branchbasics.com",
+      "canonicalDomain": "branchbasics.com",
+      "name": "Branch Basics",
+      "slug": "branch-basics",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "branchfurniture.com",
+      "canonicalDomain": "branchfurniture.com",
+      "name": "Branch Furniture",
+      "slug": "branch-furniture",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "breadbeautysupply.com",
+      "canonicalDomain": "breadbeautysupply.com",
+      "name": "Bread Beauty Supply",
+      "slug": "bread-beauty-supply",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "breeo.co",
+      "canonicalDomain": "breeo.co",
+      "name": "Breeo",
+      "slug": "breeo",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "breezygolf.com",
+      "canonicalDomain": "breezygolf.com",
+      "name": "Breezy Golf",
+      "slug": "breezy-golf",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "brightland.co",
+      "canonicalDomain": "brightland.co",
+      "name": "Brightland",
+      "slug": "brightland",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "brooklinen.com",
+      "canonicalDomain": "brooklinen.com",
+      "name": "Brooklinen",
+      "slug": "brooklinen",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "brooklynbedding.com",
+      "canonicalDomain": "brooklynbedding.com",
+      "name": "Brooklyn Bedding",
+      "slug": "brooklyn-bedding",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "buffy.co",
+      "canonicalDomain": "buffy.co",
+      "name": "Buffy",
+      "slug": "buffy",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "burlapandbarrel.com",
+      "canonicalDomain": "burlapandbarrel.com",
+      "name": "Burlap & Barrel",
+      "slug": "burlap-and-barrel",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "byoma.com",
+      "canonicalDomain": "byoma.com",
+      "name": "BYOMA",
+      "slug": "byoma",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cadenlane.com",
+      "canonicalDomain": "cadenlane.com",
+      "name": "Caden Lane",
+      "slug": "caden-lane",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "caitlynminimalist.com",
+      "canonicalDomain": "caitlynminimalist.com",
+      "name": "Caitlyn Minimalist",
+      "slug": "caitlyn-minimalist",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "calpaktravel.com",
+      "canonicalDomain": "calpaktravel.com",
+      "name": "CALPAK",
+      "slug": "calpak",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "casper.com",
+      "canonicalDomain": "casper.com",
+      "name": "Casper",
+      "slug": "casper",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gochirp.com",
+      "canonicalDomain": "gochirp.com",
+      "name": "Chirp",
+      "slug": "chirp",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "christydawn.com",
+      "canonicalDomain": "christydawn.com",
+      "name": "Christy Dawn",
+      "slug": "christy-dawn",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "chubbiesshorts.com",
+      "canonicalDomain": "chubbiesshorts.com",
+      "name": "Chubbies",
+      "slug": "chubbies",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cocokind.com",
+      "canonicalDomain": "cocokind.com",
+      "name": "cocokind",
+      "slug": "cocokind",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "coloredorganics.com",
+      "canonicalDomain": "coloredorganics.com",
+      "name": "Colored Organics",
+      "slug": "colored-organics",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "colorfulstandard.com",
+      "canonicalDomain": "colorfulstandard.com",
+      "name": "Colorful Standard",
+      "slug": "colorful-standard",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "colourpop.com",
+      "canonicalDomain": "colourpop.com",
+      "name": "ColourPop",
+      "slug": "colourpop",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "corkcicle.com",
+      "canonicalDomain": "corkcicle.com",
+      "name": "Corkcicle",
+      "slug": "corkcicle",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "corridornyc.com",
+      "canonicalDomain": "corridornyc.com",
+      "name": "Corridor",
+      "slug": "corridor",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cotopaxi.com",
+      "canonicalDomain": "cotopaxi.com",
+      "name": "Cotopaxi",
+      "slug": "cotopaxi",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "staycourant.com",
+      "canonicalDomain": "staycourant.com",
+      "name": "Courant",
+      "slug": "courant",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "coyuchi.com",
+      "canonicalDomain": "coyuchi.com",
+      "name": "Coyuchi",
+      "slug": "coyuchi",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cozyearth.com",
+      "canonicalDomain": "cozyearth.com",
+      "name": "Cozy Earth",
+      "slug": "cozy-earth",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "craftdlondon.com",
+      "canonicalDomain": "craftdlondon.com",
+      "name": "CRAFTD",
+      "slug": "craftd",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "crownaffair.com",
+      "canonicalDomain": "crownaffair.com",
+      "name": "Crown Affair",
+      "slug": "crown-affair",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cultiver.com",
+      "canonicalDomain": "cultiver.com",
+      "name": "Cultiver",
+      "slug": "cultiver",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "curehydration.com",
+      "canonicalDomain": "curehydration.com",
+      "name": "Cure Hydration",
+      "slug": "cure-hydration",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "curiouselixirs.com",
+      "canonicalDomain": "curiouselixirs.com",
+      "name": "Curious Elixirs",
+      "slug": "curious-elixirs",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cutsclothing.com",
+      "canonicalDomain": "cutsclothing.com",
+      "name": "Cuts Clothing",
+      "slug": "cuts-clothing",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "cuyana.com",
+      "canonicalDomain": "cuyana.com",
+      "name": "Cuyana",
+      "slug": "cuyana",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "daehair.com",
+      "canonicalDomain": "daehair.com",
+      "name": "dae",
+      "slug": "dae",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "dagnedover.com",
+      "canonicalDomain": "dagnedover.com",
+      "name": "Dagne Dover",
+      "slug": "dagne-dover",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "drinkdesoi.com",
+      "canonicalDomain": "drinkdesoi.com",
+      "name": "De Soi",
+      "slug": "de-soi",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "dedcool.com",
+      "canonicalDomain": "dedcool.com",
+      "name": "DedCool",
+      "slug": "dedcool",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "diasporaco.com",
+      "canonicalDomain": "diasporaco.com",
+      "name": "Diaspora Co.",
+      "slug": "diaspora-co",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "dieuxskin.com",
+      "canonicalDomain": "dieuxskin.com",
+      "name": "Dieux",
+      "slug": "dieux",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "diffeyewear.com",
+      "canonicalDomain": "diffeyewear.com",
+      "name": "DIFF Eyewear",
+      "slug": "diff-eyewear",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "dirtylabs.com",
+      "canonicalDomain": "dirtylabs.com",
+      "name": "Dirty Labs",
+      "slug": "dirty-labs",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shopdoen.com",
+      "canonicalDomain": "shopdoen.com",
+      "name": "DÔEN",
+      "slug": "d-en",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "drsquatch.com",
+      "canonicalDomain": "drsquatch.com",
+      "name": "Dr. Squatch",
+      "slug": "dr-squatch",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "dropps.com",
+      "canonicalDomain": "dropps.com",
+      "name": "Dropps",
+      "slug": "dropps",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "duckcamp.com",
+      "canonicalDomain": "duckcamp.com",
+      "name": "Duck Camp",
+      "slug": "duck-camp",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "eastfork.com",
+      "canonicalDomain": "eastfork.com",
+      "name": "East Fork",
+      "slug": "east-fork",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ekster.com",
+      "canonicalDomain": "ekster.com",
+      "name": "Ekster",
+      "slug": "ekster",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "electricpicks.com",
+      "canonicalDomain": "electricpicks.com",
+      "name": "Electric Picks",
+      "slug": "electric-picks",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ellisbrooklyn.com",
+      "canonicalDomain": "ellisbrooklyn.com",
+      "name": "Ellis Brooklyn",
+      "slug": "ellis-brooklyn",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ember.com",
+      "canonicalDomain": "ember.com",
+      "name": "Ember",
+      "slug": "ember",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "enroutejewelry.com",
+      "canonicalDomain": "enroutejewelry.com",
+      "name": "En Route",
+      "slug": "en-route",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "enonation.com",
+      "canonicalDomain": "enonation.com",
+      "name": "ENO",
+      "slug": "eno",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "equipfoods.com",
+      "canonicalDomain": "equipfoods.com",
+      "name": "Equip Foods",
+      "slug": "equip-foods",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ergopouch.com",
+      "canonicalDomain": "ergopouch.com",
+      "name": "ergoPouch",
+      "slug": "ergopouch",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ettitude.com",
+      "canonicalDomain": "ettitude.com",
+      "name": "ettitude",
+      "slug": "ettitude",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "everybody.world",
+      "canonicalDomain": "everybody.world",
+      "name": "Everybody.World",
+      "slug": "everybody-world",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "everydaydose.com",
+      "canonicalDomain": "everydaydose.com",
+      "name": "Everyday Dose",
+      "slug": "everyday-dose",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "evryjewels.com",
+      "canonicalDomain": "evryjewels.com",
+      "name": "Evry Jewels",
+      "slug": "evry-jewels",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fablehome.co",
+      "canonicalDomain": "fablehome.co",
+      "name": "Fable",
+      "slug": "fable",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fablepets.com",
+      "canonicalDomain": "fablepets.com",
+      "name": "Fable Pets",
+      "slug": "fable-pets",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fahertybrand.com",
+      "canonicalDomain": "fahertybrand.com",
+      "name": "Faherty",
+      "slug": "faherty",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "farmacybeauty.com",
+      "canonicalDomain": "farmacybeauty.com",
+      "name": "Farmacy",
+      "slug": "farmacy",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fashionnova.com",
+      "canonicalDomain": "fashionnova.com",
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fellowproducts.com",
+      "canonicalDomain": "fellowproducts.com",
+      "name": "Fellow",
+      "slug": "fellow",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fentybeauty.com",
+      "canonicalDomain": "fentybeauty.com",
+      "name": "Fenty Beauty",
+      "slug": "fenty-beauty",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ferapetorganics.com",
+      "canonicalDomain": "ferapetorganics.com",
+      "name": "Fera Pets",
+      "slug": "fera-pets",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "flauntcases.com",
+      "canonicalDomain": "flauntcases.com",
+      "name": "FLAUNT",
+      "slug": "flaunt",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "floydhome.com",
+      "canonicalDomain": "floydhome.com",
+      "name": "Floyd",
+      "slug": "floyd",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fluxfootwear.com",
+      "canonicalDomain": "fluxfootwear.com",
+      "name": "Flux Footwear",
+      "slug": "flux-footwear",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "flybyjing.com",
+      "canonicalDomain": "flybyjing.com",
+      "name": "Fly By Jing",
+      "slug": "fly-by-jing",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "us.foursigmatic.com",
+      "canonicalDomain": "us.foursigmatic.com",
+      "name": "Four Sigmatic",
+      "slug": "four-sigmatic",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "frankandeileen.com",
+      "canonicalDomain": "frankandeileen.com",
+      "name": "Frank & Eileen",
+      "slug": "frank-and-eileen",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fredasalvador.com",
+      "canonicalDomain": "fredasalvador.com",
+      "name": "FREDA SALVADOR",
+      "slug": "freda-salvador",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "freeflyapparel.com",
+      "canonicalDomain": "freeflyapparel.com",
+      "name": "Free Fly",
+      "slug": "free-fly",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "freshcleantees.com",
+      "canonicalDomain": "freshcleantees.com",
+      "name": "Fresh Clean Threads",
+      "slug": "fresh-clean-threads",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fullwellfertility.com",
+      "canonicalDomain": "fullwellfertility.com",
+      "name": "FullWell",
+      "slug": "fullwell",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "drinkghia.com",
+      "canonicalDomain": "drinkghia.com",
+      "name": "Ghia",
+      "slug": "ghia",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gir.co",
+      "canonicalDomain": "gir.co",
+      "name": "GIR",
+      "slug": "gir",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "girlfriend.com",
+      "canonicalDomain": "girlfriend.com",
+      "name": "Girlfriend Collective",
+      "slug": "girlfriend-collective",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gld.com",
+      "canonicalDomain": "gld.com",
+      "name": "GLD",
+      "slug": "gld",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "glossier.com",
+      "canonicalDomain": "glossier.com",
+      "name": "Glossier",
+      "slug": "glossier",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "glowrecipe.com",
+      "canonicalDomain": "glowrecipe.com",
+      "name": "Glow Recipe",
+      "slug": "glow-recipe",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "golde.co",
+      "canonicalDomain": "golde.co",
+      "name": "Golde",
+      "slug": "golde",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "goodr.com",
+      "canonicalDomain": "goodr.com",
+      "name": "goodr",
+      "slug": "goodr",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gorjana.com",
+      "canonicalDomain": "gorjana.com",
+      "name": "gorjana",
+      "slug": "gorjana",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gozney.com",
+      "canonicalDomain": "gozney.com",
+      "name": "Gozney",
+      "slug": "gozney",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gravityblankets.com",
+      "canonicalDomain": "gravityblankets.com",
+      "name": "Gravity Blankets",
+      "slug": "gravity-blankets",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "graza.co",
+      "canonicalDomain": "graza.co",
+      "name": "Graza",
+      "slug": "graza",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "greatjonesgoods.com",
+      "canonicalDomain": "greatjonesgoods.com",
+      "name": "Great Jones",
+      "slug": "great-jones",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "greats.com",
+      "canonicalDomain": "greats.com",
+      "name": "GREATS",
+      "slug": "greats",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "greysonclothiers.com",
+      "canonicalDomain": "greysonclothiers.com",
+      "name": "Greyson Clothiers",
+      "slug": "greyson-clothiers",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gunamuna.com",
+      "canonicalDomain": "gunamuna.com",
+      "name": "gunamuna",
+      "slug": "gunamuna",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "gymshark.com",
+      "canonicalDomain": "gymshark.com",
+      "name": "Gymshark",
+      "slug": "gymshark",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "harimari.com",
+      "canonicalDomain": "harimari.com",
+      "name": "Hari Mari",
+      "slug": "hari-mari",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "harrys.com",
+      "canonicalDomain": "harrys.com",
+      "name": "Harry's",
+      "slug": "harry-s",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hawkinsnewyork.com",
+      "canonicalDomain": "hawkinsnewyork.com",
+      "name": "Hawkins New York",
+      "slug": "hawkins-new-york",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "heathceramics.com",
+      "canonicalDomain": "heathceramics.com",
+      "name": "Heath Ceramics",
+      "slug": "heath-ceramics",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hedleyandbennett.com",
+      "canonicalDomain": "hedleyandbennett.com",
+      "name": "Hedley & Bennett",
+      "slug": "hedley-and-bennett",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hello-bello.com",
+      "canonicalDomain": "hello-bello.com",
+      "name": "Hello Bello",
+      "slug": "hello-bello",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "herbivorebotanicals.com",
+      "canonicalDomain": "herbivorebotanicals.com",
+      "name": "Herbivore Botanicals",
+      "slug": "herbivore-botanicals",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hexclad.com",
+      "canonicalDomain": "hexclad.com",
+      "name": "HexClad",
+      "slug": "hexclad",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "heymaeve.com",
+      "canonicalDomain": "heymaeve.com",
+      "name": "Hey Maeve",
+      "slug": "hey-maeve",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hillhousehome.com",
+      "canonicalDomain": "hillhousehome.com",
+      "name": "Hill House Home",
+      "slug": "hill-house-home",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hilma.co",
+      "canonicalDomain": "hilma.co",
+      "name": "Hilma",
+      "slug": "hilma",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "homesick.com",
+      "canonicalDomain": "homesick.com",
+      "name": "Homesick",
+      "slug": "homesick",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hotelcollection.com",
+      "canonicalDomain": "hotelcollection.com",
+      "name": "Hotel Collection",
+      "slug": "hotel-collection",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "howlerbros.com",
+      "canonicalDomain": "howlerbros.com",
+      "name": "Howler Brothers",
+      "slug": "howler-brothers",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hushblankets.com",
+      "canonicalDomain": "hushblankets.com",
+      "name": "Hush Blankets",
+      "slug": "hush-blankets",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "drinkhydrant.com",
+      "canonicalDomain": "drinkhydrant.com",
+      "name": "Hydrant",
+      "slug": "hydrant",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hyperice.com",
+      "canonicalDomain": "hyperice.com",
+      "name": "Hyperice",
+      "slug": "hyperice",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hyperlitemountaingear.com",
+      "canonicalDomain": "hyperlitemountaingear.com",
+      "name": "Hyperlite Mountain Gear",
+      "slug": "hyperlite-mountain-gear",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "iliabeauty.com",
+      "canonicalDomain": "iliabeauty.com",
+      "name": "ILIA Beauty",
+      "slug": "ilia-beauty",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "innersensebeauty.com",
+      "canonicalDomain": "innersensebeauty.com",
+      "name": "Innersense",
+      "slug": "innersense",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "insideweather.com",
+      "canonicalDomain": "insideweather.com",
+      "name": "Inside Weather",
+      "slug": "inside-weather",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "jamiekay.com",
+      "canonicalDomain": "jamiekay.com",
+      "name": "Jamie Kay",
+      "slug": "jamie-kay",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "jennikayne.com",
+      "canonicalDomain": "jennikayne.com",
+      "name": "Jenni Kayne",
+      "slug": "jenni-kayne",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "thinkjinx.com",
+      "canonicalDomain": "thinkjinx.com",
+      "name": "Jinx",
+      "slug": "jinx",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "jonesroadbeauty.com",
+      "canonicalDomain": "jonesroadbeauty.com",
+      "name": "Jones Road",
+      "slug": "jones-road",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "k18hair.com",
+      "canonicalDomain": "k18hair.com",
+      "name": "K18",
+      "slug": "k18",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kammok.com",
+      "canonicalDomain": "kammok.com",
+      "name": "Kammok",
+      "slug": "kammok",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "katinusa.com",
+      "canonicalDomain": "katinusa.com",
+      "name": "Katin",
+      "slug": "katin",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "keychron.com",
+      "canonicalDomain": "keychron.com",
+      "name": "Keychron",
+      "slug": "keychron",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kineuphorics.com",
+      "canonicalDomain": "kineuphorics.com",
+      "name": "Kin Euphorics",
+      "slug": "kin-euphorics",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "getkion.com",
+      "canonicalDomain": "getkion.com",
+      "name": "Kion",
+      "slug": "kion",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kith.com",
+      "canonicalDomain": "kith.com",
+      "name": "Kith",
+      "slug": "kith",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kizik.com",
+      "canonicalDomain": "kizik.com",
+      "name": "Kizik",
+      "slug": "kizik",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kleankanteen.com",
+      "canonicalDomain": "kleankanteen.com",
+      "name": "Klean Kanteen",
+      "slug": "klean-kanteen",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "knockaround.com",
+      "canonicalDomain": "knockaround.com",
+      "name": "Knockaround",
+      "slug": "knockaround",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "koio.co",
+      "canonicalDomain": "koio.co",
+      "name": "KOIO",
+      "slug": "koio",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kosas.com",
+      "canonicalDomain": "kosas.com",
+      "name": "Kosas",
+      "slug": "kosas",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kotn.com",
+      "canonicalDomain": "kotn.com",
+      "name": "Kotn",
+      "slug": "kotn",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kuiu.com",
+      "canonicalDomain": "kuiu.com",
+      "name": "KUIU",
+      "slug": "kuiu",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kyliecosmetics.com",
+      "canonicalDomain": "kyliecosmetics.com",
+      "name": "Kylie Cosmetics",
+      "slug": "kylie-cosmetics",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "kytebaby.com",
+      "canonicalDomain": "kytebaby.com",
+      "name": "Kyte Baby",
+      "slug": "kyte-baby",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lakepajamas.com",
+      "canonicalDomain": "lakepajamas.com",
+      "name": "Lake Pajamas",
+      "slug": "lake-pajamas",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lalo.com",
+      "canonicalDomain": "lalo.com",
+      "name": "Lalo",
+      "slug": "lalo",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lambwolf.co",
+      "canonicalDomain": "lambwolf.co",
+      "name": "Lambwolf Collective",
+      "slug": "lambwolf-collective",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lespecs.com",
+      "canonicalDomain": "lespecs.com",
+      "name": "Le Specs",
+      "slug": "le-specs",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "liforme.com",
+      "canonicalDomain": "liforme.com",
+      "name": "Liforme",
+      "slug": "liforme",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "linoto.com",
+      "canonicalDomain": "linoto.com",
+      "name": "Linoto",
+      "slug": "linoto",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "liquid-iv.com",
+      "canonicalDomain": "liquid-iv.com",
+      "name": "Liquid I.V.",
+      "slug": "liquid-i-v",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "littlebeast.co",
+      "canonicalDomain": "littlebeast.co",
+      "name": "Little Beast",
+      "slug": "little-beast",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "littlesleepies.com",
+      "canonicalDomain": "littlesleepies.com",
+      "name": "Little Sleepies",
+      "slug": "little-sleepies",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lofree.co",
+      "canonicalDomain": "lofree.co",
+      "name": "Lofree",
+      "slug": "lofree",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "loftie.com",
+      "canonicalDomain": "loftie.com",
+      "name": "Loftie",
+      "slug": "loftie",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "loopycases.com",
+      "canonicalDomain": "loopycases.com",
+      "name": "Loopy Cases",
+      "slug": "loopy-cases",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "losangelesapparel.net",
+      "canonicalDomain": "losangelesapparel.net",
+      "name": "Los Angeles Apparel",
+      "slug": "los-angeles-apparel",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lucyand.co",
+      "canonicalDomain": "lucyand.co",
+      "name": "Lucy & Co.",
+      "slug": "lucy-and-co",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "lunya.co",
+      "canonicalDomain": "lunya.co",
+      "name": "Lunya",
+      "slug": "lunya",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "mackweldon.com",
+      "canonicalDomain": "mackweldon.com",
+      "name": "Mack Weldon",
+      "slug": "mack-weldon",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "magneticme.com",
+      "canonicalDomain": "magneticme.com",
+      "name": "Magnetic Me",
+      "slug": "magnetic-me",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "maidenhome.com",
+      "canonicalDomain": "maidenhome.com",
+      "name": "Maiden Home",
+      "slug": "maiden-home",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "maisonmiru.com",
+      "canonicalDomain": "maisonmiru.com",
+      "name": "Maison Miru",
+      "slug": "maison-miru",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "manduka.com",
+      "canonicalDomain": "manduka.com",
+      "name": "Manduka",
+      "slug": "manduka",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "margauxny.com",
+      "canonicalDomain": "margauxny.com",
+      "name": "Margaux",
+      "slug": "margaux",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "marinelayer.com",
+      "canonicalDomain": "marinelayer.com",
+      "name": "Marine Layer",
+      "slug": "marine-layer",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "matadorup.com",
+      "canonicalDomain": "matadorup.com",
+      "name": "Matador",
+      "slug": "matador",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "matethelabel.com",
+      "canonicalDomain": "matethelabel.com",
+      "name": "MATE the Label",
+      "slug": "mate-the-label",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "materialkitchen.com",
+      "canonicalDomain": "materialkitchen.com",
+      "name": "Material Kitchen",
+      "slug": "material-kitchen",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "maxbone.com",
+      "canonicalDomain": "maxbone.com",
+      "name": "maxbone",
+      "slug": "maxbone",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "melindamaria.com",
+      "canonicalDomain": "melindamaria.com",
+      "name": "Melinda Maria",
+      "slug": "melinda-maria",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "miansai.com",
+      "canonicalDomain": "miansai.com",
+      "name": "Miansai",
+      "slug": "miansai",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "miir.com",
+      "canonicalDomain": "miir.com",
+      "name": "MiiR",
+      "slug": "miir",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "milkmakeup.com",
+      "canonicalDomain": "milkmakeup.com",
+      "name": "Milk Makeup",
+      "slug": "milk-makeup",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ministryofsupply.com",
+      "canonicalDomain": "ministryofsupply.com",
+      "name": "Ministry of Supply",
+      "slug": "ministry-of-supply",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "misen.com",
+      "canonicalDomain": "misen.com",
+      "name": "Misen",
+      "slug": "misen",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "missoma.com",
+      "canonicalDomain": "missoma.com",
+      "name": "Missoma",
+      "slug": "missoma",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "hellomockingbird.com",
+      "canonicalDomain": "hellomockingbird.com",
+      "name": "Mockingbird",
+      "slug": "mockingbird",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shopmoment.com",
+      "canonicalDomain": "shopmoment.com",
+      "name": "Moment",
+      "slug": "moment",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "livemomentous.com",
+      "canonicalDomain": "livemomentous.com",
+      "name": "Momentous",
+      "slug": "momentous",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shop.momofuku.com",
+      "canonicalDomain": "shop.momofuku.com",
+      "name": "Momofuku Goods",
+      "slug": "momofuku-goods",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "monos.com",
+      "canonicalDomain": "monos.com",
+      "name": "Monos",
+      "slug": "monos",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "moonjuice.com",
+      "canonicalDomain": "moonjuice.com",
+      "name": "Moon Juice",
+      "slug": "moon-juice",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "mous.co",
+      "canonicalDomain": "mous.co",
+      "name": "Mous",
+      "slug": "mous",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "mudwtr.com",
+      "canonicalDomain": "mudwtr.com",
+      "name": "MUD/WTR",
+      "slug": "mud-wtr",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "mushie.com",
+      "canonicalDomain": "mushie.com",
+      "name": "mushie",
+      "slug": "mushie",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "mvmt.com",
+      "canonicalDomain": "mvmt.com",
+      "name": "MVMT",
+      "slug": "mvmt",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nativecos.com",
+      "canonicalDomain": "nativecos.com",
+      "name": "Native",
+      "slug": "native",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nativepet.com",
+      "canonicalDomain": "nativepet.com",
+      "name": "Native Pet",
+      "slug": "native-pet",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nativeunion.com",
+      "canonicalDomain": "nativeunion.com",
+      "name": "Native Union",
+      "slug": "native-union",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "naturium.com",
+      "canonicalDomain": "naturium.com",
+      "name": "Naturium",
+      "slug": "naturium",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "necessaire.com",
+      "canonicalDomain": "necessaire.com",
+      "name": "Nécessaire",
+      "slug": "n-cessaire",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nisolo.com",
+      "canonicalDomain": "nisolo.com",
+      "name": "Nisolo",
+      "slug": "nisolo",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "noahny.com",
+      "canonicalDomain": "noahny.com",
+      "name": "Noah",
+      "slug": "noah",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nobullproject.com",
+      "canonicalDomain": "nobullproject.com",
+      "name": "NOBULL",
+      "slug": "nobull",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nuggetcomfort.com",
+      "canonicalDomain": "nuggetcomfort.com",
+      "name": "Nugget",
+      "slug": "nugget",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "nuunlife.com",
+      "canonicalDomain": "nuunlife.com",
+      "name": "Nuun",
+      "slug": "nuun",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "olaplex.com",
+      "canonicalDomain": "olaplex.com",
+      "name": "OLAPLEX",
+      "slug": "olaplex",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "drinkolipop.com",
+      "canonicalDomain": "drinkolipop.com",
+      "name": "OLIPOP",
+      "slug": "olipop",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "olukai.com",
+      "canonicalDomain": "olukai.com",
+      "name": "OluKai",
+      "slug": "olukai",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "oofos.com",
+      "canonicalDomain": "oofos.com",
+      "name": "OOFOS",
+      "slug": "oofos",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ooni.com",
+      "canonicalDomain": "ooni.com",
+      "name": "Ooni",
+      "slug": "ooni",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "openfarmpet.com",
+      "canonicalDomain": "openfarmpet.com",
+      "name": "Open Farm",
+      "slug": "open-farm",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "orbitkey.com",
+      "canonicalDomain": "orbitkey.com",
+      "name": "Orbitkey",
+      "slug": "orbitkey",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "organicbasics.com",
+      "canonicalDomain": "organicbasics.com",
+      "name": "Organic Basics",
+      "slug": "organic-basics",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "oseamalibu.com",
+      "canonicalDomain": "oseamalibu.com",
+      "name": "OSEA Malibu",
+      "slug": "osea-malibu",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "otherland.com",
+      "canonicalDomain": "otherland.com",
+      "name": "Otherland",
+      "slug": "otherland",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "theouai.com",
+      "canonicalDomain": "theouai.com",
+      "name": "OUAI",
+      "slug": "ouai",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "fromourplace.com",
+      "canonicalDomain": "fromourplace.com",
+      "name": "Our Place",
+      "slug": "our-place",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "outdoorvoices.com",
+      "canonicalDomain": "outdoorvoices.com",
+      "name": "Outdoor Voices",
+      "slug": "outdoor-voices",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "outerknown.com",
+      "canonicalDomain": "outerknown.com",
+      "name": "Outerknown",
+      "slug": "outerknown",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "oystercooler.com",
+      "canonicalDomain": "oystercooler.com",
+      "name": "Oyster",
+      "slug": "oyster",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "pacificabeauty.com",
+      "canonicalDomain": "pacificabeauty.com",
+      "name": "Pacifica",
+      "slug": "pacifica",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "parachutehome.com",
+      "canonicalDomain": "parachutehome.com",
+      "name": "Parachute",
+      "slug": "parachute",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "patternbeauty.com",
+      "canonicalDomain": "patternbeauty.com",
+      "name": "PATTERN Beauty",
+      "slug": "pattern-beauty",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "pavoi.com",
+      "canonicalDomain": "pavoi.com",
+      "name": "PAVOI",
+      "slug": "pavoi",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "peachandlily.com",
+      "canonicalDomain": "peachandlily.com",
+      "name": "Peach & Lily",
+      "slug": "peach-and-lily",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "peakdesign.com",
+      "canonicalDomain": "peakdesign.com",
+      "name": "Peak Design",
+      "slug": "peak-design",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "buypeel.com",
+      "canonicalDomain": "buypeel.com",
+      "name": "PEEL",
+      "slug": "peel",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "perelelhealth.com",
+      "canonicalDomain": "perelelhealth.com",
+      "name": "Perelel",
+      "slug": "perelel",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "pigletinbed.com",
+      "canonicalDomain": "pigletinbed.com",
+      "name": "Piglet in Bed",
+      "slug": "piglet-in-bed",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "pipettebaby.com",
+      "canonicalDomain": "pipettebaby.com",
+      "name": "Pipette",
+      "slug": "pipette",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ipitaka.com",
+      "canonicalDomain": "ipitaka.com",
+      "name": "PITAKA",
+      "slug": "pitaka",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "plae.co",
+      "canonicalDomain": "plae.co",
+      "name": "PLAE",
+      "slug": "plae",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "poshpeanut.com",
+      "canonicalDomain": "poshpeanut.com",
+      "name": "Posh Peanut",
+      "slug": "posh-peanut",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "primary.com",
+      "canonicalDomain": "primary.com",
+      "name": "Primary",
+      "slug": "primary",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "us.princesspolly.com",
+      "canonicalDomain": "us.princesspolly.com",
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "quadlockcase.com",
+      "canonicalDomain": "quadlockcase.com",
+      "name": "Quad Lock",
+      "slug": "quad-lock",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "quay.com",
+      "canonicalDomain": "quay.com",
+      "name": "Quay",
+      "slug": "quay",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "quiettownhome.com",
+      "canonicalDomain": "quiettownhome.com",
+      "name": "Quiet Town",
+      "slug": "quiet-town",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rails.com",
+      "canonicalDomain": "rails.com",
+      "name": "Rails",
+      "slug": "rails",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rarebeauty.com",
+      "canonicalDomain": "rarebeauty.com",
+      "name": "Rare Beauty",
+      "slug": "rare-beauty",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rayconglobal.com",
+      "canonicalDomain": "rayconglobal.com",
+      "name": "Raycon",
+      "slug": "raycon",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "revivalrugs.com",
+      "canonicalDomain": "revivalrugs.com",
+      "name": "Revival Rugs",
+      "slug": "revival-rugs",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rhodeskin.com",
+      "canonicalDomain": "rhodeskin.com",
+      "name": "rhode",
+      "slug": "rhode",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rifrufqueens.com",
+      "canonicalDomain": "rifrufqueens.com",
+      "name": "RIFRUF",
+      "slug": "rifruf",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ringconcierge.com",
+      "canonicalDomain": "ringconcierge.com",
+      "name": "Ring Concierge",
+      "slug": "ring-concierge",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ritual.com",
+      "canonicalDomain": "ritual.com",
+      "name": "Ritual",
+      "slug": "ritual",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rmsbeauty.com",
+      "canonicalDomain": "rmsbeauty.com",
+      "name": "RMS Beauty",
+      "slug": "rms-beauty",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "roark.com",
+      "canonicalDomain": "roark.com",
+      "name": "Roark",
+      "slug": "roark",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "roseinc.com",
+      "canonicalDomain": "roseinc.com",
+      "name": "Rose Inc",
+      "slug": "rose-inc",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rothys.com",
+      "canonicalDomain": "rothys.com",
+      "name": "Rothy's",
+      "slug": "rothy-s",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rowingblazers.com",
+      "canonicalDomain": "rowingblazers.com",
+      "name": "Rowing Blazers",
+      "slug": "rowing-blazers",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ruffwear.com",
+      "canonicalDomain": "ruffwear.com",
+      "name": "Ruffwear",
+      "slug": "ruffwear",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "rumpl.com",
+      "canonicalDomain": "rumpl.com",
+      "name": "Rumpl",
+      "slug": "rumpl",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ryzesuperfoods.com",
+      "canonicalDomain": "ryzesuperfoods.com",
+      "name": "RYZE",
+      "slug": "ryze",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "saiehello.com",
+      "canonicalDomain": "saiehello.com",
+      "name": "Saie",
+      "slug": "saie",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "saltair.com",
+      "canonicalDomain": "saltair.com",
+      "name": "Saltair",
+      "slug": "saltair",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "satechi.net",
+      "canonicalDomain": "satechi.net",
+      "name": "Satechi",
+      "slug": "satechi",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "schoolhouse.com",
+      "canonicalDomain": "schoolhouse.com",
+      "name": "Schoolhouse",
+      "slug": "schoolhouse",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shamelesspets.com",
+      "canonicalDomain": "shamelesspets.com",
+      "name": "Shameless Pets",
+      "slug": "shameless-pets",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "sharge.com",
+      "canonicalDomain": "sharge.com",
+      "name": "SHARGE",
+      "slug": "sharge",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "skratchlabs.com",
+      "canonicalDomain": "skratchlabs.com",
+      "name": "Skratch Labs",
+      "slug": "skratch-labs",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "skullcandy.com",
+      "canonicalDomain": "skullcandy.com",
+      "name": "Skullcandy",
+      "slug": "skullcandy",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "smartish.com",
+      "canonicalDomain": "smartish.com",
+      "name": "Smartish",
+      "slug": "smartish",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "snowe.co",
+      "canonicalDomain": "snowe.co",
+      "name": "SNOWE",
+      "slug": "snowe",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "soldejaneiro.com",
+      "canonicalDomain": "soldejaneiro.com",
+      "name": "Sol de Janeiro",
+      "slug": "sol-de-janeiro",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "sollybaby.com",
+      "canonicalDomain": "sollybaby.com",
+      "name": "Solly Baby",
+      "slug": "solly-baby",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "soludos.com",
+      "canonicalDomain": "soludos.com",
+      "name": "Soludos",
+      "slug": "soludos",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "shopsonix.com",
+      "canonicalDomain": "shopsonix.com",
+      "name": "Sonix",
+      "slug": "sonix",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "stance.com",
+      "canonicalDomain": "stance.com",
+      "name": "Stance",
+      "slug": "stance",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "stanley1913.com",
+      "canonicalDomain": "stanley1913.com",
+      "name": "Stanley",
+      "slug": "stanley",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "stasherbag.com",
+      "canonicalDomain": "stasherbag.com",
+      "name": "Stasher",
+      "slug": "stasher",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "stateandliberty.com",
+      "canonicalDomain": "stateandliberty.com",
+      "name": "State and Liberty",
+      "slug": "state-and-liberty",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "statebags.com",
+      "canonicalDomain": "statebags.com",
+      "name": "STATE Bags",
+      "slug": "state-bags",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "status.co",
+      "canonicalDomain": "status.co",
+      "name": "Status Audio",
+      "slug": "status-audio",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "stoneandstrand.com",
+      "canonicalDomain": "stoneandstrand.com",
+      "name": "Stone and Strand",
+      "slug": "stone-and-strand",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "studs.com",
+      "canonicalDomain": "studs.com",
+      "name": "Studs",
+      "slug": "studs",
+      "category": "Jewelry",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "sundayriley.com",
+      "canonicalDomain": "sundayriley.com",
+      "name": "Sunday Riley",
+      "slug": "sunday-riley",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "sundayscaries.com",
+      "canonicalDomain": "sundayscaries.com",
+      "name": "Sunday Scaries",
+      "slug": "sunday-scaries",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "sunski.com",
+      "canonicalDomain": "sunski.com",
+      "name": "Sunski",
+      "slug": "sunski",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "supergoop.com",
+      "canonicalDomain": "supergoop.com",
+      "name": "Supergoop!",
+      "slug": "supergoop",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "supply.co",
+      "canonicalDomain": "supply.co",
+      "name": "Supply",
+      "slug": "supply",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "taftclothing.com",
+      "canonicalDomain": "taftclothing.com",
+      "name": "TAFT",
+      "slug": "taft",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tatcha.com",
+      "canonicalDomain": "tatcha.com",
+      "name": "Tatcha",
+      "slug": "tatcha",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "taylorstitch.com",
+      "canonicalDomain": "taylorstitch.com",
+      "name": "Taylor Stitch",
+      "slug": "taylor-stitch",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "teacollection.com",
+      "canonicalDomain": "teacollection.com",
+      "name": "Tea Collection",
+      "slug": "tea-collection",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tecovas.com",
+      "canonicalDomain": "tecovas.com",
+      "name": "Tecovas",
+      "slug": "tecovas",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tenlittle.com",
+      "canonicalDomain": "tenlittle.com",
+      "name": "Ten Little",
+      "slug": "ten-little",
+      "category": "Kids",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tenthousand.cc",
+      "canonicalDomain": "tenthousand.cc",
+      "name": "Ten Thousand",
+      "slug": "ten-thousand",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tentree.com",
+      "canonicalDomain": "tentree.com",
+      "name": "Tentree",
+      "slug": "tentree",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "thenueco.com",
+      "canonicalDomain": "thenueco.com",
+      "name": "The Nue Co",
+      "slug": "the-nue-co",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "therabody.com",
+      "canonicalDomain": "therabody.com",
+      "name": "Therabody",
+      "slug": "therabody",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "thermoworks.com",
+      "canonicalDomain": "thermoworks.com",
+      "name": "ThermoWorks",
+      "slug": "thermoworks",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "thursdayboots.com",
+      "canonicalDomain": "thursdayboots.com",
+      "name": "Thursday Boot Co.",
+      "slug": "thursday-boot-co",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "toddsnyder.com",
+      "canonicalDomain": "toddsnyder.com",
+      "name": "Todd Snyder",
+      "slug": "todd-snyder",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tommyjohn.com",
+      "canonicalDomain": "tommyjohn.com",
+      "name": "Tommy John",
+      "slug": "tommy-john",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "topodesigns.com",
+      "canonicalDomain": "topodesigns.com",
+      "name": "Topo Designs",
+      "slug": "topo-designs",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "totalleecase.com",
+      "canonicalDomain": "totalleecase.com",
+      "name": "Totallee",
+      "slug": "totallee",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tower28beauty.com",
+      "canonicalDomain": "tower28beauty.com",
+      "name": "Tower 28",
+      "slug": "tower-28",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "transparentlabs.com",
+      "canonicalDomain": "transparentlabs.com",
+      "name": "Transparent Labs",
+      "slug": "transparent-labs",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "truebotanicals.com",
+      "canonicalDomain": "truebotanicals.com",
+      "name": "True Botanicals",
+      "slug": "true-botanicals",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "trueclassictees.com",
+      "canonicalDomain": "trueclassictees.com",
+      "name": "True Classic",
+      "slug": "true-classic",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tuftandneedle.com",
+      "canonicalDomain": "tuftandneedle.com",
+      "name": "Tuft & Needle",
+      "slug": "tuft-and-needle",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "tuftandpaw.com",
+      "canonicalDomain": "tuftandpaw.com",
+      "name": "Tuft + Paw",
+      "slug": "tuft-paw",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "twelvesouth.com",
+      "canonicalDomain": "twelvesouth.com",
+      "name": "Twelve South",
+      "slug": "twelve-south",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "ugmonk.com",
+      "canonicalDomain": "ugmonk.com",
+      "name": "Ugmonk",
+      "slug": "ugmonk",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "universalstandard.com",
+      "canonicalDomain": "universalstandard.com",
+      "name": "Universal Standard",
+      "slug": "universal-standard",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "untuckit.com",
+      "canonicalDomain": "untuckit.com",
+      "name": "UNTUCKit",
+      "slug": "untuckit",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "verbproducts.com",
+      "canonicalDomain": "verbproducts.com",
+      "name": "Verb",
+      "slug": "verb",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "versedskin.com",
+      "canonicalDomain": "versedskin.com",
+      "name": "Versed",
+      "slug": "versed",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "vessi.com",
+      "canonicalDomain": "vessi.com",
+      "name": "Vessi",
+      "slug": "vessi",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "vissla.com",
+      "canonicalDomain": "vissla.com",
+      "name": "Vissla",
+      "slug": "vissla",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "vitruvi.com",
+      "canonicalDomain": "vitruvi.com",
+      "name": "Vitruvi",
+      "slug": "vitruvi",
+      "category": "Home",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "wellpeople.com",
+      "canonicalDomain": "wellpeople.com",
+      "name": "W3LL PEOPLE",
+      "slug": "w3ll-people",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "wandrd.com",
+      "canonicalDomain": "wandrd.com",
+      "name": "WANDRD",
+      "slug": "wandrd",
+      "category": "Outdoor",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "welleco.com",
+      "canonicalDomain": "welleco.com",
+      "name": "WelleCo",
+      "slug": "welleco",
+      "category": "Wellness",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "wildearth.com",
+      "canonicalDomain": "wildearth.com",
+      "name": "Wild Earth",
+      "slug": "wild-earth",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "wildone.com",
+      "canonicalDomain": "wildone.com",
+      "name": "Wild One",
+      "slug": "wild-one",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "wildflowercases.com",
+      "canonicalDomain": "wildflowercases.com",
+      "name": "Wildflower Cases",
+      "slug": "wildflower-cases",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "winkylux.com",
+      "canonicalDomain": "winkylux.com",
+      "name": "Winky Lux",
+      "slug": "winky-lux",
+      "category": "Beauty",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "wyze.com",
+      "canonicalDomain": "wyze.com",
+      "name": "Wyze",
+      "slug": "wyze",
+      "category": "Tech Accessories",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "xeroshoes.com",
+      "canonicalDomain": "xeroshoes.com",
+      "name": "Xero Shoes",
+      "slug": "xero-shoes",
+      "category": "Footwear",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "yearandday.com",
+      "canonicalDomain": "yearandday.com",
+      "name": "Year & Day",
+      "slug": "year-and-day",
+      "category": "Kitchen",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "youngla.com",
+      "canonicalDomain": "youngla.com",
+      "name": "YoungLA",
+      "slug": "youngla",
+      "category": "Apparel",
+      "source": "shopify",
+      "status": "live"
+    },
+    {
+      "domain": "zeedog.com",
+      "canonicalDomain": "zeedog.com",
+      "name": "Zee.Dog",
+      "slug": "zee-dog",
+      "category": "Pets",
+      "source": "shopify",
+      "status": "live"
+    }
+  ]
+}

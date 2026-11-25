@@ -1,0 +1,732 @@
+{
+  "updatedAt": "2026-11-25T14:29:47.818Z",
+  "brands": [
+    {
+      "domain": "bestbuy.com",
+      "name": "Best Buy",
+      "slug": "best-buy",
+      "category": "Tech Accessories",
+      "source": "bestbuy",
+      "networkName": "Best Buy Products API",
+      "envKeysNeeded": [
+        "BESTBUY_API_KEY"
+      ],
+      "signupUrl": "https://developer.bestbuy.com/"
+    },
+    {
+      "domain": "walmart.com",
+      "name": "Walmart",
+      "slug": "walmart",
+      "category": "Home",
+      "source": "walmart",
+      "networkName": "Walmart Affiliate API",
+      "envKeysNeeded": [
+        "WALMART_AFFILIATE_CONSUMER_ID",
+        "WALMART_AFFILIATE_PRIVATE_KEY"
+      ],
+      "signupUrl": "https://affiliates.walmart.com/"
+    },
+    {
+      "domain": "amazon.com",
+      "name": "Amazon",
+      "slug": "amazon",
+      "category": "Tech Accessories",
+      "source": "amazon",
+      "networkName": "Amazon Associates / PA-API",
+      "envKeysNeeded": [
+        "AMAZON_PAAPI_ACCESS_KEY",
+        "AMAZON_PAAPI_SECRET_KEY",
+        "AMAZON_ASSOCIATE_TAG"
+      ],
+      "signupUrl": "https://affiliate-program.amazon.com/"
+    },
+    {
+      "domain": "target.com",
+      "name": "Target",
+      "slug": "target",
+      "category": "Home",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "adidas.com",
+      "name": "Adidas",
+      "slug": "adidas",
+      "category": "Footwear",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "lululemon.com",
+      "name": "Lululemon",
+      "slug": "lululemon",
+      "category": "Apparel",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "ulta.com",
+      "name": "Ulta Beauty",
+      "slug": "ulta-beauty",
+      "category": "Beauty",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "dyson.com",
+      "name": "Dyson",
+      "slug": "dyson",
+      "category": "Home",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "apple.com",
+      "name": "Apple",
+      "slug": "apple",
+      "category": "Tech Accessories",
+      "source": "impact",
+      "networkName": "Impact / Partnerize",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "levi.com",
+      "name": "Levi's",
+      "slug": "levis",
+      "category": "Apparel",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "rei.com",
+      "name": "REI",
+      "slug": "rei",
+      "category": "Outdoor",
+      "source": "impact",
+      "networkName": "Impact / AvantLink",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "patagonia.com",
+      "name": "Patagonia",
+      "slug": "patagonia",
+      "category": "Outdoor",
+      "source": "impact",
+      "networkName": "Impact / AvantLink",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "newbalance.com",
+      "name": "New Balance",
+      "slug": "new-balance",
+      "category": "Footwear",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "chewy.com",
+      "name": "Chewy",
+      "slug": "chewy",
+      "category": "Pets",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "sonos.com",
+      "name": "Sonos",
+      "slug": "sonos",
+      "category": "Tech Accessories",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "bose.com",
+      "name": "Bose",
+      "slug": "bose",
+      "category": "Tech Accessories",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "samsung.com",
+      "name": "Samsung",
+      "slug": "samsung",
+      "category": "Tech Accessories",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "yeti.com",
+      "name": "YETI",
+      "slug": "yeti",
+      "category": "Outdoor",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "everlane.com",
+      "name": "Everlane",
+      "slug": "everlane",
+      "category": "Apparel",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "madewell.com",
+      "name": "Madewell",
+      "slug": "madewell",
+      "category": "Apparel",
+      "source": "impact",
+      "networkName": "Impact",
+      "envKeysNeeded": [
+        "IMPACT_ACCOUNT_SID",
+        "IMPACT_AUTH_TOKEN"
+      ],
+      "signupUrl": "https://app.impact.com/signup/partner"
+    },
+    {
+      "domain": "nike.com",
+      "name": "Nike",
+      "slug": "nike",
+      "category": "Footwear",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "sephora.com",
+      "name": "Sephora",
+      "slug": "sephora",
+      "category": "Beauty",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "nordstrom.com",
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "macys.com",
+      "name": "Macy's",
+      "slug": "macys",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "bloomingdales.com",
+      "name": "Bloomingdale's",
+      "slug": "bloomingdales",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "anthropologie.com",
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "category": "Home",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "urbanoutfitters.com",
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "freepeople.com",
+      "name": "Free People",
+      "slug": "free-people",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "hoka.com",
+      "name": "HOKA",
+      "slug": "hoka",
+      "category": "Footwear",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "on.com",
+      "name": "On Running",
+      "slug": "on-running",
+      "category": "Footwear",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "asics.com",
+      "name": "ASICS",
+      "slug": "asics",
+      "category": "Footwear",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "jcrew.com",
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "category": "Apparel",
+      "source": "rakuten",
+      "networkName": "Rakuten Advertising",
+      "envKeysNeeded": [
+        "RAKUTEN_CLIENT_ID",
+        "RAKUTEN_CLIENT_SECRET",
+        "RAKUTEN_SID"
+      ],
+      "signupUrl": "https://rakutenadvertising.com/publisher/"
+    },
+    {
+      "domain": "homedepot.com",
+      "name": "The Home Depot",
+      "slug": "home-depot",
+      "category": "Home",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "lowes.com",
+      "name": "Lowe's",
+      "slug": "lowes",
+      "category": "Home",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "williams-sonoma.com",
+      "name": "Williams Sonoma",
+      "slug": "williams-sonoma",
+      "category": "Kitchen",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "potterybarn.com",
+      "name": "Pottery Barn",
+      "slug": "pottery-barn",
+      "category": "Home",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "westelm.com",
+      "name": "West Elm",
+      "slug": "west-elm",
+      "category": "Home",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "crateandbarrel.com",
+      "name": "Crate & Barrel",
+      "slug": "crate-and-barrel",
+      "category": "Kitchen",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "gap.com",
+      "name": "Gap",
+      "slug": "gap",
+      "category": "Apparel",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "oldnavy.com",
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "category": "Kids",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "bananarepublic.com",
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "category": "Apparel",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "converse.com",
+      "name": "Converse",
+      "slug": "converse",
+      "category": "Footwear",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "brooksrunning.com",
+      "name": "Brooks Running",
+      "slug": "brooks-running",
+      "category": "Footwear",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "petco.com",
+      "name": "Petco",
+      "slug": "petco",
+      "category": "Pets",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "underarmour.com",
+      "name": "Under Armour",
+      "slug": "under-armour",
+      "category": "Apparel",
+      "source": "cj",
+      "networkName": "CJ Affiliate",
+      "envKeysNeeded": [
+        "CJ_PERSONAL_ACCESS_TOKEN",
+        "CJ_COMPANY_ID"
+      ],
+      "signupUrl": "https://signup.cj.com/member/signup/publisher/"
+    },
+    {
+      "domain": "etsy.com",
+      "name": "Etsy",
+      "slug": "etsy",
+      "category": "Home",
+      "source": "awin",
+      "networkName": "Awin",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup"
+    },
+    {
+      "domain": "wayfair.com",
+      "name": "Wayfair",
+      "slug": "wayfair",
+      "category": "Home",
+      "source": "awin",
+      "networkName": "Awin / CJ",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup"
+    },
+    {
+      "domain": "hm.com",
+      "name": "H&M",
+      "slug": "hm",
+      "category": "Apparel",
+      "source": "awin",
+      "networkName": "Awin",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup"
+    },
+    {
+      "domain": "abercrombie.com",
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-and-fitch",
+      "category": "Apparel",
+      "source": "awin",
+      "networkName": "Awin",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup"
+    },
+    {
+      "domain": "cb2.com",
+      "name": "CB2",
+      "slug": "cb2",
+      "category": "Home",
+      "source": "awin",
+      "networkName": "Awin / CJ",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup"
+    },
+    {
+      "domain": "pandora.net",
+      "name": "Pandora",
+      "slug": "pandora",
+      "category": "Jewelry",
+      "source": "awin",
+      "networkName": "Awin",
+      "envKeysNeeded": [
+        "AWIN_API_TOKEN",
+        "AWIN_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://ui.awin.com/publisher-signup"
+    },
+    {
+      "domain": "uniqlo.com",
+      "name": "UNIQLO",
+      "slug": "uniqlo",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/"
+    },
+    {
+      "domain": "zara.com",
+      "name": "Zara",
+      "slug": "zara",
+      "category": "Apparel",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/"
+    },
+    {
+      "domain": "tiffany.com",
+      "name": "Tiffany & Co.",
+      "slug": "tiffany",
+      "category": "Jewelry",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/"
+    },
+    {
+      "domain": "ikea.com",
+      "name": "IKEA",
+      "slug": "ikea",
+      "category": "Home",
+      "source": "skimlinks",
+      "networkName": "Skimlinks",
+      "envKeysNeeded": [
+        "SKIMLINKS_API_KEY",
+        "SKIMLINKS_PUBLISHER_ID"
+      ],
+      "signupUrl": "https://www.skimlinks.com/signup/"
+    }
+  ]
+}

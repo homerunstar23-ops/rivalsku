@@ -184,6 +184,24 @@ export function getDb(): Database.Database {
       stripe_session_id TEXT,
       created_at TEXT NOT NULL
     );
+
+    CREATE TABLE IF NOT EXISTS deal_clicks (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      deal_id TEXT NOT NULL,
+      brand_domain TEXT NOT NULL,
+      brand_name TEXT,
+      target_url TEXT NOT NULL,
+      affiliate_network TEXT NOT NULL,
+      referer TEXT,
+      created_at TEXT NOT NULL
+    );
+
+    CREATE TABLE IF NOT EXISTS deal_subscribers (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      email TEXT NOT NULL UNIQUE,
+      category TEXT,
+      created_at TEXT NOT NULL
+    );
   `);
 
   const settingsCount = db
