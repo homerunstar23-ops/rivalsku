@@ -88,10 +88,10 @@ export function BrandDirectoryView({
         {adapters.map((a) => (
           <div
             key={a.source}
-            className="flex flex-col justify-between rounded-2xl border border-[#EAEAE2] bg-white p-4"
+            className="flex min-w-0 flex-col justify-between rounded-2xl border border-[#EAEAE2] bg-white p-4"
           >
             <div className="flex items-start justify-between gap-2">
-              <div>
+              <div className="min-w-0">
                 <h2 className="text-sm font-semibold text-[#111111]">
                   {a.label}
                 </h2>
@@ -111,7 +111,7 @@ export function BrandDirectoryView({
               </span>
             </div>
             {a.requiredEnvVars.length > 0 && (
-              <p className="mt-2.5 truncate font-mono text-[11px] text-[#888880]">
+              <p className="mt-2.5 break-all font-mono text-[11px] text-[#888880]">
                 Keys: {a.requiredEnvVars.join(", ")}
               </p>
             )}
